@@ -31,7 +31,8 @@ B.Sc. Forest Enginneering
 
 ### Journals
 
-`1994`
+`2020`
+
 **Salas-Eljatib C**. 2020. *Height growth–rate at a given height: a
 mathematical perspective for forest productivity*. **Ecological
 Modelling** 431 (`https://doi.org/10.1016/j.ecolmodel.2020.109198`).
@@ -81,6 +82,6 @@ Name of Award, Organization
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2020 -->
 
 
