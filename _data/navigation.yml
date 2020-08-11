@@ -1,3 +1,5 @@
+toc2:
+
 - title: Home
   url: /
 
@@ -5,9 +7,16 @@
   url: /pubs/
 
 - title: Research
-  url: /resproj/
 
-- title: Education
+  subfolderitems:
+  
+      - page: Research lines 
+        url: /reslin/
+        
+      - page: Research projects
+        url: /resproj/
+
+- title: Education 
   url: /educa/
 
 - title: Coursework
