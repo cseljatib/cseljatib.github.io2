@@ -1,19 +1,16 @@
 # Site navigation links
-- title: Home
-  url: /  
-  sub:
-    - title: Education
-      href: /educa/
-      
-- title: Publications
-  url: /pubs/
-
-- title: Research
-  url: /cv/
-  
-      
-- title: Workshops
-  url: /workshops/
-
-- title: Coursework
-  url: /coursework/
+toc:
+ - title: Home
+ subfolderitems:
+    - page: Index
+      url: /  
+    - page: Education
+      url: /educa/
+  - title: Publications
+    url: /pubs/
+  - title: Research
+    url: /cv/        
+  - title: Workshops
+    url: /workshops/
+  - title: Coursework
+    url: /coursework/
