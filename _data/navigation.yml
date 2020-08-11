@@ -1,7 +1,10 @@
 # Site navigation links
 - title: Home
   url: /
-
+  sub:
+    - title: "Education"
+      href: "/educa/"
+      
 - title: Publications
   url: /pubs/
 
