@@ -3,10 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Welcome to my website, I am a Full Professor of Biometrics at the Facultad de Ciencias and the Director of the [Center for Ecosystem Modelling and Monitoring](https://cem.umayor.cl) at the [Universidad Mayor](https://umayor.cl) in Santiago, Chile.
+
+ 
+
+Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://sfr.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [My oldwebsite](https://cseljatib.wixsite.com/biometria)
+- [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
