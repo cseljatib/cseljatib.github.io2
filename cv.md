@@ -32,11 +32,14 @@ B.Sc. Forest Enginneering
 ### Journals
 
 `1994`
-\item[(51.)]
-\textbf{Salas-Eljatib C}.  2020. 
-{\it Height growth--rate at a given height: a
-  mathematical perspective for forest productivity}.
-  \textbf{Ecological Modelling} 431 ({\tt https://doi.org/10.1016/j.ecolmodel.2020.109198}).
+**Salas-Eljatib C**. 2020. *Height growth–rate at a given height: a
+mathematical perspective for forest productivity*. **Ecological
+Modelling** 431 (`https://doi.org/10.1016/j.ecolmodel.2020.109198`).
+
+**Salas-Eljatib C**, Weiskittel AR. 2020. *On studying the patterns of
+individual-based tree mortality in natural forests: a modelling
+analysis*. **Forest Ecology and Management** 475
+(`https://doi.org/10.1016/j.foreco.2020.118369`).
 
 `1994`
 Article Title, Journal Title
