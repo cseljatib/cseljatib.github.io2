@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Christian Salas-Eljatib
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "A simple website to show you who am I"
   email: cseljatib@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: cseljatib
+  twitter: #cseljatib
   linkedin: #username
-  github: cseljatib
+  github: #cseljatib
   orcid: 0000-0002-8468-0829
   researchgate: Christian_Salas-Eljatib
   mendeley: #username
