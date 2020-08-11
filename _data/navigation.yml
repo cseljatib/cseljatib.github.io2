@@ -1,14 +1,14 @@
-# Site navigation links
-toc: 
-  - title: Home
-   - title: Publications
-     url: /pubs/
-   - title: Research
-     url: /cv/         
-   - title: Workshops
-     url: /workshops/ 
-     subfolderitems: 
-        - page: Education
-        url: /educa/
-   - title: Coursework
-     url: /coursework/
+- title: Home
+  url: /
+
+- title: Publications
+  url: /pubs/
+
+- title: Research
+  url: /cv/
+
+- title: Education
+  url: /educa/
+
+- title: Coursework
+  url: /coursework/
