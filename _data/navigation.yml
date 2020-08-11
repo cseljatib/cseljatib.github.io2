@@ -1,16 +1,17 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: /  
   sub:
-    - title: "Education"
-      href: "/educa/"
+    - title: Education
+      href: /educa/
       
 - title: Publications
   url: /pubs/
 
 - title: Research
   url: /cv/
-
+  
+      
 - title: Workshops
   url: /workshops/
 
