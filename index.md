@@ -3,12 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Welcome to my website, I am a Full Professor of Biometrics at the School of Sciences and the Director of the [Center for Ecosystem Modelling and Monitoring](www.cem.umayor.cl) at the [Universidad Mayor](www.umayor.cl) in Santiago, Chile.
+ 
+Furthermore, I am an adjunct faculty at the School of Forest Resources at the [University of Maine](www.umaine.edu) in USA.
 
 ## Current Interests and Projects:
-
-- 
+ 
 - [GitHub Pages](http://cseljatib.github.io)
 - [My old website](https://cseljatib.wixsite.com/biometria)
-- [My ORCID:](https://orcid.org/0000-0002-8468-0829)
-- [My research Gate:] https://www.researchgate.net/profile/Christian_Salas-Eljatib
+- [My ORCID](https://orcid.org/0000-0002-8468-0829)
+- [My research Gate](https://www.researchgate.net/profile/Christian_Salas-Eljatib)
