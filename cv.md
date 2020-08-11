@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Full Professor, Center for Ecosystem Modelling and Monitoring, Universidad Mayor
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2006 - 2011`
+__Yale University__
+PhD in Biometrics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2004 - 2006`
+__University of Idaho__
+M.Sc. in Statistics
 
 ## Awards
 
