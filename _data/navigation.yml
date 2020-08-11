@@ -7,12 +7,9 @@ toc2:
   url: /pubs/
 
 - title: Research
-
-  subfolderitems:
-  
+  subfolderitems:  
       - page: Research lines 
-        url: /reslin/
-        
+        url: /reslin/        
       - page: Research projects
         url: /resproj/
 
