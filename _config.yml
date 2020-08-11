@@ -4,18 +4,22 @@ title: Christian Salas-Eljatib' Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
+# languages
+# default langages : "en" 
+languages: ["en", "sp"]
+
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Christian Salas-Eljatib
   avatar: bio-photo.jpg
-  bio: "This is a sample academic website."
+  bio: "I am checking this out."
   email: cseljatib@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: cseljatib
   linkedin: #username
   github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  orcid: 0000-0002-8468-0829
+  researchgate: Christian_Salas-Eljatib
   mendeley: #username
   google:
     plus: #username
