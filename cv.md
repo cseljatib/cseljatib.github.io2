@@ -6,19 +6,24 @@ layout: resume
 Current Position Description
 
 ## Education
+  
+`2011`
+__Yale University__
+Ph.D. in Biometrics
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009`
+__Yale University__
+M.Phil. in Biometrics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2006`
+__University of Idaho__
+M.Sc. in Statistics
 
-## Awards
+`2000`
+__Universidad de La Frontera__
+B.Sc. Forest Enginneering
 
-`2012`
-Name of Award, Organization 
+
 
 ## Publications
 
@@ -27,7 +32,11 @@ Name of Award, Organization
 ### Journals
 
 `1994`
-Article Title, Journal Title
+\item[(51.)]
+\textbf{Salas-Eljatib C}.  2020. 
+{\it Height growth--rate at a given height: a
+  mathematical perspective for forest productivity}.
+  \textbf{Ecological Modelling} 431 ({\tt https://doi.org/10.1016/j.ecolmodel.2020.109198}).
 
 `1994`
 Article Title, Journal Title
@@ -62,6 +71,10 @@ __Current Job Title__, Current Employer
 - Task
 
 
+## Awards
+
+`2012`
+Name of Award, Organization 
 
 <!-- ### Footer
 
