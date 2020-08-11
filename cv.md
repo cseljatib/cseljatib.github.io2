@@ -50,7 +50,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Director__, Center for Ecosystem Modelling and Monitoring, Universidad Mayor, Santiago, Chile
 
 - Task
 - Task
