@@ -2,8 +2,6 @@
 layout: resume
 ---
 
-## Publications
-
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
