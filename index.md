@@ -7,9 +7,9 @@ Welcome to my website, I am a Full Professor of Biometrics at the Facultad de Ci
 
  
 
-Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://sfr.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
+Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://forest.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
 
 ## Current Interests and Projects:
 
-- [My oldwebsite](https://cseljatib.wixsite.com/biometria)
+- [My old website](https://cseljatib.wixsite.com/biometria)
 - [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
