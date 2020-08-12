@@ -21,6 +21,8 @@ __Applied statistics to forest ecology__
 > Applied statistics, tree and stand-level estimation from remote sensed images (e.g., LiDAR, Landsat), allometric equations.
 
 
+## Research projects
+
 [Research projects](../resproj.md)
 
 <!-- ### Footer
