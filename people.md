@@ -15,28 +15,25 @@ __Postdoc__
 
 __Research assistant__
 
-> Joaquin Riquelme, Natural resources Engineer, M.S.
-> Nicolas Pino, Mathematical Engineer.
+> * Joaquin Riquelme, Natural resources Engineer, M.S.
+> * Nicolas Pino, Mathematical Engineer.
 
 __Graduate students__
 
-> Heraldo Carvacho, Master Program in Natural Resources, Universidad de La Frontera (Temuco, Chile)
+> * Heraldo Carvacho, Master Program in Natural Resources, Universidad de La Frontera (Temuco, Chile)
 
 __Undergraduate students__
 
-> Camilo Flores, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
+> * Camilo Flores, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
 
 __Visiting undergraduate students__
 
-> Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
+> * Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
 
 __Visiting graduate students__
 
-> Patricio Ojeda, Doctoral program in Forest Sciences, Universidad Austral de Chile
+> * Patricio Ojeda, Doctoral program in Forest Sciences, Universidad Austral de Chile
 
-__Applied statistics to forest ecology__
-
-> Applied statistics, tree and stand-level estimation from remote sensed images (e.g., LiDAR, Landsat), allometric equations.
 
 
 # Alumni
