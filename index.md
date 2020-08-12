@@ -3,15 +3,19 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Welcome to my website, I am a Full Professor of Biometrics at the Facultad de Ciencias and the Director of the [Center for Ecosystem Modelling and Monitoring](https://cem.umayor.cl) at the [Universidad Mayor](https://umayor.cl) in Santiago, Chile.
+Welcome to my website, I am a Full Professor of Biometrics at the [Center for Ecosystem Modelling and Monitoring](https://cem.umayor.cl) at the [Universidad Mayor](https://umayor.cl) in Santiago, Chile.
 
- 
-# [About me](./about.md)
+Here you could find information regarding my academic life, such as research and publications, as well as to my team of research collaborators.
 
+
+* [About me](./about.md)
+* [Education](./educa.md)
+* [Academic appointments](./educa.md)
+* [Mentoirs](./educa.md)
 
 Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://forest.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
 
-# Current Interests and Projects:
+# Some of my older websites
 
 - [My old website](https://cseljatib.wixsite.com/biometria)
 - [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
