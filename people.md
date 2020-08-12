@@ -43,20 +43,50 @@ __Visiting graduate students__
 
 __Postdoc__
 
-`2019`
-> * Dr. Rodrigo Vargas-Gaete, Currently Assistant Professor at Universidad de La Frontera (Temuco, Chile).
-`2018-2020`
-> * Dr. Andres Fuentes-Ramirez, Currently Assistant Professor at Universidad de La Frontera (Temuco, Chile).
+
+`2018-2021`
+> * Dr. Andres Fuentes-Ramirez, Programa inserción
+a la academia (PAI) de CONICYT, Universidad de La Frontera, Temuco, Chile.
+
+`2016-2018`
+> * Dr. Rodrigo Vargas-Gaete. Postdoctoral research stay
+at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
+de La Frontera. (Currently Rodrigo is an Assistant Professor at Universidad de La Frontera, Temuco, Chile).
+
+`2015-2017`
+> * Dr. Andres Fuentes-Ramirez, PhD in Ecology and Evolutionary Biology from Iowa State University (USA). Postdoctoral research stay
+at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
+de La Frontera.
+
+`2013-2015`
+> * Dr. Rodrigo Vargas-Gaete, PhD in Natural Resources from the Albert-Ludwigs Freiburg University (Germany). Postdoctoral
+research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by PAI programm of CONICYT-Chile.
 
 __Graduate student__
 
 > * Christian Azocar, Master in Natural Resources Management, Universidad de La Frontera. Currently, Forest Consultant (Puerto Montt, Chile).
+
+`2020`
 > * Juan Pino, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
+
+`2019`
 > * Joaquín Riquelme, Master in Natural Resources Management, Universidad de La Frontera. Currently Research Assistant, Universidad Mayor (Santiago, Chile).
-> * Cristian Segovia, Master in Natural Resources Management, Universidad de La Frontera. Currently at Forest Biometrics Unit, Forestal Arauco (Concepción, Chile).
-> * Camilo Matus, Master in Natural Resources Management, Universidad de La Frontera.
-> * Renato Cifuentes, Ph.D. in Bioscience Engineering, Katholieke Universtat of Leuven, Belgium.
+
+`2019`
 > * Victor Rocco, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad Nacional Andres Bello (Santiago, Chile).
+
+`2018`
+> * Camilo Matus, Master in Natural Resources Management, Universidad de La Frontera.
+
+`2017`
+> * Cristian Segovia, Master in Natural Resources Management, Universidad de La Frontera. Currently at Forest Biometrics Unit, Forestal Arauco (Concepción, Chile).
+
+`2017`
+> * Renato Cifuentes, Ph.D. in Bioscience Engineering, Katholieke Universtat of Leuven, Belgium.
+
+`2013`
+> * Valeska Yaitul, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad de La Frontera (Temuco, Chile).
+
 
 __Undergraduate student__
 
