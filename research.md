@@ -2,9 +2,12 @@
 layout: resume
 ---
 
-My research focus on the following main topics
+![](images/droneYo.JPG)
+
 
 # Research lines
+
+My research focus on the following main topics
 
 __Biometrics__
 
@@ -12,11 +15,11 @@ __Biometrics__
 
 __Forest growth modelling__
 
-> Tree and stand level growth models
+> Tree and stand level growth models.
 
 __Ecological modelling and Statistical ecology__
 
-> System dynamics, differential equations
+> System dynamics, differential equations.
 
 __Applied statistics to forest ecology__
 
@@ -24,9 +27,8 @@ __Applied statistics to forest ecology__
 
 
 # Research projects
-Here you can check the projects on which I have been involved
 
-[Research projects](./resproj.md)
+I am currently working in a couple of research projects, as well as I have been involved in several ones. [A full list of research projects can be found here](./resproj.md)
 
 
 ![](images/droneYo.JPG)
