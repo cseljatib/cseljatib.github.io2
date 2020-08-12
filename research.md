@@ -1,10 +1,11 @@
 ---
 layout: resume
 ---
-# 
+ 
+
+# Research 
 
 # Research lines
-
 My research focus on the following main topics
 
 __Biometrics__
