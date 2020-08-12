@@ -1,23 +1,19 @@
 # Site wide configuration
 
-title: Christian Salas-Eljatib' Website
+title: Christian Salas-Eljatib' website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
-
-# languages
-# default langages : "en" 
-languages: ["en", "sp"]
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Christian Salas-Eljatib
   avatar: bio-photo.jpg
-  bio: "I am checking this out."
+  bio: "A simple website to show you who am I"
   email: cseljatib@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: cseljatib
+  twitter: #cseljatib
   linkedin: #username
-  github: cseljatib
+  github: #cseljatib
   orcid: 0000-0002-8468-0829
   researchgate: Christian_Salas-Eljatib
   mendeley: #username
