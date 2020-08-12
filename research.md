@@ -26,7 +26,7 @@ __Applied statistics to forest ecology__
 ## Research projects
 Here you can check the projects on which I have been involved
 
-[Research projects](../resproj.md)
+[Research projects](./resproj.md)
 
 <!-- ### Footer
 
