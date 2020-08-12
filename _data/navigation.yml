@@ -4,9 +4,12 @@
   url: /pubs/  
 - title: Research
   url: /reslines/  
-  sublinks:
+  sublinks: 
   - title: Research projects
     url: /resproj/  
+  - title: separator 
+  - title: Research lines
+    url: /reslines/    
 - title: Education 
   url: /educa/  
 - title: Coursework
