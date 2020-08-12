@@ -10,7 +10,7 @@ Here you could find information regarding my academic life, such as research and
 
 * [About me](./about.md)
 * [Education](./educa.md)
-* [Academic appointments](./educa.md)
+* [Academic appointments](./appointments.md)
 * [Mentoirs](./educa.md)
 
 Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://forest.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
