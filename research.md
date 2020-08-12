@@ -2,8 +2,6 @@
 layout: resume
 ---
 
-![](images/droneYo.JPG)
-
 
 # Research lines
 
