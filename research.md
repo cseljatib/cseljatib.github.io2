@@ -1,8 +1,12 @@
 ---
 layout: resume
+title: Research
+excerpt: "Recent Recearch"
 ---
 
-# Research 
+
+# Workshops I've Put Together
+
 
 ## Research lines
 My research focus on the following main topics
