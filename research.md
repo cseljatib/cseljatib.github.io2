@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Research
+title: 
 excerpt: "Recent Recearch"
 ---
 
