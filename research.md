@@ -28,6 +28,7 @@ Here you can check the projects on which I have been involved
 
 [Research projects](./resproj.md)
 
+![](images/droneYo.JPG)
 <!-- ### Footer
 
 Last updated: August 2020 -->
