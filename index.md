@@ -16,4 +16,4 @@ Furthermore, I am an adjunct faculty at the [School of Forest Resources](https:/
 - [My old website](https://cseljatib.wixsite.com/biometria)
 - [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
 
-![](images/droneYo.JPG)
+![](images/chacai01.JPG)
