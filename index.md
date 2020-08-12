@@ -6,8 +6,8 @@ excerpt: "About Me..."
 Welcome to my website, I am a Full Professor of Biometrics at the Facultad de Ciencias and the Director of the [Center for Ecosystem Modelling and Monitoring](https://cem.umayor.cl) at the [Universidad Mayor](https://umayor.cl) in Santiago, Chile.
 
  
-## About me
-- [About me](./about.md)
+## [About me](./about.md)
+
 
 Furthermore, I am an adjunct faculty at the [School of Forest Resources](https://forest.umaine.edu) at the [University of Maine](https://umaine.edu) in USA.
 
