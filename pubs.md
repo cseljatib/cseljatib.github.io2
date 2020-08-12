@@ -1,11 +1,7 @@
 ---
 layout: resume
 ---
-
 ## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 
 `2020`
 **Salas-Eljatib C**. 2020. Height growth–rate at a given height: a
