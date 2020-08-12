@@ -4,7 +4,7 @@ layout: resume
 
 My research focus on the following main topics
 
-## Research lines
+# Research lines
 
 __Biometrics__
 
@@ -23,13 +23,15 @@ __Applied statistics to forest ecology__
 > Applied statistics, tree and stand-level estimation from remote sensed images (e.g., LiDAR, Landsat), allometric equations.
 
 
-## Research projects
+# Research projects
 Here you can check the projects on which I have been involved
 
 [Research projects](./resproj.md)
 
-![](images/droneYo.JPG)
-<!-- ### Footer
 
+![](images/droneYo.JPG)
+
+
+<!-- ### Footer
 Last updated: August 2020 -->
 
