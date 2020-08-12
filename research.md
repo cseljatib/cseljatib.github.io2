@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-### Research 
+# Research 
 
-# Research lines
+## Research lines
 My research focus on the following main topics
 
 __Biometrics__
