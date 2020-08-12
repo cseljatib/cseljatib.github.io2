@@ -1,20 +1,15 @@
 toc2:
-
 - title: Home
   url: /
-
 - title: Publications
   url: /pubs/
-
 - title: Research
   subfolderitems:  
       - page: Research lines 
         url: /reslin/        
       - page: Research projects
         url: /resproj/
-
 - title: Education 
   url: /educa/
-
 - title: Coursework
   url: /coursework/
