@@ -3,13 +3,7 @@
 - title: Publications
   url: /pubs/  
 - title: Research
-  url: /reslines/  
-  sublinks: 
-  - title: Research projects
-    url: /resproj/  
-  - title: separator 
-  - title: Research lines
-    url: /reslines/    
+  url: /research/  
 - title: Education 
   url: /educa/  
 - title: Coursework
