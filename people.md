@@ -64,7 +64,7 @@ research stay at Laboratorio de Biometría, Universidad de La Frontera, supporte
 
 __Graduate student__
 
-> * Christian Azocar, Master in Natural Resources Management, Universidad de La Frontera. Currently, Forest Consultant (Puerto Montt, Chile).
+
 
 `2020`
 > * Juan Pino, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
@@ -74,6 +74,9 @@ __Graduate student__
 
 `2019`
 > * Victor Rocco, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad Nacional Andres Bello (Santiago, Chile).
+
+`2019`
+> * Christian Azocar, Master in Natural Resources Management, Universidad de La Frontera. Currently, Forest Consultant (Puerto Montt, Chile).
 
 `2018`
 > * Camilo Matus, Master in Natural Resources Management, Universidad de La Frontera.
@@ -99,6 +102,7 @@ __Visiting undergraduate student__
 
 `2020`
 > * Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
+
 `2017`
 > * Nicolas Pino, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
 
