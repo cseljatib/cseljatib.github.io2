@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-# Research
+# 
 
 # Research lines
 
