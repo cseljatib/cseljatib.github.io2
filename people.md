@@ -4,14 +4,14 @@ title: People
 excerpt: "my lab"
 ---
 
-I benifit of several people working with me. 
+I benefit from several talented researchers and bright students working with me.  Furthermore, I have listed former students at various levels, conditions, and institutions. 
 
 # Salas lab
 
 
 __Postdoc__
 
-> Dr. Renato Cifuentes
+> * Renato Cifuentes, Ph.D.
 
 __Research assistant__
 
@@ -20,19 +20,22 @@ __Research assistant__
 
 __Graduate students__
 
-> * Heraldo Carvacho, Master Program in Natural Resources, Universidad de La Frontera (Temuco, Chile)
+> * Heraldo Carvacho, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
 
 __Undergraduate students__
+
 
 > * Camilo Flores, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
 
 __Visiting undergraduate students__
 
-> * Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
+
+> * Thomas Koplow, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
 
 __Visiting graduate students__
 
-> * Patricio Ojeda, Doctoral program in Forest Sciences, Universidad Austral de Chile
+
+> * Patricio Ojeda, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
 
 
 
@@ -40,7 +43,9 @@ __Visiting graduate students__
 
 __Postdoc__
 
+`2019`
 > * Dr. Rodrigo Vargas-Gaete, Currently Assistant Professor at Universidad de La Frontera (Temuco, Chile).
+`2018-2020`
 > * Dr. Andres Fuentes-Ramirez, Currently Assistant Professor at Universidad de La Frontera (Temuco, Chile).
 
 __Graduate student__
@@ -62,12 +67,15 @@ __Undergraduate student__
 
 __Visiting undergraduate student__
 
-> Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
-> Nicolas Pino, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
+`2020`
+> * Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
+`2017`
+> * Nicolas Pino, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
 
 __Visiting graduate student__
 
-> Daniel Soto, M.S. program in Forest Sciences, Universidad Austral de Chile. Currently Assistant Professor at Universidad de Aysen (Coyhaique, Chile).
+`2012`
+> * Daniel Soto, M.S. program in Forest Sciences, Universidad Austral de Chile. Currently Assistant Professor at Universidad de Aysen (Coyhaique, Chile).
 
 ![](images/droneYo.JPG)
 
