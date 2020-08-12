@@ -1,6 +1,7 @@
 ---
-layout: resume
+layout: page
 ---
+
 ## Research lines
 
 __Biometrics__
