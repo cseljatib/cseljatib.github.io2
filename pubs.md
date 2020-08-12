@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: resume
 ---
-## Publications
+
+# Publications
 
 `2020`
 **Salas-Eljatib C**. 2020. Height growth–rate at a given height: a
