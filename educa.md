@@ -1,7 +1,8 @@
 ---
 layout: resume
 ---
-## Education
+
+# Education
   
 `2011`
 __Yale University__
