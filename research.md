@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 ---
 
 My research focus on the following main topics
