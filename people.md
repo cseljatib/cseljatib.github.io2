@@ -40,8 +40,9 @@ __Visiting graduate students__
 [Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
 
-![Kitten](images/groupRuca.jpg){:height="36px" width="36px"}
+![Kitten](images/groupRuca.jpg){ width=50%}
 
 <!-- ### Footer
 ![](images/droneYo.JPG)
+![Kitten](images/groupRuca.jpg){:height="36px" width="36px"}
 Last updated: August 2020 -->
