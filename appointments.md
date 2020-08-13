@@ -1,36 +1,38 @@
 ---
 layout: resume
+title: Academic appointments
+excerpt: "on appointments"
 ---
-# Academic appointments (full time)
 
+
+# Main
 
 `2018-present`
-Full professor, Centro de Modelación y Monitoreo de
+Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
 Universidad Mayor, Santiago, Chile.
 
-# Adjunt academic appointments
-
+# Adjunt academic positions
 
 `2018–present` 
-Associate professor (Part time), Vicerrectoría de Investigación y postgrado \[Vice-president unit for Research and Graduate Studies\],
+Associate Professor, Vicerrectoría de Investigación y postgrado \[Vice-president unit for Research and Graduate Studies\],
 Universidad de La Frontera, Temuco, Chile.
 
 `2020–present` 
 Full Professor, Departamento de Silvicultura y
-Conservación de la Naturaleza, Universidad de Chile, Santiago, Chile.
+Conservación de la Naturaleza \[Department of Silviculture and Nature Conservancy\], Universidad de Chile, Santiago, Chile.
 
 `2017–present`
 Faculty Associate, School of Forest Resources,
 University of Maine, Orono, Maine, USA.
 
 
-# Fomer academic-related appointments
+# Former academic-related appointments
 
 
 `2000-2018` 
-Associate professor (2012–2018), Assistant professor
-(2004–2011), Lecturer (2000–2004), Departamento de Ciencias Forestales,
+Associate Professor (2012–2018), Assistant Professor
+(2004–2011), Lecturer (2000–2004), Departamento de Ciencias Forestales \[Forest Science Department\], 
 Universidad de La Frontera, Temuco, Chile.
 
 `2016` 
