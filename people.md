@@ -40,7 +40,7 @@ __Visiting graduate students__
 [Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
 
-![Kitten](images/droneYo.JPG){ width=50% }
+![Kitten](images/groupRuca.jpg){ width=50% }
 
 <!-- ### Footer
 ![](images/droneYo.JPG)
