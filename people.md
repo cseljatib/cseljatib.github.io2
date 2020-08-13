@@ -28,7 +28,7 @@ __Students__
 [Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
 
-<img src="images/groupRuca.jpg" alt="drawing" width="200"/>
+![](images/groupRuca.jpg =100x20)
 
 
 <!-- ### Footer
@@ -42,4 +42,5 @@ __Research assistants__
 __Visiting graduate students__
 * *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
 ![Kitten](images/groupRuca.jpg){ width=50%}
+<img src="images/groupRuca.jpg" alt="drawing" width="200"/>
 Last updated: August 2020 -->
