@@ -8,28 +8,16 @@ I benefit from several talented researchers and bright students working with me.
 
 ## My lab
 
-__Postdoc__
-
 * *Renato Cifuentes*, Ph.D.
-
-__Research assistants__
-
 * *Joaquín Riquelme*, Natural Resources Engineer, M.S.
 * *Nicolas Pino*, Mathematical Engineer.
 
-__Graduate students__
-
-* *Heraldo Carvacho*, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
-
-__Undergraduate students__
+__Students__
 
 * *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
 * *Thomas Koplow*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
 * *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
-
-__Visiting graduate students__
-
-* *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
+* *Heraldo Carvacho*, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
 
 
 ## Alumni
@@ -45,4 +33,11 @@ __Visiting graduate students__
 <!-- ### Footer
 ![](images/droneYo.JPG)
 ![Kitten](images/groupRuca.jpg){:height="36px" width="36px"}
+__Postdoc__
+* *Renato Cifuentes*, Ph.D.
+__Research assistants__
+* *Joaquín Riquelme*, Natural Resources Engineer, M.S.
+* *Nicolas Pino*, Mathematical Engineer.
+__Visiting graduate students__
+* *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
 Last updated: August 2020 -->
