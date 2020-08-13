@@ -41,15 +41,15 @@ __Visiting graduate students__
 
 # Alumni
 
-__Postdocs__
+## Postdocs
 
 
 `2018-2021`
-* Andrés Fuentes-Ramirez, PhD in Ecology and Evolutionary Biology from Iowa State University (USA). Postdoctoral
+**Andrés Fuentes-Ramirez**, PhD in Ecology and Evolutionary Biology from Iowa State University (USA). Postdoctoral
 research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by The Attraction and Insertion of Advanced Human Capital Program (PAI) of CONICYT-Chile.
 
 `2016-2018`
-* Rodrigo Vargas-Gaete, PhD in Natural Resources from the Albert-Ludwigs Freiburg University (Germany). Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
+**Rodrigo Vargas-Gaete**, PhD in Natural Resources from the Albert-Ludwigs Freiburg University (Germany). Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
 de La Frontera. (Currently, Rodrigo is an Assistant Professor at Universidad de La Frontera, Temuco, Chile).
 
 `2015-2017`
