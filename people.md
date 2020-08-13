@@ -27,11 +27,12 @@ __Students__
 ## Research collaborators
 [Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
-![](images/groupRuca.jpg){width=200px height=200px}
+![](images/groupRuca.jpg)
 
 
 
 <!-- ### Footer
+![](images/groupRuca.jpg){width=200px height=200px}
 ![](images/droneYo.JPG)
 ![Kitten](images/groupRuca.jpg){:height="36px" width="36px"}
 __Postdoc__
