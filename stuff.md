@@ -4,7 +4,7 @@ title: Stuff
 excerpt: "on stuff"
 ---
 
-I benefit from several talented researchers and bright students working with me.  Furthermore, I have listed former students at various levels, conditions, and institutions. 
+A collection of links, documents, and so on, that might be of interest. 
 
 ## My own web sites
 
