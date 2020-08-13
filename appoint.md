@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Appointments 
-excerpt: "on appointments"
+title: Academic appointments 
+
 ---
 ## Main
 `2018-present`
@@ -37,9 +37,9 @@ Teaching Fellow, School of Forestry and Environmental
 Studies, Yale University, New Haven, Connecticut, USA.
 
 `2005-2006` 
-Research assistant, Forest Biometrics Laboratory, University
+Research Assistant, Forest Biometrics Laboratory, University
 of Idaho. Partially funded by the USDA Forest Service. Moscow, Idaho,
 USA.
-<!-- ### Footer
 
+<!-- ### Footer
 Last updated: August 2020 -->
