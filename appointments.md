@@ -2,8 +2,10 @@
 layout: resume
 title: Academic appointments
 excerpt: "on appointments"
---- 
-## Main
+---
+
+## Peer-reviewed papers
+
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
