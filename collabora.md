@@ -26,5 +26,5 @@ With Aaron in southern Chile  (2017)
 With Hailemariam's group in Corvallis (2016)
 ![](images/osu_biometrics.JPG)
 
-With Rodrigo, Andres and Pablo in Temuco (2018)
+With Andres, Rodrigo, and Pablo in Temuco (2018)
 ![](images/allofThem.jpg)
