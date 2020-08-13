@@ -26,5 +26,15 @@ With Aaron in southern Chile  (2017)
 With Hailemariam's group in Corvallis (2016)
 ![](images/osu_biometrics.JPG)
 
-With Andres, Rodrigo, and Pablo in Temuco (2018)
-![](images/allofThem.jpg)
+With Rodrigo and Andres in Tantauco (2016)
+![](images/fellows.jpg)
+
+Daniel, Andres and Rodrigo in China Muerta (2017)
+![](images/maquinas.jpg)
+
+With Pablo in Llancahue (2015)
+![](images/withPdonoso.jpg)
+
+With Daniel at National Reserve Coyhaique (2018)
+![](images/withDaniel.jpg)
+
