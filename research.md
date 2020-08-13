@@ -8,13 +8,13 @@ excerpt: "Recent Recearch"
 ## Research lines
 My research focus on the following main topics
 
-* __Biometrics__. *Applied statistics to ecology and natural resources*.
+* __Biometrics__. Applied statistics to ecology and natural resources.
 
-* __Forest ecosystem modelling__.  *Tree and stand level growth models*.
+* __Forest ecosystem modelling__.  Tree and stand level growth models.
 
-* __Ecological modelling and statistical ecology__. *System dynamics, differential equations*.
+* __Ecological modelling and statistical ecology__. System dynamics, differential equations, statistical inference.
 
-* __Applied statistics to forest ecology__. *Spatial statistics, tree allometry, sampling, estimation from remote sensed images*.
+* __Applied statistics to forest ecology__. Spatial statistics, tree allometry, sampling, estimation from remote sensed images.
 
 
 ## Research projects
