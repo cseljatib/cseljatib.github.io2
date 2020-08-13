@@ -1,7 +1,6 @@
 ---
 layout: resume
 title: Academic appointments 
-
 ---
 ## Main
 `2018-present`
