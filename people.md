@@ -25,7 +25,7 @@ __Students__
 [Former students, post-docs, and visiting students. See them here.](./alumni.md)
 
 ## Research collaborators
-[Colleagues with whom I collaborate in ongoing studies. See them here.](./alumni.md)
+[Colleagues with whom I collaborate in ongoing studies. See them here.](./collabora.md)
 
 ![](images/groupRuca.jpg)
 
