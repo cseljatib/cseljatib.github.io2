@@ -8,7 +8,6 @@ I benefit from several talented researchers and bright students working with me.
 
 ## My lab
 
-~~~
 __Postdoc__
 
 * *Renato Cifuentes*, Ph.D.
@@ -31,14 +30,14 @@ __Undergraduate students__
 __Visiting graduate students__
 
 * *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
-~~~
+
 
 ## Alumni
 
-[See them here](./alumni.md)
+[Former students, post-docs, visiting students. See them here](./alumni.md)
 
 ## Research collaborators
-[See them here](./alumni.md)
+[Current colleagues working in ongoing studies. See them here](./alumni.md)
 
 
 
