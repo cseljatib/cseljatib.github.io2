@@ -12,11 +12,11 @@ excerpt: "About Me..."
 * [Academic appointments](./appointments.md)
 * [Mentoirs](./educa.md)
 
-~~~
-**Some of my older websites**
 
-- [My old website](https://cseljatib.wixsite.com/biometria)
-- [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
-~~~
+[]: # (**Some of my older websites**)
+
+[]: # (- [My old website](https://cseljatib.wixsite.com/biometria))
+[]: # (- [My old linux help](http://biometria.ufro.cl/myLinuxHelp/))
+
 
 ![](images/chacai01.jpg)
