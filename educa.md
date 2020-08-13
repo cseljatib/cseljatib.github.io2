@@ -1,9 +1,10 @@
 ---
 layout: resume
+title: Education
+excerpt: "on education"
 ---
 
-# Education
-  
+
 `2011`
 __Yale University__
 Ph.D. in Biometrics
