@@ -34,12 +34,13 @@ __Visiting graduate students__
 
 ## Alumni
 
-[Former students, post-docs, visiting students. See them here](./alumni.md)
+[Former students, post-docs, visiting students. See them here.](./alumni.md)
 
 ## Research collaborators
-[Current colleagues working in ongoing studies. See them here](./alumni.md)
+[Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
 
+![Kitten](images/droneYo.JPG){ width=50% }
 
 <!-- ### Footer
 ![](images/droneYo.JPG)
