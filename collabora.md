@@ -27,6 +27,7 @@ With Hailemariam's group in Corvallis (2016)
 ![](images/osu_biometrics.JPG)
 
 With Rodrigo and Andres in Tantauco (2016)
+
 ![](images/fellows.jpg)
 
 Daniel, Andres and Rodrigo in China Muerta (2017)
