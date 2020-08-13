@@ -65,22 +65,22 @@ supported by the PAI program of CONICYT-Chile.
 
 
 `2020`
-* Juan Pino, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
+*Juan Pino*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
 
 `2019`
-* Joaquín Riquelme, Master in Natural Resources Management, Universidad de La Frontera. Currently Research Assistant, Universidad Mayor (Santiago, Chile).
+*Joaquín Riquelme*, Master in Natural Resources Management, Universidad de La Frontera. Currently Research Assistant, Universidad Mayor (Santiago, Chile).
 
 `2019`
-* Victor Rocco, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad Nacional Andres Bello (Santiago, Chile).
+**Víctor Rocco**, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad Nacional Andres Bello (Santiago, Chile).
 
 `2019`
-* Christian Azocar, Master in Natural Resources Management, Universidad de La Frontera. Currently, Forestry Consultant (Puerto Montt, Chile).
+*Christian Azocar*, Master in Natural Resources Management, Universidad de La Frontera. Currently, Forestry Consultant (Puerto Montt, Chile).
 
 `2018`
-* Eduardo Palma, Master in Natural Resources Management, Universidad de La Frontera.
+*Eduardo Palma*, Master in Natural Resources Management, Universidad de La Frontera.
 
 `2018`
-* Camilo Matus, Master in Natural Resources Management, Universidad de La Frontera.
+**Camilo Matus**, Master in Natural Resources Management, Universidad de La Frontera.
 
 `2017`
 * Cristian Segovia, Master in Natural Resources Management, Universidad de La Frontera. Currently at Forest Biometrics Unit, Forestal Arauco (Concepción, Chile).
