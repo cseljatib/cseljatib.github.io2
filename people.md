@@ -11,29 +11,29 @@ I benefit from several talented researchers and bright students working with me.
 
 __Postdoc__
 
-> *Renato Cifuentes*, Ph.D.
+* *Renato Cifuentes*, Ph.D.
 
 __Research assistants__
 
-> *Joaquín Riquelme*, Natural Resources Engineer, M.S.
-> *Nicolas Pino*, Mathematical Engineer.
+* *Joaquín Riquelme*, Natural Resources Engineer, M.S.
+* *Nicolas Pino*, Mathematical Engineer.
 
 __Graduate students__
 
-> *Heraldo Carvacho*, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
+* *Heraldo Carvacho*, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
 
 __Undergraduate students__
 
-> *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
+* *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
 
 __Visiting undergraduate students__
 
-> *Thomas Koplow*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
-> *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
+* *Thomas Koplow*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
+* *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
 
 __Visiting graduate students__
 
-> *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
+* *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
 
 
 
@@ -66,7 +66,7 @@ supported by the PAI program of CONICYT-Chile.
 *Juan Pino*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
 
 `2019`
-*Joaquín Riquelme*, Master in Natural Resources Management, Universidad de La Frontera. Currently Research Assistant, Universidad Mayor (Santiago, Chile).
+*Joaquín Riquelme*, Master in Natural Resources Management, Universidad de La Frontera. Currently a Research Assistant, Universidad Mayor (Santiago, Chile).
 
 `2019`
 *Víctor Rocco*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad Nacional Andres Bello (Santiago, Chile).
@@ -96,7 +96,7 @@ supported by the PAI program of CONICYT-Chile.
 *Inal Painemal*, Master in Natural Resources Management, Universidad de La Frontera. Currently at National Forest Service of Chile in Vallenar.
 
 `2013`
-*Daniel Soto*, M.S. in Forest Sciences, Universidad Austral de Chile. (Currently, Daniel is an Assistant Professor at Universidad de Aysén, Coyhaique, Chile). [Committee Professor].
+*Daniel Soto*, M.S. in Forest Sciences, Universidad Austral de Chile. [Committee Professor]. Currently, Daniel is an Assistant Professor at Universidad de Aysén, Coyhaique, Chile. 
 
 `2013`
 *Valeska Yaitul*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad de La Frontera (Temuco, Chile).
@@ -123,7 +123,7 @@ supported by the PAI program of CONICYT-Chile.
 *Cristian Segovia*, B.S. in Natural Resources Engineering, Universidad de La Frontera. 
 
 `2014`
-*Grace Floody*, B.S. in Natural Resources Engineering, Universidad de La Frontera. 
+*Grace Floody*, B.S. in Natural Resources Engineering, Universidad de La Frontera. Currently a Consultant in Lican Ray, Chile.
 
 `2014`
 *Humberto Inzunza*, B.S. in Natural Resources Engineering, Universidad de La Frontera. 
@@ -141,7 +141,7 @@ supported by the PAI program of CONICYT-Chile.
 *Arnoldo Hormazabal*, B.S. in Forest Engineering, Universidad de La Frontera. 
 
 `2006`
-*Jose Pedrero*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Jose Pedrero*, B.S. in Forest Engineering, Universidad de La Frontera. Currently at Company Z-Baum in Lanco, Chile.
 
 `2006`
 *Patricio Apablaza*, B.S. in Forest Engineering, Universidad de La Frontera. 
@@ -156,25 +156,25 @@ supported by the PAI program of CONICYT-Chile.
 *Jorge Marinao*, B.S. in Forest Engineering, Universidad de La Frontera. 
 
 `2004`
-*Iván Araos*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Iván Araos*, B.S. in Forest Engineering, Universidad de La Frontera. Currently, a Forest Engineer at Forestal Mininco, Los Angeles, Chile.
 
 `2004`
-*Gustavo Montes*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Gustavo Montes*, B.S. in Forest Engineering, Universidad de La Frontera. Currently, a Forestry Consultant in Curacautín, Chile.
 
 `2004`
 *Oscar Castillo*, B.S. in Forest Engineering, Universidad de La Frontera. 
 
 `2004`
-*Alex Jarpa*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Alex Jarpa*, B.S. in Forest Engineering, Universidad de La Frontera. Currently, a Forestry Consultant in Curacautín, Chile.
 
 `2004`
-*Patricio Pacheco*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Patricio Pacheco*, B.S. in Forest Engineering, Universidad de La Frontera. Currently, an Assistant Professor at Universidad de La Frontera, Temuco, Chile.
 
 `2003`
 *Braulio Tapia*, B.S. in Forest Engineering, Universidad de La Frontera. 
 
 `2003`
-*Manuel Morales*, B.S. in Forest Engineering, Universidad de La Frontera. 
+*Manuel Morales*, B.S. in Forest Engineering, Universidad de La Frontera. Currently at National Forest Service of Chile in San Jose de la Mariquina.
 
 
 ## Visiting undergraduate students
@@ -191,7 +191,7 @@ supported by the PAI program of CONICYT-Chile.
 ## Visiting graduate student
 
 `2012`
-*Daniel Soto*, M.S. program in Forest Sciences, Universidad Austral de Chile. Currently Assistant Professor at Universidad de Aysen (Coyhaique, Chile).
+*Daniel Soto*, M.S. program in Forest Sciences, Universidad Austral de Chile. 
 
 ![](images/droneYo.JPG)
 
