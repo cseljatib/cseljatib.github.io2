@@ -6,9 +6,9 @@ excerpt: "my lab"
 
 I benefit from several talented researchers and bright students working with me.  Furthermore, I have listed former students at various levels, conditions, and institutions. 
 
-# Salas lab
+## My lab
 
-
+~~~
 __Postdoc__
 
 * *Renato Cifuentes*, Ph.D.
@@ -25,19 +25,20 @@ __Graduate students__
 __Undergraduate students__
 
 * *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
-
-__Visiting undergraduate students__
-
 * *Thomas Koplow*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
 * *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
 
 __Visiting graduate students__
 
 * *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile (Valdivia, Chile)
+~~~
 
+## Alumni
 
-* [Alumni](./alumni.md)
-* [Research collaborators](./alumni.md)
+[See them here](./alumni.md)
+
+## Research collaborators
+[See them here](./alumni.md)
 
 
 
