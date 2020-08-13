@@ -2,16 +2,15 @@
 layout: resume
 title: Academic appointments
 excerpt: "on appointments"
----
+--- 
 
-# Main
-
+## Main
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
 Universidad Mayor, Santiago, Chile.
 
-# Adjunt academic positions
+## Adjunt academic positions
 
 `2018–present` 
 Associate Professor, Vicerrectoría de Investigación y postgrado \[Vice-president unit for Research and Graduate Studies\],
@@ -26,7 +25,7 @@ Faculty Associate, School of Forest Resources,
 University of Maine, Orono, Maine, USA.
 
 
-# Former academic-related appointments
+## Former academic-related appointments
 
 
 `2000-2018` 
