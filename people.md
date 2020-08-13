@@ -27,8 +27,8 @@ __Students__
 ## Research collaborators
 [Current colleagues working in ongoing studies. See them here.](./alumni.md)
 
+![](images/groupRuca.jpg){width=200px height=200px}
 
-![](images/groupRuca.jpg =100x20)
 
 
 <!-- ### Footer
