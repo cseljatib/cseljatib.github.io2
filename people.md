@@ -53,15 +53,15 @@ research stay at Laboratorio de Biometría, Universidad de La Frontera, supporte
 de La Frontera. (Currently, Rodrigo is an Assistant Professor at Universidad de La Frontera, Temuco, Chile).
 
 `2015-2017`
-* Dr. Andres Fuentes-Ramirez, Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
+**Andrés Fuentes-Ramirez**, Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
 de La Frontera.
 
 `2013-2015`
-* Rodrigo Vargas-Gaete. Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera,
+**Rodrigo Vargas-Gaete**, Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera,
 supported by the PAI program of CONICYT-Chile.
 
 
-__Graduate students__
+## Graduate students
 
 
 `2020`
@@ -104,7 +104,7 @@ __Graduate students__
 * Valeska Yaitul, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad de La Frontera (Temuco, Chile).
 
 
-__Undergraduate students__
+## Undergraduate students
 
 `2018`
 * Camila Molina, B.S. in Natural Resources, Universidad Austral de Chile. [Committee Professor].
@@ -179,7 +179,7 @@ __Undergraduate students__
 * Manuel Morales, B.S. in Forest Engineering, Universidad de La Frontera. 
 
 
-__Visiting undergraduate student__
+## Visiting undergraduate students
 
 `2020`
 * Jose Miguel Bravo, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
@@ -187,7 +187,7 @@ __Visiting undergraduate student__
 `2017`
 * Nicolas Pino, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
 
-__Visiting graduate student__
+## Visiting graduate student
 
 `2012`
 * Daniel Soto, M.S. program in Forest Sciences, Universidad Austral de Chile. Currently Assistant Professor at Universidad de Aysen (Coyhaique, Chile).
