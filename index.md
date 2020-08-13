@@ -9,7 +9,7 @@ excerpt: "About Me..."
 
 * [About me](./about.md)
 * [Education](./educa.md)
-* [Academic appointments](./appointments.md)
+* [Academic appointments](./appoint.md)
 * [Mentoirs](./educa.md)
 
 <!--- 
