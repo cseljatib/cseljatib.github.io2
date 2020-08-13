@@ -4,7 +4,7 @@ title: Academic appointments
 excerpt: "on appointments"
 ---
 
-## Peer-reviewed papers
+## Main
 
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
