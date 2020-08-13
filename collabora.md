@@ -20,4 +20,8 @@ excerpt: "my collaborators"
 * *Lauri Mehtätalo*, Professor Biometrics at the Universty of Eastern Finland, Joenssu, Finland.
 
 
-![](images/groupRuca.jpg)
+With Aaron in southern Chile  (2017)
+![](images/withAaron.JPG)
+
+With Hailemariam's group in Corvallis (2016)
+![](images/osu_biometrics.JPG)
