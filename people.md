@@ -9,7 +9,7 @@ I benefit from several talented researchers and bright students working in my la
 ## My lab
 
 
-* *Renato Cifuentes*, Ph.D.
+* *[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*, Ph.D.
 * *Joaquín Riquelme*, Natural Resources Engineer, M.S.
 * *Nicolas Pino*, Mathematical Engineer.
 
