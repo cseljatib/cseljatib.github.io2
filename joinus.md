@@ -23,6 +23,10 @@ __Undergraduate students__
 If you want to work in the field and/or working in computing analyses, you can drop me a line. We seek enthusiastic students aiming
 to learn applied and basic research.
 
-<!-- ### Footer
+![](images/lircay02.jpg)
 
+![](images/renoCoigue03.jpg)
+
+
+<!-- ### Footer
 Last updated: August 2020 -->
