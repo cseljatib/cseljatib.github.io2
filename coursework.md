@@ -7,6 +7,9 @@ title: Coursework
 + Forest biometrics
 + Statistics
 
+$$P_\omega={n_\omega\over 2}\hbar\omega\,{1+R\over 1-v^2}\int\limits_{-1}^{1}dx\,(x-v)|x-v|,$$
+
+
 $$\begin{tikzpicture}[scale=1.0544]\small
 \begin{axis}[axis line style=gray,
 	samples=120,
