@@ -24,12 +24,11 @@ __Students__
 ## Research collaborators
 [Colleagues with whom I collaborate in ongoing studies. See them here.](./collabora.md)
 
-![](images/groupRuca.jpg)
-
 ## Alumni
 
 [Former students, post-docs, and visiting students. See them here.](./alumni.md)
 
+![](images/groupRuca.jpg)
 
 <!-- ### Footer
 Our lab investigates how forest ecosystems change through time. We use both mathematical, theoretical, statistical and empirical approaches to address several research questions related to the development of forests; tree allometry; the scaling of tree-level processes to ecosystems; and the building of forest growth model. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
