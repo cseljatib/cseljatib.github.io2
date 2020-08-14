@@ -30,12 +30,12 @@ With Rodrigo and Andres in Tantauco (2016)
 
 ![](images/fellows.jpg)
 
-Daniel, Andres and Rodrigo in China Muerta (2017)
+Daniel, Andres and Rodrigo in the National Reserve China Muerta (2017)
 ![](images/maquinas.jpg)
 
 With Pablo in Llancahue (2015)
 ![](images/withPdonoso.jpg)
 
-With Daniel at National Reserve Coyhaique (2018)
+With Daniel in the National Reserve Coyhaique (2018)
 ![](images/withDaniel.jpg)
 
