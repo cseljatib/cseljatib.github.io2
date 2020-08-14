@@ -4,8 +4,6 @@ title: People
 excerpt: "my lab"
 ---
 
-Our lab investigates how forest ecosystems change through time. We use both mathematical, theoretical, statistical and empirical approaches to address several research questions related to the development of forests; tree allometry; the scaling of tree-level processes to ecosystems; and the building of forest growth model. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
-
 I benefit from several talented researchers and bright students working in my lab.  Furthermore, I have listed former students at various levels, conditions, and institutions. Besides, a link to my current research collaborators. 
 
 ## My lab
@@ -34,6 +32,7 @@ __Students__
 
 
 <!-- ### Footer
+Our lab investigates how forest ecosystems change through time. We use both mathematical, theoretical, statistical and empirical approaches to address several research questions related to the development of forests; tree allometry; the scaling of tree-level processes to ecosystems; and the building of forest growth model. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
 ![](images/groupRuca.jpg){width=200px height=200px}
 ![](images/droneYo.JPG)
 ![Kitten](images/groupRuca.jpg){:height="36px" width="36px"}
