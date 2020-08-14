@@ -23,6 +23,7 @@ title: Coursework
 	xlabel=$x$,ylabel=$y$]
 \addplot[red,domain=-2:1,semithick]{exp(x)};
 \addplot[black]{x+1};
+\addplot[blue]{x^2};
 \addplot[] coordinates {(1,1.5)} node{$y=x+1$};
 \addplot[red] coordinates {(-1,0.6)} node{$y=e^x$};
 \addplot[blue] coordinates {(-1,0.6)} node{$y=x^2$};
