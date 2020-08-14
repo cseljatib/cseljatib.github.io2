@@ -7,23 +7,21 @@ title: Coursework
 + Forest biometrics
 + Statistics
 
-\\[ a^2 = b^2 + c^2 \\]
 
-
-En general un modelo de altura-di\'ametro 
+En general un modelo de altura-diámetro 
 tiene la  siguiente estructura 
 \begin{equation}
-   h_i=f(\bm{\theta},d_i) + e_i,  \label{eq:modh.0}
+   h_i=f({\theta},d_i) + \epsilon_i,  \label{eq:modh.0}
 \end{equation}       
 donde: $h_i$ es la altura para el $i$-\'esimo \'arbol;
-$d_i$ es el di\'ametro a la altura del pecho para el $i$-\'esimo \'arbol;
-$f()$ es una funci\'on matem\'atica; 
-$\bm{\theta}$ es un vector de coeficientes (i.e., par\'ametros) del modelo;
+$d_i$ es el diámetro a la altura del pecho para el $i$-\'esimo \'arbol;
+$f()$ es una función matemática; 
+${\theta}$ es un vector de coeficientes (i.e., parámetros) del modelo;
 $e_i$ es el error aleatorio del modelo que tradicionalmente se asume
  sigue 
- una distribuci\'on de Gaussian con media cero y varianza
-  $\sigma^2_e$. %, respectivamente.
- Not\'e que la funci\'on $f()$ puede ser lineal o no-lineal. 
+ una distribución Gaussiana con media cero y varianza
+  $\sigma^2_{\epsilon}$. 
+ Noté que la función $f()$ puede ser lineal o no-lineal. 
  
 
 
@@ -35,7 +33,7 @@ $e_i$ es el error aleatorio del modelo que tradicionalmente se asume
 	ymin=0, ymax=1.8,
 	restrict y to domain=-0.2:2,
 	ytick={1},
-	xtick={-1,1},
+	xtick={-2,1},
 	axis equal,
 	axis x line=center,
 	axis y line=center,
@@ -45,7 +43,7 @@ $e_i$ es el error aleatorio del modelo que tradicionalmente se asume
 \addplot[blue]{x^2};
 \addplot[] coordinates {(1,1.5)} node{$y=x+1$};
 \addplot[red] coordinates {(-1,0.6)} node{$y=e^x$};
-\addplot[blue] coordinates {(1,1.5)} node{$y=x^2$};
+\addplot[blue] coordinates {(-1,1.5)} node{$y=x^2$};
 \path (axis cs:0,0) node [anchor=north west,yshift=-0.07cm] {0};
 \end{axis}
 \end{tikzpicture}" />
