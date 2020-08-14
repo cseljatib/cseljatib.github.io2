@@ -23,15 +23,14 @@ __Students__
 * *Heraldo Carvacho*, Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)
 
 
-## Alumni
-
-[Former students, post-docs, and visiting students. See them here.](./alumni.md)
-
 ## Research collaborators
 [Colleagues with whom I collaborate in ongoing studies. See them here.](./collabora.md)
 
 ![](images/groupRuca.jpg)
 
+## Alumni
+
+[Former students, post-docs, and visiting students. See them here.](./alumni.md)
 
 
 <!-- ### Footer
