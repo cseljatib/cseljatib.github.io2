@@ -4,9 +4,12 @@ title: People
 excerpt: "my lab"
 ---
 
-I benefit from several talented researchers and bright students working with me.  Furthermore, I have listed former students at various levels, conditions, and institutions. 
+Our lab investigates how forest ecosystems change through time. We use both mathematical, theoretical, statistical and empirical approaches to address several research questions related to the development of forests; tree allometry; the scaling of tree-level processes to ecosystems; and the building of forest growth model. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
+
+I benefit from several talented researchers and bright students working in my lab.  Furthermore, I have listed former students at various levels, conditions, and institutions. Besides, a link to my current research collaborators. 
 
 ## My lab
+
 
 * *Renato Cifuentes*, Ph.D.
 * *Joaquín Riquelme*, Natural Resources Engineer, M.S.
