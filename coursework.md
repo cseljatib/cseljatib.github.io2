@@ -25,6 +25,7 @@ title: Coursework
 \addplot[black]{x+1};
 \addplot[] coordinates {(1,1.5)} node{$y=x+1$};
 \addplot[red] coordinates {(-1,0.6)} node{$y=e^x$};
+\addplot[blue] coordinates {(-1,0.6)} node{$y=x^2$};
 \path (axis cs:0,0) node [anchor=north west,yshift=-0.07cm] {0};
 \end{axis}
 \end{tikzpicture}" />
