@@ -1,10 +1,10 @@
 ---
 layout: resume
-title: Publications 
+title: Academic positions 
 excerpt: "on publications"
 ---
 
-## Peer-reviewed papers
+## Peer-reviewed papersxx
 
 `2020`
 **Salas-Eljatib C**. 2020. Height growth–rate at a given height: a
