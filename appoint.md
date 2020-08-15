@@ -6,7 +6,6 @@ excerpt: "on publications"
 sssssssssssssss
 xxxxxxxxxxxxxxx
 zzzzzzzz
-
 ## Main
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
