@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: resume
 title: Academic positions 
-excerpt: "on publications"
+excerpt: "on academic"
+
 ---
 
 ## Main
