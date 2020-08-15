@@ -4,17 +4,15 @@ title: Academic positions
 excerpt: "on publications"
 ---
 
-## Peer-reviewed papers
+## Main
 
-`2020`
+`2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
 Universidad Mayor, Santiago, Chile.
 
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
-Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
-Universidad Mayor, Santiago, Chile.
 
 ## Adjunt academic positions
 `2018–present` 
