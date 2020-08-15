@@ -1,9 +1,10 @@
 ---
-layout: resume
+layout: page
 title: Academic positions 
 excerpt: "on publications"
 ---
-### Main
+
+## Main
 `2018-present`
 Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
