@@ -8,7 +8,7 @@ A collection of links, documents, and so on, that might be of interest.
 
 ## My own web sites
 
-* [My collection of syntaxis and related things for Linux](/myLinuxHelp).
+* [My collection of syntaxis and related things for Linux](/myLinuxHelp/index.md).
 * [My old website](https://cseljatib.wixsite.com/biometria)
 
 
