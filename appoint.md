@@ -1,9 +1,15 @@
 ---
 layout: resume
-title: Academic positions 
-excerpt: "on academic"
-
+title: Academic positions  
+excerpt: "on publications"
 ---
+
+## PMain
+
+`2020`
+**Salas-Eljatib C**. 2020. Height growth–rate at a given height: a
+mathematical perspective for forest productivity. **Ecological
+Modelling** 431 [(https://doi.org/10.1016/j.ecolmodel.2020.109198)](https://doi.org/10.1016/j.ecolmodel.2020.109198).
 
 ## Main
 `2018-present`
