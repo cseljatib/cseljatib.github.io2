@@ -22,15 +22,15 @@ __Students__
 
 
 ## Research collaborators
-[Colleagues with whom I collaborate in ongoing studies. See them here.](./collabora.md)
+Colleagues with whom I collaborate in ongoing studies. [See them here.](./collabora.md)
 
 ## Alumni
 
-[Former students, post-docs, and visiting students. See them here.](./alumni.md)
+Former students, post-docs, and visiting students. [See them here.](./alumni.md)
 
 ## Mentors
 
-[I had been fortunate enough to be able to work with remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. See them here.](./mentors.md)
+I had been fortunate enough to be able to work with remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. [See them here.](./mentors.md)
 
 ![](images/groupRuca.jpg)
 
