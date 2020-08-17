@@ -181,6 +181,23 @@ Arriagada C. 2015. [Effect of mixing soil saprophytic fungi with organic
 residues on the response of Solanum lycopersicum to arbuscular
 mycorrhizal fungi](https://doi.org/10.1111/sum.12160). **Soil Use and Management** 31(1): 155–164.
 
+`2014`
+Cifuentes R., Van der Zande D, Farifteh J, **Salas C**, Coppin P. 2014.
+*Effects of voxel size and sampling setup on the estimation of forest
+canopy gap fraction from terrestrial laser scanning data*.
+**Agricultural and Forest Meteorology** 194: 230–240.
+
+`2014`
+Castro M, Parra JC, Morales LJ, **Salas C**. 2014. *Establishment of
+empirical relations between fuel moisture content and the normalised
+difference vegetation index*. **Journal of Soil Science and Plant
+Nutrition** 14 (3): 670–675.
+
+`2014`
+Cifuentes R, Van der Zande D, **Salas C**, Farifteh J, Coppin P. 2014.
+Correction of erroneous LiDAR measurements in artificial forest canopy
+experimental setups. **Forests** 5: 1565–1583.
+
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
