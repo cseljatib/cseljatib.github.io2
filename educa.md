@@ -6,16 +6,16 @@ excerpt: "on education"
 
 
 `2011`
-__Yale University__
-Ph.D. in Biometrics
+__[Yale University](https://www.yale.edu/)__
+Ph.D. in [Biometrics](https://environment.yale.edu/)
 
 `2009`
 __Yale University__
-M.Phil. in Biometrics
+M.Phil. in [Biometrics](https://environment.yale.edu/)
 
 `2006`
 __University of Idaho__
-M.Sc. in Statistics
+M.Sc. in [Statistics](https://www.uidaho.edu/sci/stat)
 
 `2000`
 __Universidad de La Frontera__
