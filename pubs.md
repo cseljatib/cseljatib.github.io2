@@ -140,6 +140,29 @@ H, Gianelle D, Parfenova EI, **Salas C**, Lee E, Lee B, Kim HS, *et al*.
 2016. [Positive biodiversity-productivity relationship predominant in
 global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **Science** 354 (6309): 201–205.
 
+
+`2016`
+**Salas C**, Donoso PJ, Vargas R, Arriagada CA, Pedraza R, Soto DP.
+2016. [The forest sector in Chile: an overview and current challenges](https://doi.org/10.5849/jof.14-062).
+**Journal of Forestry** 114(5): 562–571.
+
+`2016`
+**Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del
+crecimiento de bosques: estado del arte](https://scielo.conicyt.cl/pdf/bosque/v37n1/art01.pdf) \[Forest growth modelling: the
+state of the art\]. **Bosque** 37(1): 3–12.
+
+`2016`
+Korhonen L, **Salas C**, Østgård T, Lien V, Gobakken T, Næsset E. 2016.
+[Predicting the occurrence of large-diameter trees using airborne laser
+scanning](https://doi.org/10.1139/cjfr-2015-0384). **Canadian Journal of Forest Research** 46: 461–469.
+
+`2016`
+Altamirano A, Cely JP, Etter A, Miranda A, Fuentes-Ramírez A, Acevedo P,
+**Salas C**, Vargas R. 2016. The invasive species Ulex europaeus
+(Fabaceae) shows high dynamism in a fragmented landscape of
+south-central Chile. **Environmental Monitoring and Assessment** 188:
+495–509.
+
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
