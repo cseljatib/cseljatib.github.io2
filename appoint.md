@@ -4,7 +4,7 @@ title: Academic positions
 excerpt: "on publications"
 ---
 
-## MainPeer-reviewed papers
+## Main-
 
 `2018-present`
 **Full Professor**, [Centro de Modelación y Monitoreo de
@@ -28,15 +28,15 @@ University of Maine, Orono, Maine, USA.
 `2000-2018` 
 Associate Professor (2012–2018), Assistant Professor
 (2004–2011), Lecturer (2000–2004), Departamento de Ciencias Forestales \[Forest Science Department\], 
-[Universidad de La Frontera](https://ufro.cl), Temuco, Chile.
+[Universidad de La Frontera](https://www.ufro.cl), Temuco, Chile.
 
 `2016` 
 Visiting Professor, Departamento de Silvicultura y
 Conservación de la Naturaleza, Universidad de Chile, Santiago, Chile.
 
 `2006-2010` 
-Teaching Fellow, School of Forestry and Environmental
-Studies, Yale University, New Haven, Connecticut, USA.
+Teaching Fellow, [School of Forestry and Environmental
+Studies](https://environment.yale.edu), Yale University, New Haven, Connecticut, USA.
 
 `2005-2006` 
 Research Assistant, Forest Biometrics Laboratory, University
