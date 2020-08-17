@@ -111,5 +111,29 @@ Fuentes-Ramirez A, Barrientos M, Almonacid L, Arriagada-Escamilla C,
 nutrients and plant recovery in fire-affected Araucaria araucana
 forests. **Applied Soil Ecology** 131: 99–106.
 
+`2017`
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2017. Differentiating
+structural and compositional attributes across successional stages in
+Chilean temperate rainforests. **Forests** 8(9): 329
+
+
+`2017`
+Kralicek K, Huy B, Poudel KP, Temesgen H, **Salas C**. 2017.
+Simultaneous estimation of above- and below-ground biomass in tropical
+forests of Viet Nam. **Forest Ecology and Management** 390: 147–156.
+
+`2017`
+Cifuentes R., Van der Zande D, **Salas C**, Tits L., Farifteh J, Coppin
+P. 2017. Modeling 3D Canopy Structure and Transmitted PAR Using
+Terrestrial LiDAR. **Canadian Journal of Remote Sensing** 43(2):
+124–139.
+
+`2017`
+Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ.
+2017. Light and nitrogen interact to influence regeneration in
+old-growth Nothofagus-dominated forests in south-central Chile.
+**Forest Ecology and Management** 384: 303–313.
+
 <!-- ### Footer
+ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
