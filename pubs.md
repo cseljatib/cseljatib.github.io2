@@ -139,9 +139,7 @@ global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **
 
 
 `2016`
-**Salas C**, Donoso PJ, Vargas R, Arriagada CA, Pedraza R, Soto DP.
-2016. [The forest sector in Chile: an overview and current challenges](https://doi.org/10.5849/jof.14-062).
-**Journal of Forestry** 114(5): 562–571.
+**Salas C**, Donoso PJ, Vargas R, Arriagada CA, Pedraza R, Soto DP. 2016. [The forest sector in Chile: an overview and current challenges](https://doi.org/10.5849/jof.14-062). **Journal of Forestry** 114(5): 562–571.
 
 `2016`
 **Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del
@@ -169,7 +167,7 @@ Investigación Agraria** 42(3): 427–441.
 `2015`
 Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J,
 Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C,
-Piotto D, *et al*. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature**</span> 525: 201–205.
+Piotto D, *et al*. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature** 525: 201–205.
 
 `2015`
 Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability
