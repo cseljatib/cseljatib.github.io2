@@ -7,6 +7,7 @@ excerpt: "on education"
 
 `2011`
 __[Yale University](https://www.yale.edu/)__, USA. 
+
 Ph.D. in [Biometrics](https://environment.yale.edu/)
 
 `2009`
@@ -15,11 +16,11 @@ M.Phil. in [Biometrics](https://environment.yale.edu/)
 
 `2006`
 __[University of Idaho](https://www.uidaho.edu)__, USA.  
-M.Sc. in [Statistics](https://www.uidaho.edu/sci/stat)
+M.S. in [Statistics](https://www.uidaho.edu/sci/stat)
 
 `2000`
 __Universidad de La Frontera__, Chile.  
-B.Sc. Forest Enginneering
+B.S. in Forest Enginneering
 
 
 <!-- ### Footer
