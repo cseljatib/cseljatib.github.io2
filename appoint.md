@@ -1,17 +1,13 @@
 ---
 layout: resume
-title: Academic positions  
+title: Academic positions
 excerpt: "on publications"
 ---
 
-## Main
+## Peer-reviewed papers
 
 `2020`
-**Salas-Eljatib C**. 2020. Height growth–rate at a given height: a
-mathematical perspective for forest productivity. **Ecological
-Modelling** 431 [(https://doi.org/10.1016/j.ecolmodel.2020.109198)](https://doi.org/10.1016/j.ecolmodel.2020.109198).
-`2018-present`
-Full Professor, Centro de Modelación y Monitoreo de
+**Salas-Eljatib C**. Full Professor, Centro de Modelación y Monitoreo de
 Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
 Universidad Mayor, Santiago, Chile.
 
