@@ -82,6 +82,34 @@ of 26-year-old mixed forests following different regeneration cutting
 treatments in Andean temperate rainforests of south-central Chile.
 **Forest Ecology and Management** 432: 686–693.
 
+`2018`
+**Salas-Eljatib C**, Weiskittel AR. 2018. Evaluation of modelling
+strategies for assessing self-thinning behavior and carrying capacity.
+**Ecology and Evolution** 8(22): 10768–10779.
+
+`2018`
+**Salas-Eljatib C**, Fuentes-Ramirez A, Gregoire TG, Altamirano A,
+Yaitul V. 2018. A study on the effects of unbalanced data when fitting
+logistic regression models in ecology. **Ecological Indicators** 85:
+502–508.
+
+`2018`
+Vargas-Gaete R, **Salas-Eljatib C**, Gärtner SM, Vidal OJ, Bannister JR,
+Pauchard A. 2018. Invasive plant species thresholds in the forests of
+Robinson Crusoe Island, Chile. **Plant Ecology & Diversity** 11(2):
+205–215.
+
+`2018`
+Cifuentes R., Van der Zande D, **Salas-Eljatib C**, Farifteh J, Coppin
+P. 2018. A simulation study using terrestrial LiDAR point cloud data to
+quantify spectral variability of a broad-leaved forest canopy.
+**Sensors** 18(10): 3357 `doi:10.3390/s18103357`.
+
+`2018`
+Fuentes-Ramirez A, Barrientos M, Almonacid L, Arriagada-Escamilla C,
+**Salas-Eljatib C**. 2018. Short-term response of soil microorganisms,
+nutrients and plant recovery in fire-affected Araucaria araucana
+forests. **Applied Soil Ecology** 131: 99–106.
 
 <!-- ### Footer
 Last updated: August 2020 -->
