@@ -216,16 +216,23 @@ a partial disturbance\]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
 `2009`
-Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate (http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
+Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate] (http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
 
 `2009`
 **Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](https://www.researchgate.net/publication/228648363_Por_que_comprar_un_programa_estadistico_si_existe_R) \[Why purchase commercial statistical software if there is R?\]. **Ecología Austral** 18(2): 223–231.
 
-`2009`
-**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://www.fs.fed.us/rm/pubs_other/rmrs_2007_salas_c001.pdf). **Forest Science** 54(1): 107–122.
+`2008`
+**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://doi.org/10.1093/forestscience/54.1.107). **Forest Science** 54(1): 107–122.
 
+`2008`
 **Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[Suggestions to improve the quality of Chilean scientific journals: an application to forest science with *Bosque*\]. **Bosque** 29(1): 3–10.
 
+`2007`
+**Salas C**. 2007. ¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro \[Where the best chilean forest research is going?: Past, present, and future\]. **Bosque Nativo** 40: 10–13.
+
+`2007`
+Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and
+slope in models of forest species composition and productivity](https://doi.org/10.1093/forestscience/53.4.486). **Forest Science** 53(4): 486–492.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
