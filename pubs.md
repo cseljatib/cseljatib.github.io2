@@ -160,6 +160,29 @@ Altamirano A, Cely JP, Etter A, Miranda A, Fuentes-Ramírez A, Acevedo P,
 south-central Chile. **Environmental Monitoring and Assessment** 188:
 495–509.
 
+`2015`
+González ME, Szejner P, Donoso PJ, **Salas C**. 2015. [Fire, logging and
+establishment patterns of second-growth forests in south-central Chile:
+implications for their management and restoration](https://scielo.conicyt.cl/pdf/ciagr/v42n3/art11.pdf). **Ciencia e
+Investigación Agraria** 42(3): 427–441.
+
+`2015`
+Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J,
+Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C,
+Piotto D, *et al*. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature**</span> 525: 201–205.
+
+`2015`
+Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability
+and soil compaction influence the growth of underplanted Nothofagus
+following partial shelterwood harvest and soil scarification](http://dx.doi.org/10.1139/cjfr-2014-0353).
+**Canadian Journal of Forest Research** 45: 998–1005.
+
+`2015`
+Almonacid L, Fuentes A, Ortiz J, **Salas C**, García-Romera I, Ocampo J,
+Arriagada C. 2015. [Effect of mixing soil saprophytic fungi with organic
+residues on the response of Solanum lycopersicum to arbuscular
+mycorrhizal fungi](https://doi.org/10.1111/sum.12160). **Soil Use and Management** 31(1): 155–164.
+
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
