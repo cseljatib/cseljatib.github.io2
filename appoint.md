@@ -6,9 +6,9 @@ excerpt: "on publications"
 
 ## Peer-reviewed papers
 
-`2020`
-**Salas-Eljatib C**. Full Professor, Centro de Modelación y Monitoreo de
-Ecosistemas \[Center for Ecosystem Modelling and Monitoring\],
+`2018-present`
+**Full Professor**, [Centro de Modelación y Monitoreo de
+Ecosistemas](https://cem.umayor.cl) \[Center for Ecosystem Modelling and Monitoring\],
 Universidad Mayor, Santiago, Chile.
 
 ## Adjunt academic positions
