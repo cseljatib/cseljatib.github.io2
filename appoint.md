@@ -4,7 +4,7 @@ title: Academic positions
 excerpt: "on publications"
 ---
 
-## Peer-reviewed papers
+## MainPeer-reviewed papers
 
 `2018-present`
 **Full Professor**, [Centro de Modelación y Monitoreo de
@@ -17,18 +17,18 @@ Associate Professor, Vicerrectoría de Investigación y postgrado \[Vice-preside
 Universidad de La Frontera, Temuco, Chile.
 
 `2020–present` 
-Full Professor, Departamento de Silvicultura y
-Conservación de la Naturaleza \[Department of Silviculture and Nature Conservancy\], Universidad de Chile, Santiago, Chile.
+Full Professor, [Departamento de Silvicultura y
+Conservación de la Naturaleza](http://www.forestal.uchile.cl) \[Department of Silviculture and Nature Conservancy\], Universidad de Chile, Santiago, Chile.
 
 `2017–present`
-Faculty Associate, School of Forest Resources,
+Faculty Associate, [School of Forest Resources](https://forest.umaine.edu),
 University of Maine, Orono, Maine, USA.
 
 ## Former academic-related appointments
 `2000-2018` 
 Associate Professor (2012–2018), Assistant Professor
 (2004–2011), Lecturer (2000–2004), Departamento de Ciencias Forestales \[Forest Science Department\], 
-Universidad de La Frontera, Temuco, Chile.
+[Universidad de La Frontera](https://ufro.cl), Temuco, Chile.
 
 `2016` 
 Visiting Professor, Departamento de Silvicultura y
