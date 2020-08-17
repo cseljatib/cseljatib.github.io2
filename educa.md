@@ -14,7 +14,7 @@ __Yale University__
 M.Phil. in [Biometrics](https://environment.yale.edu/)
 
 `2006`
-__University of Idaho__
+__[University of Idaho](https://www.uidaho.edu)__
 M.Sc. in [Statistics](https://www.uidaho.edu/sci/stat)
 
 `2000`
