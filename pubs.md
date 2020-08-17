@@ -131,13 +131,10 @@ Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ. 2017. [Ligh
 **Forest Ecology and Management** 384: 303–313.
 
 `2016`
-Liang J, Crowther TW, Picard N, Wiser S, Zhou M, Alberti G, Ernst-Detlef
-Schulze, A. David McGuire, Bozzato F, Pretzsch H, de-Miguel S, Paquette
-A, Herault B, Scherer-Lorenzen M, Barrett CB, Glick HB, Hengeveld GN,
-Nabuurs GJ, Pfautsch S, Viana H, Vibrans AC, Ammer C, Schall P, Verbyla
-D, Tchebakova N, Fischer M, Watson JV, Chen HYV, Lei X, Schelhaas MJ, Lu
-H, Gianelle D, Parfenova EI, **Salas C**, Lee E, Lee B, Kim HS, *et al*.
-2016. [Positive biodiversity-productivity relationship predominant in
+Liang J, Crowther TW, Picard N, Wiser S, Zhou M, Alberti G, Ernst-Detlef Schulze, A. David McGuire, Bozzato F, Pretzsch H,
+de-Miguel S, Paquette A, Herault B, Scherer-Lorenzen M, Barrett CB, Glick HB, Hengeveld GN, Nabuurs GJ, Pfautsch S, Viana H,
+Vibrans AC, Ammer C, Schall P, Verbyla D, Tchebakova N, Fischer M, Watson JV, Chen HYV, Lei X, Schelhaas MJ, Lu H, Gianelle D,
+Parfenova EI, **Salas C**, Lee E, Lee B, Kim HS, *et al*. 2016. [Positive biodiversity-productivity relationship predominant in
 global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **Science** 354 (6309): 201–205.
 
 
