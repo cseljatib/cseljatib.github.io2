@@ -11,7 +11,7 @@ Doctor of Philosophy in [Biometrics](https://environment.yale.edu/)
 
 
 `2011`
-__Yale University__, USA.  
+__[Yale University](https://www.yale.edu/)__, USA.  
 Doctor of Philosofy in [Biometrics](https://environment.yale.edu/)
 
 `2009`
