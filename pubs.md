@@ -48,6 +48,40 @@ Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,
 when restoring the slow-growing conifer Pilgerodendron uviferum in
 southern bog forests. **Restoration Ecology** 28(2): 396–407.
 
-<!-- ### Footer
+`2019`
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. Índice de bosque
+adulto: Una herramienta para evaluar estados de desarrollo de bosques
+nativos de tierras bajas del centro-sur de Chile \[Old-growth Index: a
+tool to evaluate developmental stages in native forestsin the lowlands
+of south-central Chile\]. **Bosque** 40(2): 235–240.
 
+`2019`
+Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P,
+Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
+Routh D, Peay KG, Abegg M, ..., **Salas-Eljatib C**, *et al*. 2019.
+Climatic controls of decomposition drive the global biogeography of
+forest-tree symbioses. **Nature** 569: 404–408.
+
+`2019`
+**Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019.
+Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
+sur (41-43 S) de Chile \[Mixed-effects height-diameter
+models for Drimys winteri in the south (41-43 S) of Chile\].
+**Bosque** 40(1): 71–80.
+
+`2019`
+Vargas-Gaete R, Doussoulin, H, Smith-Ramírez C, Bravo S, **Salas-Eljatib
+C**, Andrade N, Trávníček B. 2019. Evaluation of rust pathogenicity
+(Phragmidium violaceum) as a biological control agent for the invasive
+plant Rubus ulmifolius on Robinson Crusoe Island, Chile. **Australasian
+Plant Pathology** 48(3): 201–208.
+
+`2019`
+Donoso PJ, Schlegel B, **Salas-Eljatib C**, Donoso C. 2019. Development
+of 26-year-old mixed forests following different regeneration cutting
+treatments in Andean temperate rainforests of south-central Chile.
+**Forest Ecology and Management** 432: 686–693.
+
+
+<!-- ### Footer
 Last updated: August 2020 -->
