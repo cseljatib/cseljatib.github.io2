@@ -49,14 +49,13 @@ southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology*
 `2019`
 Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque
 adulto: Una herramienta para evaluar estados de desarrollo de bosques
-nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[Old-growth Index: a
-tool to evaluate developmental stages in native forestsin the lowlands
+nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands
 of south-central Chile\]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P,
 Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
-Routh D, Peay KG, Abegg M, ..., **Salas-Eljatib C**, *et al*. 2019.
+Routh D, Peay KG, Abegg M, ..., **Salas-Eljatib C**, et al. 2019.
 [Climatic controls of decomposition drive the global biogeography of
 forest-tree symbioses](https://doi.org/10.1038/s41586-019-1128-0). **Nature** 569: 404–408.
 
@@ -165,20 +164,14 @@ implications for their management and restoration](https://scielo.conicyt.cl/pdf
 Investigación Agraria** 42(3): 427–441.
 
 `2015`
-Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J,
-Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C,
-Piotto D, *et al*. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature** 525: 201–205.
+Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J, Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C, Piotto D, et al. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature** 525: 201–205.
 
 `2015`
-Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability
-and soil compaction influence the growth of underplanted Nothofagus
-following partial shelterwood harvest and soil scarification](http://dx.doi.org/10.1139/cjfr-2014-0353).
+Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability and soil compaction influence the growth of underplanted Nothofagus following partial shelterwood harvest and soil scarification](http://dx.doi.org/10.1139/cjfr-2014-0353).
 **Canadian Journal of Forest Research** 45: 998–1005.
 
 `2015`
-Almonacid L, Fuentes A, Ortiz J, **Salas C**, García-Romera I, Ocampo J,
-Arriagada C. 2015. [Effect of mixing soil saprophytic fungi with organic
-residues on the response of Solanum lycopersicum to arbuscular
+Almonacid L, Fuentes A, Ortiz J, **Salas C**, García-Romera I, Ocampo J, Arriagada C. 2015. [Effect of mixing soil saprophytic fungi with organic residues on the response of Solanum lycopersicum to arbuscular
 mycorrhizal fungi](https://doi.org/10.1111/sum.12160). **Soil Use and Management** 31(1): 155–164.
 
 `2014`
@@ -193,6 +186,34 @@ Cifuentes R, Van der Zande D, **Salas C**, Farifteh J, Coppin P. 2014. [Correcti
 
 `2013`
 Altamirano A, **Salas C**, Yaitul V, Smith-Ramírez C, Ávila A. 2013. Influencia de la heterogeneidad del paisaje en la ocurrencia de incendios forestales en Chile Central. **Revista de Geografía del Norte Grande** 55: 157–170.
+
+`2010`
+**Salas C**, Ene L, Gregoire TG, Næsset E, and Gobakken T. 2010.
+[Modelling tree diameter from airborne laser scanning derived variables:
+a comparison of spatial statistical models](http://dx.doi.org/10.1016/j.rse.2010.01.020). **Remote Sensing of
+Environment** 114 (6): 1277–1285.
+
+`2010`
+**Salas C**, Gregoire TG. 2010. [Statistical analysis of ratio
+estimators and their estimators of variances when the auxiliary variate
+is measured with error](http://dx.doi.org/10.1007/s10342-009-0277-3). **European Journal of Forest Research** 129(5):
+847–861.
+
+`2010`
+**Salas C**, Ene L, Ojeda N, Soto H. 2010. [Métodos estadísticos
+paramétricos y no-paramétricos para predecir variables de rodal basados
+en Landsat ETM+: una comparación en un bosque de Araucaria araucana en
+Chile](http://mingaonline.uach.cl/pdf/bosque/v31n3/art02.pdf) \[Parametric and non-parametric statistical methods for
+predicting plotwise variables based on Landsat ETM+: a comparison in an
+Araucaria araucana forest in Chile\]. **Bosque** 31(3): 179–194.
+
+`2010`
+Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad
+estructural y espacial de un bosque mixto dominado por Nothofagus
+dombeyi después de un disturbio parcial](http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf) \[Structural and spatial
+heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after
+a partial disturbance\]. **Revista Chilena de Historia Natural** 83(3):
+335–347.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
