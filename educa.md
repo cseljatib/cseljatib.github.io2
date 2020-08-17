@@ -5,18 +5,15 @@ excerpt: "on education"
 ---
 
 
-`2011`
-__[Yale University](https://www.yale.edu/)__, USA. 
-Doctor of Philosophy in [Biometrics](https://environment.yale.edu/)
 
 
 `2011`
 __[Yale University](https://www.yale.edu/)__, USA.  
-Doctor of Philosofy in [Biometrics](https://environment.yale.edu/)
+Doctor of Philosophy in [Biometrics](https://environment.yale.edu/)
 
 `2009`
 __Yale University__, USA.  
-Master of Philosofy in [Biometrics](https://environment.yale.edu/)
+Master of Philosophy in [Biometrics](https://environment.yale.edu/)
 
 `2006`
 __[University of Idaho](https://www.uidaho.edu)__, USA.  
