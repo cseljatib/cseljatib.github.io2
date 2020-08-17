@@ -222,7 +222,7 @@ Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the 
 **Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](https://www.researchgate.net/publication/228648363_Por_que_comprar_un_programa_estadistico_si_existe_R) \[Why purchase commercial statistical software if there is R?\]. **Ecología Austral** 18(2): 223–231.
 
 `2008`
-**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://doi.org/10.1093/forestscience/54.1.107). **Forest Science** 54(1): 107–122.
+**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://academic.oup.com/forestscience/article/54/1/107/4604379). **Forest Science** 54(1): 107–122.
 
 `2008`
 **Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[Suggestions to improve the quality of Chilean scientific journals: an application to forest science with *Bosque*\]. **Bosque** 29(1): 3–10.
@@ -232,7 +232,22 @@ Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the 
 
 `2007`
 Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and
-slope in models of forest species composition and productivity](https://doi.org/10.1093/forestscience/53.4.486). **Forest Science** 53(4): 486–492.
+slope in models of forest species composition and productivity](https://academic.oup.com/forestscience/article/53/4/486/4604065). **Forest Science** 53(4): 486–492.
+
+`2006`
+**Salas C**, LeMay V, Núñez P, Pacheco P, and Espinosa A. 2006. [Spatial
+patterns in an old-growth Nothofagus obliqua forest in south-central
+Chile](http://dx.doi.org/10.1016/j.foreco.2006.04.037). **Forest Ecology and Management** 231(1-3): 38–46.
+
+`2006`
+**Salas C**, and García O. 2006. [Modelling height development of mature
+Nothofagus obliqua](http://dx.doi.org/10.1016/j.foreco.2006.04.015). **Forest Ecology and Management** 229(1-3): 1–6.
+
+`2006`
+Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006.
+[Daños en casas de madera ocasionados por coleópteros xilofagos, IX
+Región, Chile](/myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf) \[Damages to wooden houses caused by xylophagus
+Coleoptera, IX Region, Chile\]. **Bosque** 27(1): 52–56.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
