@@ -9,6 +9,11 @@ excerpt: "on education"
 __[Yale University](https://www.yale.edu/)__, USA. 
 Doctor of Philosophy in [Biometrics](https://environment.yale.edu/)
 
+
+`2011`
+__Yale University__, USA.  
+Doctor of Philosofy in [Biometrics](https://environment.yale.edu/)
+
 `2009`
 __Yale University__, USA.  
 Master of Philosofy in [Biometrics](https://environment.yale.edu/)
