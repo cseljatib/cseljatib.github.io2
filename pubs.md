@@ -216,7 +216,16 @@ a partial disturbance\]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
 `2009`
-Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
+Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate (http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
+
+`2009`
+**Salas C**. 2008. ?‘Por qué comprar un programa estadístico si existe R? \[Why purchase commercial statistical software if there is R?\]. **Ecología Austral** 18(2): 223–231.
+
+`2009`
+**Salas C**, Stage AR, and Robinson AP. 2008. Modeling effects of overstory density and competing vegetation on tree height growth. **Forest Science** 54(1): 107–122.
+
+**Salas C**. 2008. Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque \[Suggestions to improve the quality of Chilean scientific journals: an application to forest science with *Bosque*\]. **Bosque** 29(1): 3–10.
+
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
