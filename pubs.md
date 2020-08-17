@@ -30,9 +30,8 @@ tree species following restoration treatments in high-graded temperate
 rainforests](https://doi.org/10.3390/f11040401). **Forests** 11(4): 401. 
 
 `2020`
-Donoso P, Puettmann K, D’Amato A, Ponce D, **Salas-Eljatib C**, Ojeda P. 2020. Short-term effects of variable-density thinning on regeneration
-in hardwood-dominated temperate rainforests. **Forest Ecology and
-Management** 464 [(https://doi.org/10.1016/j.foreco.2020.118058)](https://doi.org/10.1016/j.foreco.2020.118058).
+Donoso P, Puettmann K, D’Amato A, Ponce D, **Salas-Eljatib C**, Ojeda P. 2020. [Short-term effects of variable-density thinning on regeneration in hardwood-dominated temperate rainforests](https://doi.org/10.1016/j.foreco.2020.118058). **Forest Ecology and
+Management** 464.
 
 `2020`
 Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J,
@@ -128,10 +127,18 @@ Terrestrial LiDAR](https://doi.org/10.1080/07038992.2017.1286937). **Canadian Jo
 124–139.
 
 `2017`
-Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ.
-2017. [Light and nitrogen interact to influence regeneration in
-old-growth Nothofagus-dominated forests in south-central Chile](https://doi.org/10.1016/j.foreco.2016.11.016).
+Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ. 2017. [Light and nitrogen interact to influence regeneration in old-growth Nothofagus-dominated forests in south-central Chile](https://doi.org/10.1016/j.foreco.2016.11.016).
 **Forest Ecology and Management** 384: 303–313.
+
+`2016`
+Liang J, Crowther TW, Picard N, Wiser S, Zhou M, Alberti G, Ernst-Detlef
+Schulze, A. David McGuire, Bozzato F, Pretzsch H, de-Miguel S, Paquette
+A, Herault B, Scherer-Lorenzen M, Barrett CB, Glick HB, Hengeveld GN,
+Nabuurs GJ, Pfautsch S, Viana H, Vibrans AC, Ammer C, Schall P, Verbyla
+D, Tchebakova N, Fischer M, Watson JV, Chen HYV, Lei X, Schelhaas MJ, Lu
+H, Gianelle D, Parfenova EI, **Salas C**, Lee E, Lee B, Kim HS, *et al*.
+2016. [Positive biodiversity-productivity relationship predominant in
+global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **Science** 354 (6309): 201–205.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
