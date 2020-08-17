@@ -249,6 +249,30 @@ Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006.
 Región, Chile](/myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf) \[Damages to wooden houses caused by xylophagus
 Coleoptera, IX Region, Chile\]. **Bosque** 27(1): 52–56.
 
+`2005`
+**Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para
+Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf)
+\[Volume equations for *Pinus pinaster* Ait. in the Baixo Miño region,
+Galicia, Spain\]. **Quebracho** 12: 11–22.
+
+`2005`
+**Salas C**, [Reyes M, and Bassaber C. 2005. *Medición de diámetros
+fustales con relascopio y forcípula finlandesa: efectos en la estimación
+de volumen](/myPubs/2005relascope_Bosque.pdf) \[Measurement of upper-stem diameters with Bitterlich mirror
+relascope and Finnish parabolic caliper: effects on volume
+estimations\]. **Bosque** 26(2): 81–90.
+
+`2002`
+**Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un
+relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[Fitness and validation of
+volume equations for a relict forest of Roble-Laurel-Lingue\].
+**Bosque** 23(2): 81–92.
+
+`2001`
+**Salas C**. 2001. [Caracterización básica del relicto de biodiversidad
+Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[Basic characterization of the biodiversity remnant
+Rucamanque\]. **Bosque Nativo** 29: 3–9.
+
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
