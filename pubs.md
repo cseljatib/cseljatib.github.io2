@@ -215,6 +215,9 @@ heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after
 a partial disturbance\]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
+`2009`
+Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
+
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
 Last updated: August 2020 -->
