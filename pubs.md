@@ -210,7 +210,7 @@ Araucaria araucana forest in Chile\]. **Bosque** 31(3): 179–194.
 `2010`
 Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad
 estructural y espacial de un bosque mixto dominado por Nothofagus
-dombeyi después de un disturbio parcial](http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf) \[Structural and spatial
+dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[Structural and spatial
 heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after
 a partial disturbance\]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
@@ -246,25 +246,25 @@ Nothofagus obliqua](http://dx.doi.org/10.1016/j.foreco.2006.04.015). **Forest Ec
 `2006`
 Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006.
 [Daños en casas de madera ocasionados por coleópteros xilofagos, IX
-Región, Chile](/myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf) \[Damages to wooden houses caused by xylophagus
+Región, Chile](http://dx.doi.org/10.4067/S0717-92002006000100006) \[Damages to wooden houses caused by xylophagus
 Coleoptera, IX Region, Chile\]. **Bosque** 27(1): 52–56.
 
 `2005`
 **Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para
-Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf)
+Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](https://fcf.unse.edu.ar/archivos/quebracho/q12-01-Pinus-pinaster.pdf)
 \[Volume equations for *Pinus pinaster* Ait. in the Baixo Miño region,
 Galicia, Spain\]. **Quebracho** 12: 11–22.
 
 `2005`
-**Salas C**, [Reyes M, and Bassaber C. 2005. *Medición de diámetros
+**Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros
 fustales con relascopio y forcípula finlandesa: efectos en la estimación
-de volumen](/myPubs/2005relascope_Bosque.pdf) \[Measurement of upper-stem diameters with Bitterlich mirror
+de volumen](http://dx.doi.org/10.4067/S0717-92002005000200010) \[Measurement of upper-stem diameters with Bitterlich mirror
 relascope and Finnish parabolic caliper: effects on volume
 estimations\]. **Bosque** 26(2): 81–90.
 
 `2002`
 **Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un
-relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[Fitness and validation of
+relicto del bosque de Roble-Laurel-Lingue](http://dx.doi.org/10.4067/S0717-92002002000200009) \[Fitness and validation of
 volume equations for a relict forest of Roble-Laurel-Lingue\].
 **Bosque** 23(2): 81–92.
 
@@ -275,4 +275,9 @@ Rucamanque\]. **Bosque Nativo** 29: 3–9.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
+salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
+salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
+salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf
+salas05 /myPubs/2005relascope_Bosque.pdf
+salas02 /myPubs/2002ajuvolrolali_Bosque.pdf
 Last updated: August 2020 -->
