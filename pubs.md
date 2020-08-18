@@ -142,7 +142,7 @@ global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **
 
 `2016`
 **Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del
-crecimiento de bosques: estado del arte](https://scielo.conicyt.cl/pdf/bosque/v37n1/art01.pdf) \[Forest growth modelling: the
+crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) \[Forest growth modelling: the
 state of the art\]. **Bosque** 37(1): 3–12.
 
 `2016`
