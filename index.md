@@ -11,6 +11,7 @@ Our lab investigates how forest ecosystems change through time. We use both math
 * [About me](./about.md)
 * [Education](./educa.md)
 * [Academic positions](./appoint.md)
+* [Check the news](./blog.md)
 
 My location is Room 1, Center for Ecosystem Modelling and Monitoring, on the Alameda campus of the Universidad Mayor in Santiago, Chile. Email (see below) is usually the best way to get in touch.
 
