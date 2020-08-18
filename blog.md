@@ -1,8 +1,8 @@
 ---
-layout: post-index
+layout: resume
 title: All Blog Posts/News
 ---
 
 # Postdoc application
 
-[check the link](/2020-08-18-postDoc.md)
+[Want to join us as a postdoctoral researcher?](/2020-08-18-postDoc.md)
