@@ -12,11 +12,14 @@ I benefit from several talented researchers and bright students working in my la
 |Name|Brief|Pic|
 | -------- | ---------- |---------- |
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/bio-photo_Ori.jpg)|
+| -- | -- |-- |
 |*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/bio-photo_Ori.jpg)|
 |*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/bio-photo_Ori.jpg)|
 
 __Students__
 
+|Name|Brief|Pic|
+| -------- | ---------- |---------- |
 * *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
 * *Thomas Koplow*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)
 * *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
