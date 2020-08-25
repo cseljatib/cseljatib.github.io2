@@ -10,6 +10,8 @@ excerpt: "my collaborators"
 * *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.wordpress.com/)*, Assistant Professor of Restoration, Universidad de La Frontera, Temuco.
 * *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Assistant Professor of Fire Ecology, Universidad de La Frontera, Temuco.
+* *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
+* *Alvaro Promis*, Associate Professor of Forest Ecology, Universidad de Chile, Santiago.
 * *Juan Pablo Fuentes*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
 
 ## Abroad
