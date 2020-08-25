@@ -14,8 +14,7 @@ at our long-term plot network in temperate forests in Chile;
 I have a deep commitment to diversity and inclusion. Concordantly, I especially welcome inquiries from students and postdocs from underrepresented groups.
 
 __Post-docotoral positions__
-I have none currently available funding for post-doctoral positions; nonetheless, prospective interested people can apply to the Chilean National
-Science Foundation programm to cover a post-doctoral research stay with us. 
+Please check the [following call for a post-doctoral position](/2020-08-18-postDoc.md)
 
 __Graduate students__
 I am interested in advising graduate students whose research interests overlap with my own, but I am open to new topics where I could be useful too. We are especially interested in supporting graduate students. Please feel free to contact me. 
@@ -30,4 +29,6 @@ to learn applied and basic research.
 
 
 <!-- ### Footer
+I have none currently available funding for post-doctoral positions; nonetheless, prospective interested people can apply to the Chilean National
+Science Foundation programm to cover a post-doctoral research stay with us. 
 Last updated: August 2020 -->
