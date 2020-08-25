@@ -11,8 +11,10 @@ excerpt: "my collaborators"
 * *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Assistant Professor of Fire Ecology, Universidad de La Frontera, Temuco.
 * *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
-* *Alvaro Promis*, Associate Professor of Forest Ecology, Universidad de Chile, Santiago.
-* *Juan Pablo Fuentes*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
+* *[Cesar Arriagada](http://biorremediacion.ufro.cl)*, Professor of Biorremediation, Universidad de La Frontera, Temuco.
+* *[Alvaro Promis](http://sites.google.com/site/alvaropromis/Home/cv-alvaro-promis)*, Associate Professor of Forest Ecology, Universidad de Chile, Santiago.
+* *[Juan Pablo Fuentes](http://sel.forestaluchile.cl/)*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
+
 
 ## Abroad
 
