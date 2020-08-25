@@ -13,7 +13,7 @@ at our long-term plot network in temperate forests in Chile;
 
 I have a deep commitment to diversity and inclusion. Concordantly, I especially welcome inquiries from students and postdocs from underrepresented groups.
 
-__Post-docotoral positions__
+__Post-doctoral positions__
 Please check the [following call for a post-doctoral position](/2020-08-18-postDoc.md)
 
 __Graduate students__
