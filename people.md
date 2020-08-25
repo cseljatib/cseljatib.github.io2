@@ -14,8 +14,11 @@ I benefit from several talented researchers and bright students working in my la
 * *Nicolas Pino*, Mathematical Engineer.
 
 |Name|Brief|Pic|
+
 |-|-|
+
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Medium|
+
 |*Joaquín Riquelme*|High|
 
 __Students__
