@@ -17,7 +17,7 @@ Associate Professor, Vicerrectoría de Investigación y postgrado \[Vice-preside
 Universidad de La Frontera, Temuco, Chile.
 
 `2020–present` 
-Full Professor, [Departamento de Silvicultura y
+[Full Professor](http://www.forestal.uchile.cl/facultad/estructura/165559/christian-e-salas-eljatib), [Departamento de Silvicultura y
 Conservación de la Naturaleza](http://www.forestal.uchile.cl) \[Department of Silviculture and Nature Conservancy\], Universidad de Chile, Santiago, Chile.
 
 `2017–present`
