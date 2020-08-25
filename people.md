@@ -13,6 +13,11 @@ I benefit from several talented researchers and bright students working in my la
 * *Joaquín Riquelme*, Natural Resources Engineer, M.S.
 * *Nicolas Pino*, Mathematical Engineer.
 
+|Name|Brief|Pic|
+|-|-|
+|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Medium|
+|*Joaquín Riquelme*|High|
+
 __Students__
 
 * *Camilo Flores*, B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)
