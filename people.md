@@ -4,25 +4,22 @@ title: People
 excerpt: "my lab"
 ---
 
-I benefit from several talented researchers and bright students working in my lab.  Furthermore, I have listed former students at various levels, conditions, and institutions. Besides, a link to my current research collaborators. 
 
-also includes the long-term monitoring of the temperate forests in southern Chile.
-
-* [About me](./about.md)
-* [Education](./educa.md)
+* [My lab](./people.md)
 * [Research collaborators](./collabora.md). Colleagues with whom I collaborate in ongoing studies.
 * [Alumni](./alumni.md). Former students, post-docs, and visiting students.
-
+* [Mentors](./mentors.md). Remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. 
 
 ## My lab
+I benefit from several talented researchers and bright students working in my lab.
 
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato.jpg)|
 | -------- | ---------- |---------- |
 |*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/bio-photo_Ori.jpg)|
 |*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/nicoP2.jpg)|
+------
 
 __Students__
-
 
 | *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/bio-photo_Ori.jpg)|
 | -------- | ---------- |---------- |
@@ -31,15 +28,10 @@ __Students__
 | *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/bio-photo_Ori.jpg)|
 
 
-
-
-## Mentors
-
-I had been fortunate enough to be able to work with remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. [See them here.](./mentors.md)
-
 ![](images/groupRuca.jpg)
 
 <!-- ### Footer
+Former students, post-docs, and visiting students..  Furthermore, I have listed former students at various levels, conditions, and institutions. Besides, a link to my current research collaborators. 
 Our lab investigates how forest ecosystems change through time. We use both mathematical, theoretical, statistical and empirical approaches to address several research questions related to the development of forests; tree allometry; the scaling of tree-level processes to ecosystems; and the building of forest growth model. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
 ![](images/groupRuca.jpg){width=200px height=200px}
 ![](images/droneYo.JPG)
