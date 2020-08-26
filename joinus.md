@@ -6,7 +6,7 @@ excerpt: "on join us"
 
 ## Come to work with us!
 
-We are avid to work with people loving nature, ecology, and quantitative methods. Specially, we are seeking people interested in (a) forest ecology, tree phisiology, soil ecology to undertake research 
+We are avid to work with people loving nature, ecology, and quantitative methods. Specially, we are seeking people interested in (1) forest ecology, tree phisiology, soil ecology to undertake research 
 at our long-term plot network in temperate forests in Chile;
 (2) developing quantitative models to contributing to understand tree allometry and forest structure and composition; 
  (3) data analysis and management; and (4) mathematical/statisitical modelling.
