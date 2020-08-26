@@ -6,6 +6,8 @@ excerpt: "on publications"
 
 ## Peer-reviewed papers
 
+If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
+
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a
 mathematical perspective for forest productivity](https://doi.org/10.1016/j.ecolmodel.2020.109198). **Ecological
