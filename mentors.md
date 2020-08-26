@@ -20,7 +20,7 @@ research activities and academic duties.
 ---
 * [Brian Dennis](https://www.uidaho.edu/cnr/faculty/dennis) (Retired), Professor of Statistical Ecology at the University of Idaho, USA. Professor Dennis' motivated me for shifting from the MS program in forestry to the statistical one. A decision that undeniably changes my academic career.
 ---
-* Patricio Nuñéz, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me to apply quantitative
+* Patricio Núñez, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me to apply quantitative
  methods for silviculture and forest ecology.
 
 <!-- ### Footer
