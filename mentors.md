@@ -22,7 +22,6 @@ research activities and academic duties.
 ---
 * *Patricio Nunez*, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me to apply quantitative
  methods for silviculture and forest ecology.
----
 
 <!-- ### Footer
 Last updated: August 2020 -->
