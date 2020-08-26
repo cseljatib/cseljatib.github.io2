@@ -6,8 +6,9 @@ excerpt: "on mentors"
 
 ## Mentors
 
-I had been fortunate enough to be able to work with remarkable professors and researchers that drawn a profound mark in the way I currently pursue my
+I had been fortunate enough to be able to work with professors and researchers that left a profound impact in the way I carry out my
 research activities and academic duties.
+
 
 * *[Timothy G. Gregoire](https://environment.yale.edu/profile/gregoire/)*, Ph.D., Professor of Biometrics and Environmental Statistics, School of Forestry and Environmental Studies, Yale University, New Haven, CT, USA. Prof. Gregoire was my advisor during my doctoral studies at Yale, and always offered me a robust quantitative basis for understanding statistical inference and sampling. 
 ---
@@ -19,7 +20,7 @@ research activities and academic duties.
 ---
 * *[Brian Dennis](https://www.uidaho.edu/cnr/faculty/dennis)* (Retired), Ph.D., Professor of Statistical Ecology at the University of Idaho, USA. Professor Dennis' motivated me for shifting from the MS program in forestry to the statistical one. A decision that undeniably changes my academic career.
 ---
-* *Patricio Nunez*, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me the applied use of quantitative
+* *[Patricio Nunez]*, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me the applied use of quantitative
  methods in silviculture and forest ecology.
 ---
 
