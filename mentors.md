@@ -6,6 +6,9 @@ excerpt: "on mentors"
 
 ## Mentors
 
+I had been fortunate enough to be able to work with remarkable professors and researchers that drawn a profound mark in the way I currently pursue my
+research activities and academic duties.
+
 * *[Timothy G. Gregoire](https://environment.yale.edu/profile/gregoire/)*, Ph.D., Professor of Biometrics and Environmental Statistics, School of Forestry and Environmental Studies, Yale University, New Haven, CT, USA. Prof. Gregoire was my advisor during my doctoral studies at Yale, and always offered me a robust quantitative basis for understanding statistical inference and sampling. 
 ---
 * *[Albert Stage](https://www.researchgate.net/scientific-contributions/28298976-Albert-R-Stage)* (RIP), Ph.D., Chief Forest Biometrician, Forestry Science Laboratory, USDA Forest Service, Moscow, Idaho, USA. Dr Stage was my co-advisor during my Master of Science at the University of Idaho. Not only he taught me mathematical details on forest modelling but also philosophical points of view that are key for becoming a sound researcher.
@@ -15,6 +18,9 @@ excerpt: "on mentors"
 * *[Oscar García](https://www.researchgate.net/profile/Oscar_Garcia30)* (Retired), Ph.D., Professor of Forest Growth and Yield at the Northern University of British Columbia, Prince George, Canada. Professor Gargía's work has been foundational in my interests for mathematical modelling in forestry. 
 ---
 * *[Brian Dennis](https://www.uidaho.edu/cnr/faculty/dennis)* (Retired), Ph.D., Professor of Statistical Ecology at the University of Idaho, USA. Professor Dennis' motivated me for shifting from the MS program in forestry to the statistical one. A decision that undeniably changes my academic career.
+---
+* *Patricio Nunez*, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me the applied use of quantitative
+ methods in silviculture and forest ecology.
 ---
 
 <!-- ### Footer
