@@ -6,10 +6,15 @@ excerpt: "my lab"
 
 I benefit from several talented researchers and bright students working in my lab.  Furthermore, I have listed former students at various levels, conditions, and institutions. Besides, a link to my current research collaborators. 
 
+also includes the long-term monitoring of the temperate forests in southern Chile.
+
+* [About me](./about.md)
+* [Education](./educa.md)
+* [Research collaborators](./collabora.md). Colleagues with whom I collaborate in ongoing studies.
+* [Alumni](./alumni.md). Former students, post-docs, and visiting students.
+
+
 ## My lab
-
-
-
 
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato.jpg)|
 | -------- | ---------- |---------- |
@@ -26,12 +31,7 @@ __Students__
 | *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/bio-photo_Ori.jpg)|
 
 
-## Research collaborators
-Colleagues with whom I collaborate in ongoing studies. [See them here.](./collabora.md)
 
-## Alumni
-
-Former students, post-docs, and visiting students. [See them here.](./alumni.md)
 
 ## Mentors
 
