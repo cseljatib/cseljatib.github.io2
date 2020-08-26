@@ -21,9 +21,9 @@ I benefit from several talented researchers and bright students working in my la
 __Students__
 
 
-* *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/nicoRfull.jpg)|
+|* *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/nicoRfull.jpg)|
 | -------- | ---------- |---------- |
-* *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/nicoRfull.jpg)|
+* *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas.jpg)|
 | -------- | ---------- |---------- |
 * *Nicolas Rodriguez* | B.S. in Geology, Universidad Mayor (Santiago, Chile).|![](images/nicoRfull.jpg)|
 | -------- | ---------- |---------- |
