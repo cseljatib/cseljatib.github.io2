@@ -22,7 +22,7 @@ __Students__
 | *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/nicoRfull.jpg)|
 | -------- | ---------- |---------- |
 | *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas2.jpg)|
-| *Nicolas Rodriguez* | B.S. in Geology, Universidad Mayor (Santiago, Chile).|![](images/nicoR2.jpg)|
+| *Nicolas Rodriguez* | B.S. in Geology, Universidad Mayor (Santiago, Chile).|![](images/nicoR3.jpg)|
 | *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/nicoRfull.jpg)|
 
 
