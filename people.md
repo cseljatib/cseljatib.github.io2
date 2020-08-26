@@ -11,7 +11,7 @@ I benefit from several talented researchers and bright students working in my la
 
 
 | -------- | ---------- |---------- |
-|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/bio-photo_Ori.jpg)|
+|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/nicoRfull.jpg)|
 | -- | -- |-- |
 |*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/bioNN.jpg)|
 |*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/bio-photo_Ori.jpg)|
