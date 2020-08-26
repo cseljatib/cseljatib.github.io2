@@ -21,12 +21,11 @@ My main research interest is biometrics, i.e., applied statistics and mathematic
 
 ## Research projects
 
-I am currently working in a couple of research projects, as well as I have been involved in several ones. [A full list of research projects can be found here](./resproj.md)
+I am currently working in a couple of research projects, as well as I have been involved in several ones. [Our current ongoing research projects can be found here](./resproj.md)
 
-
-![](images/droneYo.JPG)
-
+![](images/pspRuca_old.jpg)
 
 <!-- ### Footer
+![](images/droneYo.JPG)
 Last updated: August 2020 -->
 
