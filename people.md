@@ -9,7 +9,7 @@ I benefit from several talented researchers and bright students working in my la
 ## My lab
 
 
-|Name|Brief|Pic|
+
 | -------- | ---------- |---------- |
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/bio-photo_Ori.jpg)|
 | -- | -- |-- |
