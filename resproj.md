@@ -14,7 +14,7 @@ Principal investigator for the project
  No. 1191816,
  carried out at Universidad Mayor, Santiago, Chile.
 
-`2019-2021` 
+`2020-2022` 
 Director for the project 
  *Developing a growth simulator of natural forests to support
 decision making in a climate change framework*. 
