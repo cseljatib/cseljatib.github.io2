@@ -5,10 +5,10 @@ excerpt: "my lab"
 ---
 
 
-* ### [My lab](./people.md)
-* ### [Research collaborators](./collabora.md). Colleagues with whom I collaborate in ongoing studies.
-* ### [Alumni](./alumni.md). Former students, post-docs, and visiting students.
-* ### [Mentors](./mentors.md). Remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. 
+* **[My lab]*(./people.md)
+* **[Research collaborators]**(./collabora.md). Colleagues with whom I collaborate in ongoing studies.
+* **[Alumni]**(./alumni.md). Former students, post-docs, and visiting students.
+* **[Mentors]**(./mentors.md). Remarkable professors and researchers that drawn a profound mark in the way I currently pursue my research activities and academic duties. 
 
 
 ## My lab
