@@ -14,9 +14,9 @@ excerpt: "my lab"
 ## My lab
 I benefit from several talented researchers and bright students working in my lab.
 
-|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato.jpg)|
+|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato2.jpg)|
 | -------- | ---------- |---------- |
-|*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/bio-photo_Ori.jpg)|
+|*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin.jpg)|
 |*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/nicoP2.jpg)|
 
 
