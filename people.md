@@ -4,6 +4,7 @@ title: People
 excerpt: "my lab"
 ---
 
+
 --------
 
 * **[My lab](./people.md)**
@@ -13,7 +14,7 @@ excerpt: "my lab"
 
 --------
 
-## [My lab](./people.md)
+## My lab
 The talented researchers and bright students working in my lab.
 
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato2.jpg)|
