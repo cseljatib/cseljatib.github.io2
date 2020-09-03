@@ -5,8 +5,8 @@ excerpt: "my lab"
 ---
 
 
-* [My lab](./people.md)
-* [Research collaborators](./collabora.md). Colleagues with whom I collaborate in ongoing studies.
+* **[My lab](./people.md)**
+* **[Research collaborators](./collabora.md)**. Colleagues with whom I collaborate in ongoing studies.
 * [Alumni](./alumni.md). Former students, post-docs, and visiting students.
 * [Mentors](./mentors.md). Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
 
