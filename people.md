@@ -4,6 +4,8 @@ title: People
 excerpt: "my lab"
 ---
 
+## [My lab](./people.md)
+## [Research collaborators](./collabora.md)
 
 * **[My lab](./people.md)**
 * **[Research collaborators](./collabora.md)**. Colleagues with whom I collaborate in ongoing studies.
@@ -11,7 +13,7 @@ excerpt: "my lab"
 * **[Mentors](./mentors.md)**. Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
 
 
-## My lab
+## [My lab](./people.md)
 I benefit from several talented researchers and bright students working in my lab.
 
 |*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato2.jpg)|
