@@ -28,12 +28,12 @@ section on “State of the forests and assessment techniques”. October 22, 200
 **Salas C**, Gregoire TG. 2008. *Statistical analysis of ratio estimators with measurement error in the auxiliary variate: a forestry application*. *In*: Summaries of the International IUFRO Conference “Linking Forest Inventory and Optimization”, Hahn et al. 2008 (Eds.), Series of Conference Papers No. 3, Center of Forestry Weihenstephan – Studienfakultat für Forstwissenschaft und Ressourcenmanagement, Technische Universität München. Freising, Germany. Pp: 21.
 
 `2006`
-Salort C, Ojeda N, **Salas C**, Herrera MA, Espinosa A., and Rebolledo R. 2006. [Estimación de parametros de inventario en bosques de Araucaria, derivado de
-imagenes Landsat TM+](/myPubs/2006landsatConChiFor.pdf). [Araucaria forests stand variables estimation from Landsat TM+ images]. *In*: Resumenes del Tercer Congreso Chileno de Ciencias Forestales [Summaries of the Third Chilean forest science congress], November 28-30, 2006. Concepción, Chile. Editorial Universidad
+Salort C, Ojeda N, **Salas C**, Herrera MA, Espinosa A., and Rebolledo R. 2006. [*Estimación de parametros de inventario en bosques de Araucaria, derivado de
+imagenes Landsat TM+*](/myPubs/2006landsatConChiFor.pdf). [Araucaria forests stand variables estimation from Landsat TM+ images]. *In*: Resumenes del Tercer Congreso Chileno de Ciencias Forestales [Summaries of the Third Chilean forest science congress], November 28-30, 2006. Concepción, Chile. Editorial Universidad
 de Concepción, Concepción, Chile. P: 217.
 
 `2005`
-Nieto L, **Salas C**, and Irisarri A. 2005. *Estudio predictivo de existencias maderables. El monte gallego en el año 2010* [Timber prediction study. The Gallego’s forest in 2010]. *In*: Actas del IV Congreso Forestal Español [Fourth Spaniard Forestry Congress]. 26-30 de Septiembre del 2005. Zaragoza, Spain.
+Nieto L, **Salas C**, and Irisarri A. 2005. *Estudio predictivo de existencias maderables. El monte gallego en el año 2010* [Timber prediction study. The Gallego’s forest in 2010]. *In*: Actas del IV Congreso Forestal Español [Fourth Spaniard Forestry Congress]. September 26-30, 2005. Zaragoza, Spain.
 
 `2001`
 Irisarri A, Nieto L, **Salas C**, and Laino R. 2001. *Ajuste de modelos de cubicación para Pinus pinaster Ait. en la comarca del Baixo Miño* [Volume models for Pinus pinaster Ait. in the Region of Baixo Miño]. In: Resumenes del Tercer Congreso Forestal Español [Summaries of the Third Spaniard Forestry Congress], Granada, Spain. pp: 843-848 
