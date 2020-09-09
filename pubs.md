@@ -10,7 +10,7 @@ excerpt: "on publications"
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
 * **[In proceedings](./proceed.md)** 
-* **[Miscellaneous](./misce.md)** 
+
 
 --------
 
@@ -286,6 +286,7 @@ Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[Basic characterization of the biodiv
 Rucamanque\]. **Bosque Nativo** 29: 3–9.
 
 <!-- ### Footer
+* **[Miscellaneous](./misce.md)** 
 ponce 17 `doi:10.3390/f8090329`
 salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
 salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
