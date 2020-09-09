@@ -8,8 +8,8 @@ excerpt: "on publications"
 --------
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
-* **[Chapters in books](./chapters.md)**. 
-* **[Miscellaneous](./misce.md)**. 
+* **[Chapters in books](./chapters.md)** 
+* **[Miscellaneous](./misce.md)** 
 
 --------
 
