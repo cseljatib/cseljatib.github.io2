@@ -9,6 +9,7 @@ excerpt: "on publications"
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
+* **[In proceedings](./proceed.md)** 
 * **[Miscellaneous](./misce.md)** 
 
 --------
