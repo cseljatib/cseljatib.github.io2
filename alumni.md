@@ -6,6 +6,16 @@ excerpt: "my alumni"
 
 I have listed former students at various levels, conditions, and institutions. 
 
+--------
+
+* **[Postdocs](#postdocs)** 
+* **[Graduate students](#graduate-students)**
+* **[Undergraduate students](#undergraduate-students)**
+* **[Visiting undergraduate students](#visiting-undergraduate-students)**
+* **[Visiting graduate students](#visiting-graduate-students)**
+
+--------
+
 ## Postdocs
 
 
@@ -156,6 +166,9 @@ supported by the PAI program of CONICYT-Chile.
 *Nicolas Pino*, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
 
 ## Visiting graduate student
+
+`2019`
+*Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile. 
 
 `2012`
 *Daniel Soto*, M.S. program in Forest Sciences, Universidad Austral de Chile. 
