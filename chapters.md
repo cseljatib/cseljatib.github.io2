@@ -9,15 +9,18 @@ excerpt: "on chapters"
 
 
 `2018`
-**Salas-Eljatib, C.**, Fuentes, A., Donoso, PJ., Matus, C., Soto, D. 2018. [Crecimiento de bosques secundarios y adultos de
+**Salas-Eljatib C**, Fuentes A, Donoso PJ, Matus C, Soto D. 2018. [Crecimiento de bosques secundarios y adultos de
 Nothofagus en el centro-sur de Chile](/myPubs/2018_CreciNotho_libro_Donoso_etal_Silvicultura_Bosques_Nativos.pdf) [Growth of
 secondary and old-growth Nothofagus forests in south-central Chile]. *In*: Silvicultura en bosques nativos: experiencias en silvicultura y restauración 
-en Chile, Argentina y el oeste de Estados Unidos. Donoso P., Promis A., Soto, D. (Eds.), Editorial Universidad Austral de Chile. Valdivia, Chile. pp: 73–92.
+en Chile, Argentina y el oeste de Estados Unidos. Donoso P, Promis A, Soto D. (Eds.), Editorial Universidad Austral de Chile. Valdivia, Chile. pp: 73–92.
 
-`2001`
-**Salas C**. 2001. [Caracterización básica del relicto de biodiversidad
-Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[Basic characterization of the biodiversity remnant
-Rucamanque\]. **Bosque Nativo** 29: 3–9.
+`2018`
+Donoso, PJ., Ponce, D., **Salas-Eljatib C**. 2018. [Opciones de manejo para bosques secundarios de acuerdo a objetivos de largo plazo y su aplicaci ́on en bosques templados del centro-sur de Chile](https://www.researchgate.net/publication/329337791_Opciones_de_manejo_para_bosques_secundarios_de_acuerdo_a_objetivos_de_largo_plazo_y_su_aplicacion_en_bosques_templados_del_centro-sur_de_Chile). [Long-term options for the management of secondary forests and applications in temperate forests of south-central Chile]. *In*: Silvicultura en bosques nativos: experiencias en silvicultura y restauración 
+en Chile, Argentina y el oeste de Estados Unidos. Donoso P, Promis A, Soto D. (Eds.), Editorial Universidad Austral de Chile. Valdivia, Chile. pp: 93–115.
+
+`2013`
+**Salas-Eljatib C**, Real P. 2013. [Biometría de los bosques naturales de Chile: estado del arte](/myPubs/2013capiBiometriaBNativos.pdf) [Forest biometrics of Chilean natural forests: the state-of-the-art].
+*In*: Silvicultura en los bosques nativos: avances en la investigación en Chile, Argentina y Nueva Zelanda. Donoso P. and Promis A. (Eds.), Editorial Maria Cuneo. Valdivia, Chile. pp: 109–151.
 
 <!-- ### Footer
 ponce 17 `doi:10.3390/f8090329`
