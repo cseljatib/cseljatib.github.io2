@@ -17,19 +17,19 @@ excerpt: "my lab"
 ## My lab
 The talented researchers and bright students working in my lab.
 
-|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato2.jpg)|
+|*[Renato Cifuentes](https://www.researchgate.net/profile/Renato_Cifuentes)*|Ph.D. Remote Sensing|![](images/renato_2.jpg)|
 | -------- | ---------- |---------- |
-|*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin.jpg)|
-|*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/nicoP2.jpg)|
+|*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin_2.jpg)|
+|*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/NicoP_2.jpg)|
 
 
 __Students__
 
-| *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/bio-photo_Ori.jpg)|
+| *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/camilo_2.jpg)|
 | -------- | ---------- |---------- |
-| *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas4.jpg)|
-| *Nicolas Rodriguez* | B.S. in Geology, Universidad Mayor (Santiago, Chile).|![](images/nicoR3.jpg)|
-| *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/bio-photo_Ori.jpg)|
+| *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas_2.jpg)|
+| *Nicolas Rodriguez* | B.S. in Geology, Universidad Mayor (Santiago, Chile).|![](images/nicoR_2.jpg)|
+| *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/heraldo_2.jpg)|
 
 
 ![](images/groupRuca.jpg)
