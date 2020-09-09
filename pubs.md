@@ -4,6 +4,15 @@ title: Publications
 excerpt: "on publications"
 ---
 
+
+--------
+
+* **[Peer-reviewed papers](#peer-reviewed-papers)** 
+* **[Chapters in books](./chapters.md)**. 
+* **[Miscellaneous](./misce.md)**. 
+
+--------
+
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
