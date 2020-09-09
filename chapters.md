@@ -5,9 +5,8 @@ excerpt: "on chapters"
 ---
 
 
-## Chapters in books
+## Link to the actual chapter in a book as a pdf file
 
-I have provided the link to the actual chapter as a pdf file.
 
 `2018`
 **Salas-Eljatib C**, Fuentes A, Donoso PJ, Matus C, Soto D. 2018. [*Crecimiento de bosques secundarios y adultos de
