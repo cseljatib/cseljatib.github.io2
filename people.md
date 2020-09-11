@@ -10,7 +10,7 @@ excerpt: "my lab"
 * **[My lab](#my-lab)** 
 * **[Research collaborators](./collabora.md)**
 * **[Alumni](./alumni.md)** 
-* **[Mentors](./mentors.md)**. Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
+* **[Mentors](./mentors.md)** 
 
 --------
 
