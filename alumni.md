@@ -4,7 +4,7 @@ title: Alumni
 excerpt: "my alumni"
 ---
 
-I have listed former students at various levels, conditions, and institutions. 
+I have listed former students, post-docs, and visiting students.
 
 --------
 
