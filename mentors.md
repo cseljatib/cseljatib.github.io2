@@ -4,6 +4,8 @@ title: Mentors
 excerpt: "on mentors"
 ---
 
+Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
+
 ## Mentors
 
 I had been fortunate enough to be able to work with professors and researchers that left a profound impact in the way I carry out my
