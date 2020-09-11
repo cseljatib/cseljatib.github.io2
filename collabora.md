@@ -4,6 +4,8 @@ title: Research collaborators
 excerpt: "my collaborators"
 ---
 
+Colleagues with whom I collaborate in ongoing studies.
+
 ## In Chile
 
 * *[Pablo Donoso](https://www.researchgate.net/profile/Pablo_Donoso)*, Professor of Silviculture, Universidad Austral de Chile, Valdivia, Valdivia.
