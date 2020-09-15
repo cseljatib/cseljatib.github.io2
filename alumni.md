@@ -157,6 +157,9 @@ supported by the PAI program of CONICYT-Chile.
 ## Visiting undergraduate students
 
 `2020`
+*Thomas Koplon*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
+
+`2020`
 *Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
 
 `2019`
@@ -165,7 +168,7 @@ supported by the PAI program of CONICYT-Chile.
 `2017`
 *Nicolas Pino*, B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile).
 
-## Visiting graduate student
+## Visiting graduate students
 
 `2019`
 *Patricio Ojeda*, Doctoral program in Forest Sciences, Universidad Austral de Chile. 
