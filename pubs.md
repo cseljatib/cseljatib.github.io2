@@ -32,7 +32,7 @@ analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Ma
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
-[ <u> A call to awaken the Chilean Society of Forest Science</u> ].  **Bosque** 41(3) (to appear).
+[<u>A call to awaken the Chilean Society of Forest Science</u>].  **Bosque** 41(3) (to appear).
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
@@ -68,7 +68,7 @@ southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology*
 Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque
 adulto: Una herramienta para evaluar estados de desarrollo de bosques
 nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[<u> Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands
-of south-central Chile <u> \]. **Bosque** 40(2): 235–240.
+of south-central Chile <\u> \]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P,
@@ -81,7 +81,7 @@ forest-tree symbioses](https://doi.org/10.1038/s41586-019-1128-0). **Nature** 56
 **Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019.
 [Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
 sur (41-43 S) de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n1/0717-9200-bosque-40-01-00071.pdf) \[<u> Mixed-effects height-diameter
-models for Drimys winteri in the south (41-43 S) of Chile <u> \].
+models for Drimys winteri in the south (41-43 S) of Chile <\u> \].
 **Bosque** 40(1): 71–80.
 
 `2019`
@@ -223,30 +223,30 @@ paramétricos y no-paramétricos para predecir variables de rodal basados
 en Landsat ETM+: una comparación en un bosque de Araucaria araucana en
 Chile](http://mingaonline.uach.cl/pdf/bosque/v31n3/art02.pdf) \[<u> Parametric and non-parametric statistical methods for
 predicting plotwise variables based on Landsat ETM+: a comparison in an
-Araucaria araucana forest in Chile <u> \]. **Bosque** 31(3): 179–194.
+Araucaria araucana forest in Chile </u> \]. **Bosque** 31(3): 179–194.
 
 `2010`
 Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad
 estructural y espacial de un bosque mixto dominado por Nothofagus
 dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[<u> Structural and spatial
 heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after
-a partial disturbance <u> \]. **Revista Chilena de Historia Natural** 83(3):
+a partial disturbance </u> \]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
 `2009`
 Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
 
 `2009`
-**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](https://www.researchgate.net/publication/228648363_Por_que_comprar_un_programa_estadistico_si_existe_R) \[<u> Why purchase commercial statistical software if there is R? <u> \]. **Ecología Austral** 18(2): 223–231.
+**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](https://www.researchgate.net/publication/228648363_Por_que_comprar_un_programa_estadistico_si_existe_R) \[<u> Why purchase commercial statistical software if there is R? </u> \]. **Ecología Austral** 18(2): 223–231.
 
 `2008`
 **Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://academic.oup.com/forestscience/article/54/1/107/4604379). **Forest Science** 54(1): 107–122.
 
 `2008`
-**Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[<u> Suggestions to improve the quality of Chilean scientific journals: an application to forest science with Bosque <u> \]. **Bosque** 29(1): 3–10.
+**Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[<u> Suggestions to improve the quality of Chilean scientific journals: an application to forest science with Bosque </u> \]. **Bosque** 29(1): 3–10.
 
 `2007`
-**Salas C**. 2007. [¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro](/myPubs/2007InvExc_bnativo.pdf) \[<u> Where the best chilean forest research is going?: Past, present, and future <u> \]. **Bosque Nativo** 40: 10–13.
+**Salas C**. 2007. [¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro](/myPubs/2007InvExc_bnativo.pdf) \[<u> Where the best chilean forest research is going?: Past, present, and future </u> \]. **Bosque Nativo** 40: 10–13.
 
 `2007`
 Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and
@@ -265,31 +265,31 @@ Nothofagus obliqua](http://dx.doi.org/10.1016/j.foreco.2006.04.015). **Forest Ec
 Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006.
 [Daños en casas de madera ocasionados por coleópteros xilofagos, IX
 Región, Chile](http://dx.doi.org/10.4067/S0717-92002006000100006) \[<u> Damages to wooden houses caused by xylophagus
-Coleoptera, IX Region, Chile <u> \]. **Bosque** 27(1): 52–56.
+Coleoptera, IX Region, Chile </u> \]. **Bosque** 27(1): 52–56.
 
 `2005`
 **Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para
 Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf)
 \[<u> Volume equations for *Pinus pinaster* Ait. in the Baixo Miño region,
-Galicia, Spain <u> \]. **Quebracho** 12: 11–22.
+Galicia, Spain </u> \]. **Quebracho** 12: 11–22.
 
 `2005`
 **Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros
 fustales con relascopio y forcípula finlandesa: efectos en la estimación
 de volumen](/myPubs/2005relascope_Bosque.pdf) \[<u> Measurement of upper-stem diameters with Bitterlich mirror
 relascope and Finnish parabolic caliper: effects on volume
-estimations <u> \]. **Bosque** 26(2): 81–90.
+estimations </u> \]. **Bosque** 26(2): 81–90.
 
 `2002`
 **Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un
 relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[<u> Fitness and validation of
-volume equations for a relict forest of Roble-Laurel-Lingue <u> \].
+volume equations for a relict forest of Roble-Laurel-Lingue </u> \].
 **Bosque** 23(2): 81–92.
 
 `2001`
 **Salas C**. 2001. [Caracterización básica del relicto de biodiversidad
 Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[<u> Basic characterization of the biodiversity remnant
-Rucamanque <u>\]. **Bosque Nativo** 29: 3–9.
+Rucamanque </u>\]. **Bosque Nativo** 29: 3–9.
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
