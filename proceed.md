@@ -7,7 +7,7 @@ excerpt: "in proceedings"
 
 ## Abstracts or extended summaries in conference proceedings
 
-For those chapters written in Spanish, I have provided the translation of the title among [brackets] and using <u> underline </u> 
+For those abstracts written in Spanish, I have provided the translation of the title among [brackets] and using <u> underline </u> 
 
 `2013`
 **Salas C**, Gregoire T. 2013.
