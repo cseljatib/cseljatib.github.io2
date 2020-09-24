@@ -32,14 +32,14 @@ analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Ma
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
-[ <u> A call to awaken the Chilean Society of Forest Science<u> ].  **Bosque** 41(3) (to appear).
+[ <u> A call to awaken the Chilean Society of Forest Science</u> ].  **Bosque** 41(3) (to appear).
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
 Vargas-Picón R. 2020. Estructura y regeneración de bosques de
 Prumnopitys andina en los Andes del sur de Chile \[<u> Structure and
 regeneration of Prumnopitys andina forests in the southern Andes of
-Chile <u> \]. **Gayana Botanica** 77(1): 48–58.
+Chile </u> \]. **Gayana Botanica** 77(1): 48–58.
 
 `2020`
 Soto DP, Donoso PJ, González-Chang M, Vásquez-Grandón A, **Salas-Eljatib
