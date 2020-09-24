@@ -17,18 +17,18 @@ excerpt: "on publications"
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among brackets and using underline.  
+For those papers written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
 
 
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a
 mathematical perspective for forest productivity](/myPubs/2020hgrate_ecoModelling.pdf). **Ecological
-Modelling** 431.
+Modelling** 431: 109198.
 
 `2020`
 **Salas-Eljatib C**, Weiskittel AR. 2020. [On studying the patterns of
 individual-based tree mortality in natural forests: a modelling
-analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Management** 475.
+analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Management** 475: 118369.
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
@@ -49,7 +49,7 @@ rainforests](https://doi.org/10.3390/f11040401). **Forests** 11(4): 401.
 
 `2020`
 Donoso P, Puettmann K, D’Amato A, Ponce D, **Salas-Eljatib C**, Ojeda P. 2020. [Short-term effects of variable-density thinning on regeneration in hardwood-dominated temperate rainforests](https://doi.org/10.1016/j.foreco.2020.118058). **Forest Ecology and
-Management** 464.
+Management** 464: 118058.
 
 `2020`
 Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J,
@@ -68,7 +68,7 @@ southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology*
 Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque
 adulto: Una herramienta para evaluar estados de desarrollo de bosques
 nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[<u> Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands
-of south-central Chile <\u> \]. **Bosque** 40(2): 235–240.
+of south-central Chile </u> \]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P,
@@ -81,7 +81,7 @@ forest-tree symbioses](https://doi.org/10.1038/s41586-019-1128-0). **Nature** 56
 **Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019.
 [Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
 sur (41-43 S) de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n1/0717-9200-bosque-40-01-00071.pdf) \[<u> Mixed-effects height-diameter
-models for Drimys winteri in the south (41-43 S) of Chile <\u> \].
+models for Drimys winteri in the south (41-43 S) of Chile </u> \].
 **Bosque** 40(1): 71–80.
 
 `2019`
@@ -118,7 +118,7 @@ Robinson Crusoe Island, Chile](https://doi.org/10.1080/17550874.2018.1444109). *
 Cifuentes R., Van der Zande D, **Salas-Eljatib C**, Farifteh J, Coppin
 P. 2018. [A simulation study using terrestrial LiDAR point cloud data to
 quantify spectral variability of a broad-leaved forest canopy](https://doi.org/10.3390/s18103357).
-**Sensors** 18(10): 3357 `doi:10.3390/s18103357`.
+**Sensors** 18(10): 3357 
 
 `2018`
 Fuentes-Ramirez A, Barrientos M, Almonacid L, Arriagada-Escamilla C,
@@ -161,7 +161,7 @@ global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **
 `2016`
 **Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del
 crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) \[<u> Forest growth modelling: the
-state of the art <u> \]. **Bosque** 37(1): 3–12.
+state of the art </u> \]. **Bosque** 37(1): 3–12.
 
 `2016`
 Korhonen L, **Salas C**, Østgård T, Lien V, Gobakken T, Næsset E. 2016.
@@ -270,7 +270,7 @@ Coleoptera, IX Region, Chile </u> \]. **Bosque** 27(1): 52–56.
 `2005`
 **Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para
 Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf)
-\[<u> Volume equations for *Pinus pinaster* Ait. in the Baixo Miño region,
+\[<u> Volume equations for Pinus pinaster Ait. in the Baixo Miño region,
 Galicia, Spain </u> \]. **Quebracho** 12: 11–22.
 
 `2005`
@@ -295,6 +295,7 @@ Rucamanque </u>\]. **Bosque Nativo** 29: 3–9.
 * **[Miscellaneous](./misce.md)** 
 salas20 /myPubs/2020hgrate_ecoModelling.pdf (https://doi.org/10.1016/j.ecolmodel.2020.109198)
 ponce 17 `doi:10.3390/f8090329`
+sensors cifuentes 2018 `doi:10.3390/s18103357`.
 salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
 salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
 salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf (https://fcf.unse.edu.ar/archivos/quebracho/q12-01-Pinus-pinaster.pdf)
