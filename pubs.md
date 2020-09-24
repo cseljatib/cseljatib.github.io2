@@ -18,9 +18,10 @@ excerpt: "on publications"
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
 
+
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a
-mathematical perspective for forest productivity](https://doi.org/10.1016/j.ecolmodel.2020.109198). **Ecological
+mathematical perspective for forest productivity](/myPubs/2020hgrate_ecoModelling.pdf). **Ecological
 Modelling** 431.
 
 `2020`
@@ -29,11 +30,15 @@ individual-based tree mortality in natural forests: a modelling
 analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Management** 475.
 
 `2020`
+**Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
+\[A call to awaken the Chilean Society of Forest Science\].  **Bosque** 41(3) (to appear).
+
+`2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
 Vargas-Picón R. 2020. Estructura y regeneración de bosques de
 Prumnopitys andina en los Andes del sur de Chile \[Structure and
 regeneration of Prumnopitys andina forests in the southern Andes of
-Chile\]. **Gayana Botanica** (to appear).
+Chile\]. **Gayana Botanica** 77(1): 48–58.
 
 `2020`
 Soto DP, Donoso PJ, González-Chang M, Vásquez-Grandón A, **Salas-Eljatib
@@ -263,20 +268,20 @@ Coleoptera, IX Region, Chile\]. **Bosque** 27(1): 52–56.
 
 `2005`
 **Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para
-Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](https://fcf.unse.edu.ar/archivos/quebracho/q12-01-Pinus-pinaster.pdf)
+Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf)
 \[Volume equations for *Pinus pinaster* Ait. in the Baixo Miño region,
 Galicia, Spain\]. **Quebracho** 12: 11–22.
 
 `2005`
 **Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros
 fustales con relascopio y forcípula finlandesa: efectos en la estimación
-de volumen](http://dx.doi.org/10.4067/S0717-92002005000200010) \[Measurement of upper-stem diameters with Bitterlich mirror
+de volumen](/myPubs/2005relascope_Bosque.pdf) \[Measurement of upper-stem diameters with Bitterlich mirror
 relascope and Finnish parabolic caliper: effects on volume
 estimations\]. **Bosque** 26(2): 81–90.
 
 `2002`
 **Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un
-relicto del bosque de Roble-Laurel-Lingue](http://dx.doi.org/10.4067/S0717-92002002000200009) \[Fitness and validation of
+relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[Fitness and validation of
 volume equations for a relict forest of Roble-Laurel-Lingue\].
 **Bosque** 23(2): 81–92.
 
@@ -287,10 +292,11 @@ Rucamanque\]. **Bosque Nativo** 29: 3–9.
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
+salas20 /myPubs/2020hgrate_ecoModelling.pdf (https://doi.org/10.1016/j.ecolmodel.2020.109198)
 ponce 17 `doi:10.3390/f8090329`
 salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
 salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
-salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf
-salas05 /myPubs/2005relascope_Bosque.pdf
-salas02 /myPubs/2002ajuvolrolali_Bosque.pdf
+salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf (https://fcf.unse.edu.ar/archivos/quebracho/q12-01-Pinus-pinaster.pdf)
+salas05 /myPubs/2005relascope_Bosque.pdf (http://dx.doi.org/10.4067/S0717-92002005000200010) 
+salas02 /myPubs/2002ajuvolrolali_Bosque.pdf (http://dx.doi.org/10.4067/S0717-92002002000200009)
 Last updated: August 2020 -->
