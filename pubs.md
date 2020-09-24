@@ -17,6 +17,7 @@ excerpt: "on publications"
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
+For those papers written in Spanish, 
 
 
 `2020`
@@ -31,7 +32,7 @@ analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Ma
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
-\[*A call to awaken the Chilean Society of Forest Science*\].  **Bosque** 41(3) (to appear).
+\[<u>A call to awaken the Chilean Society of Forest Science<u>\].  **Bosque** 41(3) (to appear).
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
