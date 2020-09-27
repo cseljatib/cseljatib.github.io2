@@ -22,6 +22,7 @@ The talented researchers and bright students working in my lab.
 |*Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin_2.jpg)|
 |*Nicolas Pino*|Mathematical Engineer, M.S.|![](images/NicoP_2.jpg)|
 
+--------
 
 __Students__
 
