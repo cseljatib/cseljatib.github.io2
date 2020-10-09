@@ -19,8 +19,8 @@ excerpt: "on publications"
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
 For those papers written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
 
-`2020`
-**Salas-Eljatib C**. *(In Press)*. An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest. **Ecological
+`*(In Press)*`
+**Salas-Eljatib C**. . An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest. **Ecological
 Applications** (To appear)
 
 `2020`
