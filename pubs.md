@@ -34,7 +34,7 @@ individual-based tree mortality in natural forests: a modelling
 analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Management** 475: 118369.
 
 `2020`
-**Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020hgrate_ecoModelling.pdf)
+**Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020socChCsForestales_bosque.pdf)
 [<u>A call to awaken the Chilean Society of Forest Science</u>].  **Bosque** 41(3): 209-212.
 
 `2020`
