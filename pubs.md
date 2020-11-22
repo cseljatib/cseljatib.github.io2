@@ -34,8 +34,12 @@ individual-based tree mortality in natural forests: a modelling
 analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Management** 475: 118369.
 
 `2020`
-**Salas-Eljatib C**, Promis A. 2020. Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales
-[<u>A call to awaken the Chilean Society of Forest Science</u>].  **Bosque** 41(3) (to appear).
+**Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020hgrate_ecoModelling.pdf)
+[<u>A call to awaken the Chilean Society of Forest Science</u>].  **Bosque** 41(3): 209-212.
+
+`2020`
+Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., Piotto D, **Salas-Eljatib C**, Broadbent
+E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires.](http://iopscience.iop.org/article/10.1088/1748-9326/abcac7). **Environmental Research Letters**.
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
