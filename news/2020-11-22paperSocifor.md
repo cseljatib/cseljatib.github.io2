@@ -5,12 +5,15 @@ excerpt: "A call to awaken the Chilean Society of Forest Science"
 category: blog
 ---
 
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 # Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales
 Posted on: Nov22, 2020
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
 
 *En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento*
 
