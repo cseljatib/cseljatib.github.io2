@@ -23,7 +23,7 @@ Colleagues with whom I collaborate in ongoing studies.
 * *[Aaron Weiskittel](https://forest.umaine.edu/faculty-staff/aaron-weiskittel/)*, Professor of Biometrics, University of Maine, USA.
 * *[Timothy G. Gregoire](https://environment.yale.edu/profile/gregoire)*, Professor of Biometrics and Environmental Statistics, Yale University, USA.
 * *[Hailemariam Temesgen](http://fmbl.forestry.oregonstate.edu)*, Professor of Biometrics, Oregon State University, Corvallis, USA.
-* *Lauri Mehtätalo*, Professor Biometrics at the Universty of Eastern Finland, Joenssu, Finland.
+* *Lauri Mehtätalo*, Professor of Forest Biometrics at the Universty of Eastern Finland, Joenssu, Finland.
 
 
 With Aaron in southern Chile  (2017)
