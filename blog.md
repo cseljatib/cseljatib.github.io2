@@ -14,7 +14,11 @@ title: All Blog Posts/News
 ---
 
 ---
-* ## [Reportaje sobre los incendios forestales en canal de televisión Mega](/news/2017-03-10-mega.md)
+* ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
                                                                  Posted on: Mar, 2017
 ---
 
+---
+* ## [Reportaje: ¿Cuántos árboles hay en el mundo?, en canal de televisión UfroVisión](/news/2015-09-17arbolesMundo.md)
+                                                                 Posted on: Sep, 2015
+---
