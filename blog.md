@@ -4,7 +4,8 @@ title: All Blog Posts/News
 ---
 
 ---
-* ## [Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales](/news/2020-11-22paperSocifor.md) <sub>                                               [Posted on: Nov22, 2020]</sub>
+* ## [Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales](/news/2020-11-22paperSocifor.md) 
+<sub>                                               [Posted on: Nov22, 2020]</sub>
 
 
 * ## [Want to join us as a postdoctoral researcher? Hurry up!!](/news/2020-08-18-postDoc.md) 
