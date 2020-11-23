@@ -12,3 +12,9 @@ title: All Blog Posts/News
 * ## [Want to join us as a postdoctoral researcher? Hurry up!!](/news/2020-08-18-postDoc.md)
                                                                  Posted on: Aug18, 2020
 ---
+
+---
+* ## [Reportaje sobre los incendios forestales en canal de televisión Mega](/news/2017-03-10-mega.md)
+                                                                 Posted on: Mar, 2017
+---
+
