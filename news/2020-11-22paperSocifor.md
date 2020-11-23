@@ -1,11 +1,11 @@
 ---
 layout: resume
-title: Call for a postdoc
+title: New paper
 excerpt: "A call to awaken the Chilean Society of Forest Science"
 category: blog
 ---
 
-# A call to awaken the Chilean Society of Forest Science
+# Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales
 Posted on: Nov22, 2020
 
 *En el reciente numero de la revista Bosque, hemos publicado un paper sobre la actual Sociedad Chilena de Ciencias Forestales, su "nulo" funcionamiento, y una serie de propuestas para mejorar su funcionamiento*
