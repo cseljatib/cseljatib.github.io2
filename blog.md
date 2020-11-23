@@ -4,7 +4,7 @@ title: All Blog Posts/News
 ---
 
 ---
-* ## [A call to awaken the Chilean Society of Forest Science](/2020-11-22-newpaper.md)
+* ## [Un llamado para la activacion de la Sociedad Chilena de Ciencias Forestales](/2020-11-22paperSocifor.md)
                                                                  Posted on: Nov22, 2020
 ---
 
