@@ -1,14 +1,14 @@
 ---
 layout: resume
-title: Entrevista
-excerpt: "Entrevista en canal UfroVision"
+title: Reportaje
+excerpt: "Reportaje en canal UfroVision"
 category: blog
 ---
 
-# Reportaje sobre ¿Cuántos árboles hay en el mundo?
+# Reportaje: ¿Cuántos árboles hay en el mundo?
 <sub>Posted on: Sep, 2015</sub>
 
-> *Reportaje sobre ¿Cuántos árboles hay en el mundo?, realizado por el canal de televisión UfroVision* 
+> *Reportaje ¿Cuántos árboles hay en el mundo?, realizado por el canal de televisión UfroVision* 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RN68ROe_5JM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
