@@ -11,7 +11,9 @@ Posted on: Nov22, 2020
 *En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento*
 
 ```diff
-+ En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento
++ En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual
+Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas
+para mejorar su funcionamiento
 ```
 
 El paper esta disponible en el siguiente [link](http://eljatib.com/myPubs/2020socChCsForestales_bosque.pdf)
