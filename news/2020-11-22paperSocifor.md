@@ -8,7 +8,11 @@ category: blog
 # Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales
 Posted on: Nov22, 2020
 
-*En el reciente numero de la revista Bosque, hemos publicado un paper sobre la actual Sociedad Chilena de Ciencias Forestales, su "nulo" funcionamiento, y una serie de propuestas para mejorar su funcionamiento*
+*En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento*
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
 El paper esta disponible en el siguiente [link](http://eljatib.com/myPubs/2020socChCsForestales_bosque.pdf)
 
