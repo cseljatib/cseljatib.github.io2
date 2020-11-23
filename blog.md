@@ -12,19 +12,23 @@ title: All Blog Posts/News
 ---
 > ## [Want to join us as a postdoctoral researcher? Hurry up!!](/news/2020-08-18-postDoc.md)
 <sub>                                                                 Posted on: Aug18, 2020</sub>
+
 ---
 
 ---
-* ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión MegaPrime](/news/2019-12-12megaSimBnativo.md)
-                                                                 Posted on: Dec12, 2019
+> ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión MegaPrime](/news/2019-12-12megaSimBnativo.md)
+<sub>                                                                 Posted on: Dec12, 2019</sub>
+
 ---
 
 ---
-* ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
-                                                                 Posted on: Mar, 2017
+> ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
+<sub>                                                                 Posted on: Mar, 2017</sub>
+
 ---
 
 ---
-* ## [Reportaje: ¿Cuántos árboles hay en el mundo?, en canal de televisión UfroVisión](/news/2015-09-17arbolesMundo.md)
-                                                                 Posted on: Sep, 2015
+> ## [Reportaje: ¿Cuántos árboles hay en el mundo?, en canal de televisión UfroVisión](/news/2015-09-17arbolesMundo.md)
+<sub>                                                                 Posted on: Sep, 2015</sub>
+
 ---
