@@ -10,9 +10,13 @@ Posted on: Nov22, 2020
 
 *En el reciente número de la revista Bosque, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento*
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 El paper esta disponible en el siguiente [link](http://eljatib.com/myPubs/2020socChCsForestales_bosque.pdf)
 
