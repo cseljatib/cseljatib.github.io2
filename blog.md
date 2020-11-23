@@ -9,11 +9,10 @@ title: All Blog Posts/News
 
 ---
 
-
+---
 > ## [Want to join us as a postdoctoral researcher? Hurry up!!](/news/2020-08-18-postDoc.md)
-
-                                                                 Posted on: Aug18, 2020
-
+<sub>                                                                 Posted on: Aug18, 2020</sub>
+---
 
 ---
 * ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión MegaPrime](/news/2019-12-12megaSimBnativo.md)
