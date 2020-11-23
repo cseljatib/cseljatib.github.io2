@@ -19,4 +19,4 @@ En resumen proponemos,
 nacional de ciencias forestales, 
 * y así también en la edición de la revista chilena de ciencias forestales (i.e., Bosque)
 
-![](images/paperSocifor.png)
+![](/images/paperSocifor.png)
