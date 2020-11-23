@@ -14,6 +14,11 @@ title: All Blog Posts/News
 ---
 
 ---
+* ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión MegaPrime](/news/2019-12-12megaSimBnativo.md)
+                                                                 Posted on: Dec12, 2019
+---
+
+---
 * ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
                                                                  Posted on: Mar, 2017
 ---
