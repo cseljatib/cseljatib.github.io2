@@ -9,7 +9,7 @@ Colleagues with whom I collaborate in ongoing studies.
 ## In Chile
 
 * *[Pablo Donoso](https://www.researchgate.net/profile/Pablo_Donoso)*, Professor of Silviculture, Universidad Austral de Chile, Valdivia, Valdivia.
-* *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.wordpress.com/)*, Assistant Professor of Restoration, Universidad de La Frontera, Temuco.
+* *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.cl)*, Assistant Professor of Restoration, Universidad de La Frontera, Temuco.
 * *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Assistant Professor of Fire Ecology, Universidad de La Frontera, Temuco.
 * *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
