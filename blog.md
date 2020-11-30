@@ -19,6 +19,9 @@ title: All Blog Posts/News
 <sub>                                                                 [Posted on: Dec13, 2019]</sub>
 
 * ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión Mega](/news/2019-12-4megaSimBnativo.md)
+<sub>                                                                 [Posted on: Dec4, 2019]</sub>
+
+* ## [Reportaje: ¿Se puede anticipar cómo crecerá un bosque?, en revista Que Pasa? del diario La Tercera](/news/2019-12-03revistaQuepasa.md)
 <sub>                                                                 [Posted on: Dec3, 2019]</sub>
 
 
