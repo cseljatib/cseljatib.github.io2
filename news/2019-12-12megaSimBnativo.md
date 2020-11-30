@@ -8,7 +8,7 @@ category: blog
 # Entrevista: Simulación de bosques nativos
 Posted on: Dec12, 2019
 
-> *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión MegaPrime, dentro de la sección MundoPlus* 
+> *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión Mega, dentro de la sección MundoPlus* 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajZvZ6mbipw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
