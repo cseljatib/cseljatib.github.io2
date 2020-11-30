@@ -21,12 +21,11 @@ title: All Blog Posts/News
 * ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión Mega](/news/2019-12-4megaSimBnativo.md)
 <sub>                                                                 [Posted on: Dec4, 2019]</sub>
 
-* ## [Reportaje: ¿Se puede anticipar cómo crecerá un bosque?, en semanario "Que Pasa" del diario La Tercera](/news/2019-12-03revistaQuepasa.md)
+* ## [Reportaje: ¿Se puede anticipar cómo crecerá un bosque?, en semanario "Que Pasa" del diario La Tercera](https://www.latercera.com/que-pasa/noticia/se-puede-anticipar-como-crecera-un-bosque/917695/)
 <sub>                                                                 [Posted on: Dec3, 2019]</sub>
 
 * ## [Inauguración del Centro de Modelación y Monitoreo de Ecosistemas, diario Universidad Mayor](https://www.diariomayor.cl/investigacion/735-investigacion-conoce-el-nuevo-centro-de-modelacion-y-monitoreo-de-ecosistemas-inaugurado-por-la-u-mayor)
 <sub>                                                                 [Posted on: Aug29, 2018]</sub>
-
 
 * ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
 <sub>                                                                 [Posted on: Mar, 2017]</sub>
