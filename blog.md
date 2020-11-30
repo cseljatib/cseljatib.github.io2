@@ -11,7 +11,7 @@ title: All Blog Posts/News
 * ## [Want to join us as a postdoctoral researcher? Hurry up!!](/news/2020-08-18-postDoc.md) 
 <sub>                                                                 [Posted on: Aug18, 2020]</sub>
 
-* ## [Entrevista: Crecimiento de Bosques Nativos, en radio Tele13radio](/news/2019-12-13tele13.md)
+* ## [Entrevista: Crecimiento de Bosques Nativos, en radio Tele13radio](/news/2019-12-13tele13radio.md)
 <sub>                                                                 [Posted on: Dec13, 2019]</sub>
 
 * ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión Mega](/news/2019-12-12megaSimBnativo.md)
