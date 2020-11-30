@@ -14,7 +14,7 @@ title: All Blog Posts/News
 * ## [Entrevista: Crecimiento de Bosques Nativos, en radio Tele13radio](/news/2019-12-13tele13radio.md)
 <sub>                                                                 [Posted on: Dec13, 2019]</sub>
 
-* ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión Mega](/news/2019-12-12megaSimBnativo.md)
+* ## [Entrevista: Simulación de Bosques Nativos, en canal de televisión Mega](/news/2019-12-4megaSimBnativo.md)
 <sub>                                                                 [Posted on: Dec3, 2019]</sub>
 
 
