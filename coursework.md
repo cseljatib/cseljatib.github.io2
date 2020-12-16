@@ -3,6 +3,7 @@ layout: page
 title: Coursework
 ---
 
++ [Our current ongoing research projects can be found here](./resproj.md)
 + [R-related stuff](./libroR.md)
 + Forest biometrics
 + Statistics
