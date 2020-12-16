@@ -5,7 +5,7 @@ excerpt: "Libro sobre R"
 ---
 
 
-## Informacion referente a 
+## Informacion referente a yyyyyyyyyyyyyy
 
 xxxx
 
