@@ -3,7 +3,7 @@ layout: page
 title: Coursework
 ---
 
-+ [yyyzz found here](./libror.md)
++ [xxyyyzz found here](libror.md)
 + Forest biometrics
 + Statistics
 
