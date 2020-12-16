@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Research 
-excerpt: "Recent Recearch"
+title: libroR
+excerpt: "Libro sobre R"
 ---
 My research focuses on the development and application of statistical and mathematical models to address problems in ecological research.
 
