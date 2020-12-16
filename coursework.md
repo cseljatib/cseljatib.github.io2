@@ -4,7 +4,7 @@ title: Coursework
 ---
 
 + [Our current ongoing research projects can be found here](./resproj.md)
-+ [R-related stuff](./libroR.md)
++ [R-related stuff](./libror.md)
 + Forest biometrics
 + Statistics
 
