@@ -3,7 +3,7 @@ layout: page
 title: Coursework
 ---
 
-+ [ahora si](https://github.com/cseljatib/cseljatib.github.io/blob/master/libror.md)
++ [ahora si](libror.md)
 + Forest biometrics
 + Statistics
 
