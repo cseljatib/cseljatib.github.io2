@@ -3,27 +3,16 @@ layout: resume
 title: libroR
 excerpt: "Libro sobre R"
 ---
-My research focuses on the development and application of statistical and mathematical models to address problems in ecological research.
 
-My main research interest is biometrics, i.e., applied statistics and mathematical modelling for understanding ecological and natural resources phenomena.
+Este sitio web, provisorio, provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
+Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora queda a disposicion el paquete [**biometria**](/libroRfolder/biometria_0.1.tar.gz) para que lo descargues e instales en tu version de R. Además, esta disponible un [**manual**](/libroRfolder/biometria.pdf) que detalla las principales funciones y dataframes de dicho paquete.
 
-## Research lines
-
-* __Biometrics__. Applied statistics to ecology and natural resources.
-
-* __Forest ecosystem modelling__.  Tree and stand level growth models.
-
-* __Ecological modelling and statistical ecology__. System dynamics, differential equations, statistical inference.
-
-* __Applied statistics to forest ecology__. Spatial statistics, tree allometry, sampling, estimation from remote sensed images.
-
+Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi direccion es cseljatib "at" gmail "dot" com, y también puedes contactarme en christian "dot" salas "at" aya "dot" yale "dot" edu.
 
 ## Research projects
 
 I am currently working in a couple of research projects, as well as I have been involved in several ones. [Our current ongoing research projects can be found here](./resproj.md)
-
-![](images/pspRuca_old.jpg)
 
 <!-- ### Footer
 ![](images/droneYo.JPG)
