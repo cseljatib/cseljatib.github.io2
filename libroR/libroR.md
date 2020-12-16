@@ -7,4 +7,4 @@ Este sitio web, provisorio, provee información relacionada al libro **Análisis
 
 Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora queda a disposicion el paquete [**biometria**](/libroR/biometria_0.1.tar.gz) para que lo descargues e instales en tu version de R. Además, esta disponible un [**manual**](/libroR/biometria.pdf) que detalla las principales funciones y dataframes de dicho paquete.
 
-Cualquier duda no dudes en contactarme.
+Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi direccion es cseljatib "at" gmail "dot" com, y también puedes contactarme en christian "dot" salas "at" aya "dot" yale "dot" edu.
