@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Chapters in books 
-excerpt: "on chapters"
+excerpt: "use R"
 ---
 
 
