@@ -3,7 +3,7 @@ layout: page
 title: Coursework
 ---
 
-+ [R-related stuff](./libroR.md) 
++ [R-related stuff](./libroR/libroR.md)
 + Forest biometrics
 + Statistics
 
