@@ -3,7 +3,7 @@ layout: page
 title: Coursework
 ---
 
-+ [Ourxxxxxxxxxxx current ongoing research projects can be found here](./libroR.md)
++ [yyy found here](./libroR.md)
 + Forest biometrics
 + Statistics
 
