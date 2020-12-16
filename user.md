@@ -1,11 +1,11 @@
 ---
 layout: resume
-title: Chapters in books 
+title: Use R 
 excerpt: "use R"
 ---
 
 
-## Link to the actual chapter in a book as a pdf file
+## Libro sobre uso de R para estadistica aplicada y analisis de datos
 
 For those chapters written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
 
