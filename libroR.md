@@ -1,6 +1,7 @@
 ---
-layout: page
-title: libroR
+layout: resume
+title: libroR 
+excerpt: "Libro sobre el uso de R"
 ---
 
 Este sitio web, provisorio, provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
