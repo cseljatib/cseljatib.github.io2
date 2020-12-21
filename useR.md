@@ -9,6 +9,7 @@ Este sitio web provee información relacionada al libro **Análisis de datos con
 
 Más adelante encontrarás aquí mayores antecedentes, sin embargo, por ahora queda a disposición el paquete **biometria** donde estan todos los datos y funciones ocupadas en el libro. Tu puedes por lo tanto descargarlo e instalarlo en tu versión de R.
 
+## Fuente del paquete y manual
 + [**biometria_0.1.tar.gz**](/useR/biometria_0.1.tar.gz)
 + [**biometria.pdf**](/useR/biometria.pdf)
 
@@ -24,6 +25,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [mycontrast.R](/useR/mycontrast.R)
 + [snaspe09.dbf](/useR/sanaspe09.dbf)
 + [ufcData.csv](/useR/ufcData.csv)
+---
 
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
