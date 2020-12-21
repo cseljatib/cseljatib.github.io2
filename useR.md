@@ -16,7 +16,7 @@ Más adelante encontrarás aquí mayores antecedentes, sin embargo, por ahora qu
 
 
 ## Archivos de datos y otros
-El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**biometria.pdf**](/useR/biometria.pdf). Sin embargo, los siguientes archivos "fisicos", son necesarios en algunos pasajes del libro.
+El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**biometria.pdf**](/useR/biometria.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios en algunos pasajes del libro.
 
 + [bearsFull.dat](/useR/bearsFull.dat)
 + [eucaLeaf.dat](/useR/eucaLeaf.dat)
