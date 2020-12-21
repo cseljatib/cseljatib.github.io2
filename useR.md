@@ -5,7 +5,7 @@ excerpt: "use R"
 ---
 
 
-## Libro sobre uso de R para análisis de datos y estadística aplicada.
+# Libro sobre uso de R para análisis de datos y estadística aplicada.
 
 Este sitio web, provisorio, provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
@@ -14,10 +14,9 @@ Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora qu
 + [**biometria_0.1.tar.gz**](/useR/biometria_0.1.tar.gz)
 + [**biometria.pdf**](/useR/biometria.pdf)
 
-Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
 
-### Archivos de datos y otros
+## Archivos de datos y otros
 El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**biometria.pdf**](/useR/biometria.pdf). Sin embargo, los siguientes archivos "fisicos", son necesarios en algunos pasajes del libro.
 
 + [bearsFull.dat](/useR/bearsFull.dat)
@@ -27,6 +26,8 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [mycontrast.R](/useR/mycontrast.R)
 + [snaspe09.dbf](/useR/sanaspe09.dbf)
 + [ufcData.csv](/useR/ufcData.csv)
+
+Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
 <!-- ### Footer
 A book on the core graphics facilities of the R language and environment for statistical computing and graphics (Chapman & Hall/CRC, August 2005).
