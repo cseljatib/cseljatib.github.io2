@@ -7,9 +7,9 @@ excerpt: "use R"
 
 # Libro sobre uso de R para análisis de datos y estadística aplicada.
 
-Este sitio web, provisorio, provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
+Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
-Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora queda a disposición el paquete [**biometria**] donde estan todos los datos y funciones ocupadas en el libro. Tu puedes por lo tanto descargarlo e instalarlo en tu versión de R.
+Más adelante encontrarás aquí mayores antecedentes, sin embargo, por ahora queda a disposición el paquete [**biometria**] donde estan todos los datos y funciones ocupadas en el libro. Tu puedes por lo tanto descargarlo e instalarlo en tu versión de R.
 
 + [**biometria_0.1.tar.gz**](/useR/biometria_0.1.tar.gz)
 + [**biometria.pdf**](/useR/biometria.pdf)
