@@ -17,10 +17,15 @@ Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora qu
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
 
-# Archivos de datos y otros
-+ [ufcData.csv](/useR/ufcData.csv)
+### Archivos de datos y otros
+El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**biometria.pdf**](/useR/biometria.pdf). Sin embargo, los siguientes archivos "fisicos", son necesarios en algunos pasajes del libro.
+
++ [bearsFull.dat](/useR/bearsFull.dat)
 + [eucaLeaf.dat](/useR/eucaLeaf.dat)
++ [fvsSim.xls](/useR/fvsSim.xls)
 + [mycontrast.R](/useR/mycontrast.R)
++ [snaspe09.dbf](/useR/sanaspe09.dbf)
++ [ufcData.csv](/useR/ufcData.csv)
 
 <!-- ### Footer
 A book on the core graphics facilities of the R language and environment for statistical computing and graphics (Chapman & Hall/CRC, August 2005).
