@@ -25,8 +25,8 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [mycontrast.R](/useR/mycontrast.R)
 + [snaspe09.dbf](/useR/sanaspe09.dbf)
 + [ufcData.csv](/useR/ufcData.csv)
----
 
+## Comentarios/sugerencias?
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
 <!-- ### Footer
