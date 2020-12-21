@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Libro sobre R para análisis de datos y estadística aplicada.
-excerpt: "use R"
+excerpt: "libro R"
 ---
 
 ---
