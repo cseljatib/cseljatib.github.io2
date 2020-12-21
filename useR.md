@@ -22,6 +22,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 
 + [bearsFull.dat](/useR/bearsFull.dat)
 + [eucaLeaf.dat](/useR/eucaLeaf.dat)
++ [fertiliza.xls](/useR/fertiliza.csv)
 + [fvsSim.xls](/useR/fvsSim.xls)
 + [mycontrast.R](/useR/mycontrast.R)
 + [snaspe09.dbf](/useR/sanaspe09.dbf)
