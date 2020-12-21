@@ -1,13 +1,10 @@
 ---
 layout: resume
-title: Libro sobre R en analisis de datos
+title: Libro sobre R para análisis de datos y estadística aplicada.
 excerpt: "use R"
 ---
 
-
-# Libro sobre uso de R para análisis de datos y estadística aplicada.
-
-
+---
 Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
 Más adelante encontrarás aquí mayores antecedentes, sin embargo, por ahora queda a disposición el paquete **biometria** donde estan todos los datos y funciones ocupadas en el libro. Tu puedes por lo tanto descargarlo e instalarlo en tu versión de R.
