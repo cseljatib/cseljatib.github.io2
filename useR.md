@@ -9,15 +9,17 @@ excerpt: "use R"
 
 Este sitio web, provisorio, provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
-Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora queda a disposicion el paquete [**biometria**](/useR/biometria_0.1.tar.gz) para que lo descargues e instales en tu version de R. Además, esta disponible un [**manual**](/useR/biometria.pdf) que detalla las principales funciones y dataframes de dicho paquete.
+Más adelante encontrarás aquí mayores antecedentes, sin emabrgo, por ahora queda a disposición el paquete [**biometria**] donde encontrarás todos los datos ocupados en el libro. Tu puedes por lo tanto descargarlo e instales en tu versión de R
 
-Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib "at" gmail "dot" com y/o también christian "dot" salas "at" aya "dot" yale "dot" edu.
++ [**biometria_0.1.tar.gz**](/useR/biometria_0.1.tar.gz)
++ [**documento del paquete biometria**](/useR/biometria.pdf)
+
+Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian "dot" salas "at" aya "dot" yale "dot" edu.
 
 <!-- ### Footer
-ponce 17 `doi:10.3390/f8090329`
-salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
-salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
-salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf
-salas05 /myPubs/2005relascope_Bosque.pdf
-salas02 /myPubs/2002ajuvolrolali_Bosque.pdf
+A book on the core graphics facilities of the R language and environment for statistical computing and graphics (Chapman & Hall/CRC, August 2005).
+A link to the publisher's web page for the book.
+A list of Errata.
+PDF version of the preface, table of contents, and Chapters 1, 4, and 5.
+R code for figures:
 Last updated: August 2020 -->
