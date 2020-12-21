@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Use R 
+title: Libro sobre R en analisis de datos
 excerpt: "use R"
 ---
 
