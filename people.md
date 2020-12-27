@@ -17,20 +17,20 @@ excerpt: "my lab"
 ## My lab
 The talented researchers and bright students working in my lab.
 
-|+ [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)|Ph.D. Remote Sensing|![](images/renato_2.jpg)|
+|* [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)|Ph.D. Remote Sensing|![](images/renato_2.jpg)|
 | -------- | ---------- |---------- |
-|+ *Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin_2.jpg)|
-|+ *Nicolas Pino*|Mathematical Engineer|![](images/NicoP_2.jpg)|
+|* *Joaquín Riquelme*|Natural Resources Engineer, M.S.|![](images/joaquin_2.jpg)|
+|* *Nicolas Pino*|Mathematical Engineer|![](images/NicoP_2.jpg)|
 
 --------
 
 __Students__
 
-| + *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/camilo_2.jpg)|
+| * *Camilo Flores* | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)|![](images/camilo_2.jpg)|
 | -------- | ---------- |---------- |
-| + *Denisse Van Sint* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).||
-| + *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas_2.jpg)|
-| + *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/heraldo_2.jpg)|
+| * *Denisse Van Sint* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).||
+| * *Thomas Koplow* | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)|![](images/thomas_2.jpg)|
+| * *Heraldo Carvacho*| Master in Natural Resources, Univ. de La Frontera (Temuco, Chile)|![](images/heraldo_2.jpg)|
 
 
 ![](images/groupRuca.jpg)
