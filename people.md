@@ -20,9 +20,9 @@ The talented researchers and bright students working in my lab.
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)  |   | ![](images/renato_2.jpg)  |   |   |
-| *Joaquín Riquelme*  |   |  ![](images/joaquin_2.jpg) |   |   |
-|  *Nicolas Pino* |   | ![](images/NicoP_2.jpg)  |   |   |
+| [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)  |Ph.D. Remote Sensing   | ![](images/renato_2.jpg)  |   |   |
+| *Joaquín Riquelme*  |Natural Resources Engineer, M.S.   |  ![](images/joaquin_2.jpg) |   |   |
+|  *Nicolas Pino* | Mathematical Engineer  | ![](images/NicoP_2.jpg)  |   |   |
 
 
 |[*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)|Ph.D. Remote Sensing|![](images/renato_2.jpg)|
