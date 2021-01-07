@@ -39,7 +39,7 @@ analysis](https://doi.org/10.1016/j.foreco.2020.118369). **Forest Ecology and Ma
 
 `2020`
 Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., Piotto D, **Salas-Eljatib C**, Broadbent
-E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](http://iopscience.iop.org/article/10.1088/1748-9326/abcac7). **Environmental Research Letters**.
+E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
