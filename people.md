@@ -35,7 +35,6 @@ __Students__
 |*Denisse Van Sint*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   | ![](images/denisse2.jpg) |   |   |
 |*Camilo Flores*  | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)   | ![](images/camilo_2.jpg)  |   |   |
 |*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   |  ![](images/thomas_2.jpg) |   |   |
-|*Heraldo Carvacho* | Master in Natural Resources, Univ. de La Frontera (Temuco, Chile) | ![](images/heraldo_2.jpg)  |   |   |
 |---|---|---|---|---|
 
 
