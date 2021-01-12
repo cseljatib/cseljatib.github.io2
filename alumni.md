@@ -18,8 +18,9 @@ I have listed former students, post-docs, and visiting students.
 
 ## Postdocs
 
+
 `2020--2022`
-* Renato Cifuentes La Mura*, PhD in Biosciences Engineering from The Katholieke Universiteit Leuven (Belgium). Postdoctoral
+*Renato Cifuentes La Mura*, PhD in Biosciences Engineering from The Katholieke Universiteit Leuven (Belgium). Postdoctoral
 research stay at the Biometrics Group at the [Center for Ecosystem Modelling and Monitoring of the Universidad Mayor](http://cem.umayor.cl), supported by The FONDEF program, Chile.
 
 `2018-2021`
@@ -42,7 +43,7 @@ supported by the PAI program of CONICYT-Chile.
 ## Graduate students
 
 `2021`
-* Heraldo Carvacho*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Town council of Pudahuel (Santiago, Chile).
+*Heraldo Carvacho*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Town council of Pudahuel (Santiago, Chile).
 
 `2020`
 *Juan Pino*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
