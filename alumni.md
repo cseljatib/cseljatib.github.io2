@@ -24,12 +24,12 @@ I have listed former students, post-docs, and visiting students.
 research stay at the Biometrics Group at the [Center for Ecosystem Modelling and Monitoring of the Universidad Mayor](http://cem.umayor.cl), supported by The FONDEF program, Chile.
 
 `2018-2021`
-*Andrés Fuentes-Ramirez*, PhD in Ecology and Evolutionary Biology from Iowa State University (USA). Postdoctoral
+*[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, PhD in Ecology and Evolutionary Biology from Iowa State University (USA). Postdoctoral
 research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by The Attraction and Insertion of Advanced Human Capital Program (PAI) of CONICYT-Chile.
 
 `2016-2018`
-*Rodrigo Vargas-Gaete*, PhD in Natural Resources from the Albert-Ludwigs Freiburg University (Germany). Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
-de La Frontera. (Currently, Rodrigo is an Assistant Professor at Universidad de La Frontera, Temuco, Chile).
+*[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.cl)*, PhD in Natural Resources from the Albert-Ludwigs Freiburg University (Germany). Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
+de La Frontera. (Currently, Rodrigo is an Associate Professor at Universidad de La Frontera, Temuco, Chile).
 
 `2015-2017`
 *Andrés Fuentes-Ramirez*, Postdoctoral research stay at Laboratorio de Biometría, Universidad de La Frontera, supported by Vicerrectoría de Investigación y Postgrado, Universidad
@@ -79,7 +79,7 @@ supported by the PAI program of CONICYT-Chile.
 *Inal Painemal*, Master in Natural Resources Management, Universidad de La Frontera. Currently at National Forest Service of Chile in Vallenar.
 
 `2013`
-*Daniel Soto*, M.S. in Forest Sciences, Universidad Austral de Chile. [Committee Professor]. Currently, Daniel is an Assistant Professor at Universidad de Aysén, Coyhaique, Chile. 
+*[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, M.S. in Forest Sciences, Universidad Austral de Chile. [Committee Professor]. Currently, Daniel is an Assistant Professor at Universidad de Aysén, Coyhaique, Chile. 
 
 `2013`
 *Valeska Yaitul*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Direccion de Investigación, Universidad de La Frontera (Temuco, Chile).
