@@ -19,8 +19,8 @@ excerpt: "on publications"
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
 For those papers written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
 
-`In Press`
-**Salas-Eljatib C**. An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest. **Ecological
+`2021`
+**Salas-Eljatib C**. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological
 Applications** (To appear).
 
 `2020`
@@ -42,78 +42,52 @@ Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., P
 E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
 
 `2020`
-Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC,
-Vargas-Picón R. 2020. Estructura y regeneración de bosques de
-Prumnopitys andina en los Andes del sur de Chile \[<u> Structure and
-regeneration of Prumnopitys andina forests in the southern Andes of
+Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC, Vargas-Picón R. 2020. Estructura y regeneración de bosques de
+Prumnopitys andina en los Andes del sur de Chile \[<u> Structure and regeneration of Prumnopitys andina forests in the southern Andes of
 Chile </u> \]. **Gayana Botanica** 77(1): 48–58.
 
 `2020`
-Soto DP, Donoso PJ, González-Chang M, Vásquez-Grandón A, **Salas-Eljatib
-C**. 2020. [Differential early performance of two underplanted hardwood
-tree species following restoration treatments in high-graded temperate
-rainforests](https://doi.org/10.3390/f11040401). **Forests** 11(4): 401. 
+Soto DP, Donoso PJ, González-Chang M, Vásquez-Grandón A, **Salas-Eljatib C**. 2020. [Differential early performance of two underplanted hardwood
+tree species following restoration treatments in high-graded temperate rainforests](https://doi.org/10.3390/f11040401). **Forests** 11(4): 401. 
 
 `2020`
 Donoso P, Puettmann K, D’Amato A, Ponce D, **Salas-Eljatib C**, Ojeda P. 2020. [Short-term effects of variable-density thinning on regeneration in hardwood-dominated temperate rainforests](https://doi.org/10.1016/j.foreco.2020.118058). **Forest Ecology and
 Management** 464: 118058.
 
 `2020`
-Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J,
-Arroyo-Vargas P, Santibañez P. 2020. [Initial response of understory
-vegetation and tree regeneration to a mixed-severity fire in old-growth
-Araucaria-Nothofagus forests](https://doi.org/10.1111/avsc.12479). **Applied Vegetation Science** 23(2):
+Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-Vargas P, Santibañez P. 2020. [Initial response of understory vegetation and tree regeneration to a mixed-severity fire in old-growth Araucaria-Nothofagus forests](https://doi.org/10.1111/avsc.12479). **Applied Vegetation Science** 23(2):
 210–222.
 
 `2020`
-Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,
-**Salas-Eljatib C**. 2020. [Shrub influences on seedlings performance
-when restoring the slow-growing conifer Pilgerodendron uviferum in
-southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology** 28(2): 396–407.
+Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,**Salas-Eljatib C**. 2020. [Shrub influences on seedlings performance when restoring the slow-growing conifer Pilgerodendron uviferum in southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology** 28(2): 396–407.
 
 `2019`
-Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque
-adulto: Una herramienta para evaluar estados de desarrollo de bosques
-nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[<u> Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands
-of south-central Chile </u> \]. **Bosque** 40(2): 235–240.
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[<u> Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands of south-central Chile </u> \]. **Bosque** 40(2): 235–240.
 
 `2019`
-Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P,
-Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
-Routh D, Peay KG, Abegg M, ..., **Salas-Eljatib C**, et al. 2019.
-[Climatic controls of decomposition drive the global biogeography of
+Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P, Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
+Routh D, Peay KG, Abegg M, ..., **Salas-Eljatib C**, et al. 2019. [Climatic controls of decomposition drive the global biogeography of
 forest-tree symbioses](https://doi.org/10.1038/s41586-019-1128-0). **Nature** 569: 404–408.
 
 `2019`
-**Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019.
-[Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
+**Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019. [Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
 sur (41-43 S) de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n1/0717-9200-bosque-40-01-00071.pdf) \[<u> Mixed-effects height-diameter
-models for Drimys winteri in the south (41-43 S) of Chile </u> \].
-**Bosque** 40(1): 71–80.
+models for Drimys winteri in the south (41-43 S) of Chile </u> \]. **Bosque** 40(1): 71–80.
 
 `2019`
-Vargas-Gaete R, Doussoulin, H, Smith-Ramírez C, Bravo S, **Salas-Eljatib
-C**, Andrade N, Trávníček B. 2019. [Evaluation of rust pathogenicity
-(Phragmidium violaceum) as a biological control agent for the invasive
-plant Rubus ulmifolius on Robinson Crusoe Island, Chile](https://doi.org/10.1007/s13313-019-0615-y). **Australasian
-Plant Pathology** 48(3): 201–208.
+Vargas-Gaete R, Doussoulin, H, Smith-Ramírez C, Bravo S, **Salas-Eljatib C**, Andrade N, Trávníček B. 2019. [Evaluation of rust pathogenicity
+(Phragmidium violaceum) as a biological control agent for the invasive plant Rubus ulmifolius on Robinson Crusoe Island, Chile](https://doi.org/10.1007/s13313-019-0615-y). **Australasian Plant Pathology** 48(3): 201–208.
 
 `2019`
-Donoso PJ, Schlegel B, **Salas-Eljatib C**, Donoso C. 2019. [Development
-of 26-year-old mixed forests following different regeneration cutting
-treatments in Andean temperate rainforests of south-central Chile](https://doi.org/10.1016/j.foreco.2018.10.004).
-**Forest Ecology and Management** 432: 686–693.
+Donoso PJ, Schlegel B, **Salas-Eljatib C**, Donoso C. 2019. [Development of 26-year-old mixed forests following different regeneration cutting
+treatments in Andean temperate rainforests of south-central Chile](https://doi.org/10.1016/j.foreco.2018.10.004). **Forest Ecology and Management** 432: 686–693.
 
 `2018`
-**Salas-Eljatib C**, Weiskittel AR. 2018. [Evaluation of modelling
-strategies for assessing self-thinning behavior and carrying capacity](https://doi.org/10.1002/ece3.4525).
-**Ecology and Evolution** 8(22): 10768–10779.
+**Salas-Eljatib C**, Weiskittel AR. 2018. [Evaluation of modelling strategies for assessing self-thinning behavior and carrying capacity](https://doi.org/10.1002/ece3.4525). **Ecology and Evolution** 8(22): 10768–10779.
 
 `2018`
-**Salas-Eljatib C**, Fuentes-Ramirez A, Gregoire TG, Altamirano A,
-Yaitul V. 2018. [A study on the effects of unbalanced data when fitting
-logistic regression models in ecology](https://doi.org/10.1016/j.ecolind.2017.10.030). **Ecological Indicators** 85:
-502–508.
+**Salas-Eljatib C**, Fuentes-Ramirez A, Gregoire TG, Altamirano A, Yaitul V. 2018. [A study on the effects of unbalanced data when fitting
+logistic regression models in ecology](https://doi.org/10.1016/j.ecolind.2017.10.030). **Ecological Indicators** 85: 502–508.
 
 `2018`
 Vargas-Gaete R, **Salas-Eljatib C**, Gärtner SM, Vidal OJ, Bannister JR,
