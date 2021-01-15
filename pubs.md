@@ -41,8 +41,9 @@ Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., P
 E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
 
 `2020`
-Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC, Vargas-Picón R. 2020. Estructura y regeneración de bosques de
-Prumnopitys andina en los Andes del sur de Chile \[<u> Structure and regeneration of Prumnopitys andina forests in the southern Andes of
+Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC, Vargas-Picón R. 2020. [Estructura y regeneración de bosques de
+*Prumnopitys andina* en los Andes del sur de Chile](http://dx.doi.org/10.4067/S0717-66432020000100048 
+) \[<u> Structure and regeneration of Prumnopitys andina forests in the southern Andes of
 Chile </u> \]. **Gayana Botanica** 77(1): 48–58.
 
 `2020`
