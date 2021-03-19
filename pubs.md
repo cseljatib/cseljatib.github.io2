@@ -179,10 +179,10 @@ dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X20
 335–347.
 
 `2009`
-Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.2008.01110.x). **Biometrics** 65(2): 590–598.
+Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.01110.x). **Biometrics** 65(2): 590–598.
 
 `2009`
-**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](/myPubs/2020socChCsForestales_bosque.pdf) \[<u> Why purchase commercial statistical software if there is R? </u> \]. **Ecología Austral** 18(2): 223–231.
+**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](http://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/1389/753) \[<u> Why purchase commercial statistical software if there is R? </u> \]. **Ecología Austral** 18(2): 223–231.
 
 `2008`
 **Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://academic.oup.com/forestscience/article/54/1/107/4604379). **Forest Science** 54(1): 107–122.
