@@ -20,6 +20,9 @@ If you do not have access to any of these papers, [drope me an e-mail](mailto:cs
 For those papers written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
 
 `2021`
+**Salas-Eljatib C**. 2021. A new algorithm for reconstructing tree height growth with stem analysis data. **Methods in Ecology and Evolution** (To appear).
+
+`2021`
 **Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** (To appear).
 
 `2020`
