@@ -25,7 +25,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [fertiliza.csv](/rlibro/fertiliza.csv)
 + [fvsSim.xls](/rlibro/fvsSim.xls)
 + [mycontrast.R](/rlibro/mycontrast.R)
-+ [snaspe09.dbf](/rlibro/sanaspe09.dbf)
++ [snaspe09.dbf](/rlibro/snaspe09.dbf)
 + [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Comentarios/sugerencias?
