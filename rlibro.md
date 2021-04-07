@@ -7,6 +7,8 @@ excerpt: "libro R"
 ---
 Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
+![](images/portadaLibro.png){width=50%}
+
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 ## Fuente del paquete y manual
@@ -29,7 +31,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 ## Comentarios/sugerencias?
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
-![](images/portadaLibro.png)
+
 
 <!-- ### Footer
 A book on the core graphics facilities of the R language and environment for statistical computing and graphics (Chapman & Hall/CRC, August 2005).
