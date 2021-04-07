@@ -9,8 +9,8 @@ excerpt: "libro R"
 This site includes resources that can help you learn and use the methods that are discussed in Applied Linear Regression, Fourth Edition  by Sanford Weisberg, available as a book or an ebook from Wiley (ISBN 978-1-118-38608-8).
 
 |              |   |
-:-------------------------:|:-------------------------:
-Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib |  <img src="/images/portadaLibro.png" width="400" height="350">
+:---|:-------------------------:
+Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib |  <img src="/images/portadaLibro.png" width="600" height="500">
 
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
