@@ -29,6 +29,8 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 ## Comentarios/sugerencias?
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
+![](images/portadaLibro.jpg)
+
 <!-- ### Footer
 A book on the core graphics facilities of the R language and environment for statistical computing and graphics (Chapman & Hall/CRC, August 2005).
 A link to the publisher's web page for the book.
