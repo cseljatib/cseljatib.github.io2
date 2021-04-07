@@ -12,21 +12,21 @@ Este sitio web provee información relacionada al libro **Análisis de datos con
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 ## Fuente del paquete y manual
-+ [**datana_0.1.tar.gz**](/libroR/datana_0.1.tar.gz)
-+ [**datana.pdf**](/libroR/datana.pdf)
++ [**datana_0.1.tar.gz**](/rbooklibroR/datana_0.1.tar.gz)
++ [**datana.pdf**](/rlibro/datana.pdf)
 
 
 
 ## Archivos de datos y otros
-El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**biometria.pdf**](/libroR/datana.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios para algunos pasajes del libro.
+El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios para algunos pasajes del libro.
 
-+ [bearsFull.dat](/libroR/bearsFull.dat)
-+ [eucaLeaf.dat](/libroR/eucaLeaf.dat)
-+ [fertiliza.csv](/libroR/fertiliza.csv)
-+ [fvsSim.xls](/libroR/fvsSim.xls)
-+ [mycontrast.R](/libroR/mycontrast.R)
-+ [snaspe09.dbf](/libroR/sanaspe09.dbf)
-+ [ufcData.csv](/libroR/ufcData.csv)
++ [bearsFull.dat](/rlibro/bearsFull.dat)
++ [eucaLeaf.dat](/rlibro/eucaLeaf.dat)
++ [fertiliza.csv](/rlibro/fertiliza.csv)
++ [fvsSim.xls](/rlibro/fvsSim.xls)
++ [mycontrast.R](/rlibro/mycontrast.R)
++ [snaspe09.dbf](/rlibro/sanaspe09.dbf)
++ [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Comentarios/sugerencias?
 Cualquier duda, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
