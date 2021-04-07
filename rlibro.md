@@ -7,7 +7,7 @@ excerpt: "libro R"
 ---
 Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
-Más adelante encontrarás aquí mayores antecedentes, sin embargo, por ahora queda a disposición el paquete **datana** donde estan todos los datos y funciones ocupadas en el libro. Tu puedes por lo tanto descargarlo e instalarlo en tu versión de R.
+En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 ## Fuente del paquete y manual
 + [**datana_0.1.tar.gz**](/libroR/datana_0.1.tar.gz)
