@@ -7,6 +7,7 @@ excerpt: "libro R"
 ---
 Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**
 
+|              |   |
 :-------------------------:|:-------------------------:
 Este sitio web provee información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada**  |  <img src="/images/portadaLibro.png" width="300" height="350">)
 
