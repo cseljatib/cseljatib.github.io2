@@ -30,12 +30,10 @@ The talented researchers and bright students working in my lab.
 
 __Students__
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|*Denisse Van Sint*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   | ![](images/denisse2.jpg) |   |   |
-|*Camilo Flores*  | B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)   | ![](images/camilo_2.jpg)  |   |   |
-|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   |  ![](images/thomas_2.jpg) |   |   |
-|---|---|---|---|---|
+|   |   |   |
+|---|---|---|
+|*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
+|---|---|---|
 
 
 --------
