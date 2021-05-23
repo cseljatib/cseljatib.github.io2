@@ -88,12 +88,12 @@ supported by the PAI program of CONICYT-Chile.
 ## Undergraduate students
 
 
-|   |   |   |   |
-|---|---|---|---|
-|*Denisse Van Sint*  | 2020. B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   | ![](images/denisse2.jpg) |    
-|*Camilo Flores*  | 2020. B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile)   | ![](images/camilo_2.jpg)  | `2020`      |
-|*Thomas Koplow*  | 2020. B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   |  ![](images/thomas_2.jpg) |  2020    |
-|---|---|---|---|
+|   |   |   |
+|---|---|---|
+|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). 2020.   | ![](images/denisse2.jpg) |    
+|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). 2021.   | ![](images/camilo_2.jpg)    |
+|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). 2020.   |  ![](images/thomas_2.jpg) |
+|---|---|---|
 
 `2020`
 *Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
