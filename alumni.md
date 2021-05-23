@@ -87,6 +87,8 @@ supported by the PAI program of CONICYT-Chile.
 
 ## Undergraduate students
 
+`2020`
+
 |   |   |   |   |   |
 |---|---|---|---|---|
 |*Denisse Van Sint*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile)   | ![](images/denisse2.jpg) |   |   |
@@ -95,7 +97,7 @@ supported by the PAI program of CONICYT-Chile.
 |---|---|---|---|---|
 
 `2020`
-*Thomas Koplon*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
+*Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
 
 `2018`
 *Camila Molina*, B.S. in Natural Resources, Universidad Austral de Chile. [Committee Professor].
@@ -173,8 +175,6 @@ supported by the PAI program of CONICYT-Chile.
 ## Visiting undergraduate students
 
 
-`2020`
-*Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
 
 `2019`
 *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
