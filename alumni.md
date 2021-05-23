@@ -90,9 +90,9 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). 2020.   | ![](images/denisse2.jpg) |    
-|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). 2021.   | ![](images/camilo_2.jpg)    |
-|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). 2020.   |  ![](images/thomas_2.jpg) |
+|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). **2021**.   | ![](images/camilo_2.jpg)    |
+|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   | ![](images/denisse2.jpg) |    
+|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   |  ![](images/thomas_2.jpg) |
 |---|---|---|
 
 `2020`
@@ -172,8 +172,6 @@ supported by the PAI program of CONICYT-Chile.
 
 
 ## Visiting undergraduate students
-
-
 
 `2019`
 *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
