@@ -42,6 +42,7 @@ supported by the PAI program of CONICYT-Chile.
 
 ## Graduate students
 
+|   |   |   |
 |---|---|---|
 |*Heraldo Carvacho*  |  Master in Natural Resources Management, Universidad de La Frontera. **2021**.   | ![](images/heraldo_2.jpg)    |
 |---|---|---|
