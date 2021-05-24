@@ -31,7 +31,7 @@ __Students__
 
 |   |   |   |
 |---|---|---|
-|*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
+|*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |  ![](images/rodolfo.png) |
 |---|---|---|
 
 
