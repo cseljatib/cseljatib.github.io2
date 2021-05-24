@@ -42,6 +42,11 @@ supported by the PAI program of CONICYT-Chile.
 
 ## Graduate students
 
+|   |   |   |
+|---|---|---|
+|*Heraldo Carvacho*  |  Master in Natural Resources Management, Universidad de La Frontera. **2021**.   | ![](images/heraldo_2.jpg)    |
+|---|---|---|
+
 `2021`
 *Heraldo Carvacho*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Town council of Pudahuel (Santiago, Chile).
 
@@ -87,8 +92,16 @@ supported by the PAI program of CONICYT-Chile.
 
 ## Undergraduate students
 
+
+|   |   |   |
+|---|---|---|
+|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). **2021**.   | ![](images/camilo_2.jpg)    |
+|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   | ![](images/denisse2.jpg) |    
+|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   |  ![](images/thomas_2.jpg) |
+|---|---|---|
+
 `2020`
-*Thomas Koplon*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
+*Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
 
 `2018`
 *Camila Molina*, B.S. in Natural Resources, Universidad Austral de Chile. [Committee Professor].
@@ -164,10 +177,6 @@ supported by the PAI program of CONICYT-Chile.
 
 
 ## Visiting undergraduate students
-
-
-`2020`
-*Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
 
 `2019`
 *Nicolas Rodriguez*, B.S. in Geology, Universidad Mayor (Santiago, Chile).
