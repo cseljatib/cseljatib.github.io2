@@ -23,7 +23,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** (To appear).
 
 `2021`
-**Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** (To appear).
+**Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
 
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a mathematical perspective for forest productivity](/myPubs/2020hgrate_ecoModelling.pdf). **Ecological Modelling** 431: 109198.
