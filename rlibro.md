@@ -36,7 +36,8 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 ## Graficos avanzados
 Scripts para reproducir los plots de la seccion "*Algunos graficos mas avanzados*" del libro.
 
-+ [Dispersion e histogramas](/rlibro/xyHist)
++ [Dispersion e histogramas](/rlibro/xyHist.md)
++ [About me](./about.md)
 
 + 
 ## Comentarios/sugerencias?
