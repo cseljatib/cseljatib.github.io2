@@ -9,7 +9,7 @@ excerpt: "libro R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y).|  <img src="/images/portadaLibro.png" width="800" height="700">
+Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Mayor (ISBN xxx-x-xxx-xxxxx-y).|  <img src="/images/portadaLibro.png" width="800" height="700">
 
 
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
@@ -18,7 +18,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Fuente del paquete y manual
-+ [**datana_0.1.tar.gz**](/rbooklibroR/datana_0.1.tar.gz)
++ [**datana_0.1.tar.gz**](/rlibro/datana_0.1.tar.gz)
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
@@ -33,6 +33,12 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [snaspe09.dbf](/rlibro/snaspe09.dbf)
 + [ufcData.csv](/rlibro/ufcData.csv)
 
+## Graficos avanzados
+Scripts para reproducir los plots de la seccion "*Algunos graficos mas avanzados*" del libro.
+
++ [Dispersion e histogramas](/rlibro/xyHist)
+
++ 
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu.
 
