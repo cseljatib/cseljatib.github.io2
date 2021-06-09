@@ -38,6 +38,7 @@ Scripts para reproducir los plots de la seccion "*Algunos graficos mas avanzados
 
 + [Dispersion e histogramas](/rlibro/xyHist.md)
 + [About me](./about.md)
++ [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
 
 + 
 ## Comentarios/sugerencias?
