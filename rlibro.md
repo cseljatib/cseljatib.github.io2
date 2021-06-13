@@ -34,10 +34,9 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Graficos avanzados
-Scripts para reproducir los plots de la seccion "*Algunos graficos mas avanzados*" del libro.
+Scripts para reproducir los plots de la seccion "*Algunos gráficos más avanzados*" del libro.
 
-+ [Dispersion e histogramas](/rlibro/xyHist.md)
-+ [About me](./about.md)
++ [Dispersion e histogramas](/rlibro/xyHist.html)
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
 
 + 
