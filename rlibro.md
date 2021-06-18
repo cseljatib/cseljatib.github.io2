@@ -2,6 +2,7 @@
 layout: resume
 title: Libro sobre R para análisis de datos y estadística aplicada.
 excerpt: "libro R"
+urlcolor: blue
 ---
 
 ---
@@ -18,7 +19,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Fuente del paquete y manual
-+ [**datana_0.1.tar.gz**](/rlibro/datana_0.1.tar.gz)
++ [**datana_1.0.0.tar.gz**](/rlibro/datana_1.0.0.tar.gz)
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
