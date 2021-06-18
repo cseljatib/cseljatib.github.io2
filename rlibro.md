@@ -1,10 +1,11 @@
 ---
 layout: resume
-title: Libro sobre R para análisis de datos y estadística aplicada.
+title: Libro Análisis de datos con el programa estadístico R: una introduccción aplicada.
 excerpt: "libro R"
+output:
+  pdf_document: default
+  html_notebook: default
 urlcolor: blue
-
----
 
 ---
 
