@@ -3,6 +3,7 @@ layout: resume
 title: Libro sobre R para análisis de datos y estadística aplicada.
 excerpt: "libro R"
 urlcolor: blue
+
 ---
 
 ---
