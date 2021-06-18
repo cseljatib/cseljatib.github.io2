@@ -2,8 +2,6 @@
 layout: resume
 title: Libro Análisis de datos con el programa estadístico R: una introduccción aplicada.
 excerpt: "libro R"
-output:
-  html_notebook: default
 urlcolor: blue
 linkcolor: blue
 
