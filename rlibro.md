@@ -6,7 +6,7 @@ excerpt: "Libro de R"
 ---
 
 <style>H1{color:DarkRed;}</style>
-
+<style>H2{color:DarkGreen;}</style>
 
 --------
 
