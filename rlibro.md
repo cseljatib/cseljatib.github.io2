@@ -7,22 +7,22 @@ excerpt: "Libro de R"
 
 --------
 
-Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y)
-
-
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Mayor (ISBN xxx-x-xxx-xxxxx-y).|  <img src="/images/portadaLibro.png" width="800" height="700">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y).|  <img src="/images/portadaLibro.png" width="800" height="700">
 
+Se ofrecen enlaces para instalar R, asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro. 
 
 --------
 
-En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
+
 
 ## Instalando R
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
-## Fuente del paquete y manual
+## Paquete datana
+En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
+
 + [**datana_1.0.0.tar.gz**](/rlibro/datana_1.0.0.tar.gz)
 + [**datana.pdf**](/rlibro/datana.pdf)
 
