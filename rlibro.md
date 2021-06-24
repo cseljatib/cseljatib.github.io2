@@ -1,16 +1,16 @@
 ---
 layout: resume
-title: Publications 
-excerpt: "on publications"
+title: Libro Análisis de datos con el programa estadístico R una introduccción aplicada
+excerpt: "Libro de R"
 ---
 
 
 --------
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
-* **[Chapters in books](./chapters.md)** 
-* **[In proceedings](./proceed.md)** 
 
+
+Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Mayor (ISBN xxx-x-xxx-xxxxx-y)
 
 --------
 
