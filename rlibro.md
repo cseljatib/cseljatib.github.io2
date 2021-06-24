@@ -15,10 +15,7 @@ Este sitio web incluye información relacionada al libro **Análisis de datos co
 
 --------
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
+
 
 ## Instalando R
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
@@ -26,9 +23,11 @@ Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-proje
 ## Paquete datana
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
-+ [**datana_1.0.0.tar.gz**](/rlibro/datana_1.0.0.tar.gz)
-+ [**datana.pdf**](/rlibro/datana.pdf)
 
+```diff
++ [**datana_1.0.0.tar.gz**](/rlibro/datana_1.0.0.tar.gz)
+- [**datana.pdf**](/rlibro/datana.pdf)
+```
 
 ## Archivos de datos y otros
 El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios para algunos pasajes del libro.
