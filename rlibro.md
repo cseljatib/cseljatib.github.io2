@@ -13,14 +13,14 @@ excerpt: "Libro de R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para instalar R, asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaLibro.png" width="800" height="700">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para [instalar R](#a-name), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaLibro.png" width="800" height="700">
 
 
 --------
 
 
 
-## Instalando R
+## Instalando R {#a-name}
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Paquete datana
