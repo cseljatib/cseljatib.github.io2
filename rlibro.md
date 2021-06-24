@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
 
