@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Libro introductorio sobre el programa estadístico R
+colorlinks: true
+urlcolor: blue
 excerpt: "Libro de R"
 
 ---
