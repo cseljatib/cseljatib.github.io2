@@ -9,7 +9,10 @@ excerpt: "Libro de R"
 
 Este sitio web incluye información que puede ayudarle a aprender las materias y ejercicios discutidos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido producido por la Editorial Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y)
 
-<img src="/images/portadaLibro.png" width="800" height="700">
+A | B
+- | - 
+xxxxxxxx dfgtr ghjuyt | ![alt](portadaLibro.png)
+
 --------
 
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
@@ -45,6 +48,7 @@ Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
+<img src="/images/portadaLibro.png" width="800" height="700">
 salas20 /myPubs/2020hgrate_ecoModelling.pdf (https://doi.org/10.1016/j.ecolmodel.2020.109198)
 ponce 17 `doi:10.3390/f8090329`
 sensors cifuentes 2018 `doi:10.3390/s18103357`.
