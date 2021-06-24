@@ -5,6 +5,9 @@ excerpt: "Libro de R"
 
 ---
 
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 --------
 
@@ -23,11 +26,9 @@ Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-proje
 ## Paquete datana
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
-
-```diff
 + [**datana_1.0.0.tar.gz**](/rlibro/datana_1.0.0.tar.gz)
-- [**datana.pdf**](/rlibro/datana.pdf)
-```
++ [**datana.pdf**](/rlibro/datana.pdf)
+
 
 ## Archivos de datos y otros
 El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios para algunos pasajes del libro.
