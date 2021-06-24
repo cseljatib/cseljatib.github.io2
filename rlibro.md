@@ -5,7 +5,7 @@ excerpt: "Libro de R"
 
 ---
 
-<style>H1{color:Blue;}</style>
+<style>H1{color:DarkRed;}</style>
 <style>H2{color:DarkOrange;}</style>
 <style>p{color:Black;}</style>
 
