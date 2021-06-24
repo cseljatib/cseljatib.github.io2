@@ -2,9 +2,6 @@
 layout: resume
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
-output:
-  html_notebook: default
-urlcolor: red
 
 ---
 
@@ -18,7 +15,10 @@ Este sitio web incluye información relacionada al libro **Análisis de datos co
 
 --------
 
-
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 ## Instalando R
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
