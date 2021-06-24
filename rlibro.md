@@ -6,6 +6,7 @@ excerpt: "Libro de R"
 
 
 --------
+
 |              |   |
 :---|:-------------------------:
 Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y).
