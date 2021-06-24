@@ -49,7 +49,7 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
  
 ## Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. :camel
+Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
