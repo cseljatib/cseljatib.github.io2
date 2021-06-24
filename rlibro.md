@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Libro introductorio sobre el programa estadístico R
 colorlinks: true
 urlcolor: blue
