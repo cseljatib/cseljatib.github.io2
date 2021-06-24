@@ -4,7 +4,7 @@ title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
 output:
   html_notebook: default
-urlcolor: blue
+urlcolor: red
 
 ---
 
