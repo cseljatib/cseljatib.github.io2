@@ -11,7 +11,7 @@ Este sitio web incluye información que puede ayudarle a aprender las materias y
 
 A | B
 - | - 
-xxxxxxxx dfgtr ghjuyt | ![alt](portadaLibro.png)
+xxxxxxxx dfgtr ghjuyt | ![alt](/images/portadaLibro.png)
 
 --------
 
