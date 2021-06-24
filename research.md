@@ -4,6 +4,7 @@ title: Research
 excerpt: "Recent Research"
 ---
 
+<style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
 My research focuses on the development and application of statistical and mathematical models to address problems in ecological research.
