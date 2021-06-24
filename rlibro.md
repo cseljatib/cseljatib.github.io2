@@ -13,14 +13,14 @@ excerpt: "Libro de R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para [instalar R](#a-name), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaLibro.png" width="800" height="700">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para [instalar R](#instar), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaLibro.png" width="800" height="700">
 
 
 --------
 
 
 
-## Instalando R {#a-name}
+## Instalando R {#instar}
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Paquete datana
@@ -49,7 +49,7 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
  
 ## Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu.
+Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. :camel
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
