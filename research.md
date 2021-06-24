@@ -3,6 +3,9 @@ layout: page
 title: Research 
 excerpt: "Recent Recearch"
 ---
+
+<style>H2{color:DarkRed;}</style>
+
 My research focuses on the development and application of statistical and mathematical models to address problems in ecological research.
 
 My main research interest is biometrics, i.e., applied statistics and mathematical modelling for understanding ecological and natural resources phenomena.
