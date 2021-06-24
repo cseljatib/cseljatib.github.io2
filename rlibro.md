@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Libro Análisis de datos con el programa estadístico R una introduccción aplicada
+title: Libro Análisis de datos con el programa estadístico R: una introduccción aplicada
 excerpt: "Libro de R"
 ---
 
