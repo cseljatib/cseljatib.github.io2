@@ -6,12 +6,12 @@ excerpt: "Libro de R"
 
 
 --------
-
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y).|  <img src="/images/portadaLibro.png" width="800" height="700">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y).
 
-Se ofrecen enlaces para instalar R, asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro. 
+Se ofrecen enlaces para instalar R, asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaLibro.png" width="800" height="700">
+
 
 --------
 
