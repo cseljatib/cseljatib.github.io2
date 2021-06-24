@@ -3,11 +3,10 @@ layout: resume
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
 output:
-    pdf_document:
-      toc: true
-linkcolor: red
-urlcolor: red
-citecolor: red
+  pdf_document: default
+  html_notebook: default
+urlcolor: blue
+
 ---
 
 
