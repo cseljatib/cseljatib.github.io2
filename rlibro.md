@@ -6,8 +6,7 @@ excerpt: "Libro de R"
 ---
 
 <style>H1{color:DarkRed;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
+
 
 --------
 
@@ -54,6 +53,8 @@ Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 <img src="/images/portadaLibro.png" width="800" height="700">
 salas20 /myPubs/2020hgrate_ecoModelling.pdf (https://doi.org/10.1016/j.ecolmodel.2020.109198)
 ponce 17 `doi:10.3390/f8090329`
