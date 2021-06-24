@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research 
-excerpt: "Recent Recearch"
+excerpt: "Recent Research"
 ---
 
 <style>H2{color:Red;}</style>
