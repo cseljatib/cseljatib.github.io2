@@ -3,7 +3,6 @@ layout: resume
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
 output:
-  pdf_document: default
   html_notebook: default
 urlcolor: blue
 
@@ -60,7 +59,4 @@ ponce 17 `doi:10.3390/f8090329`
 sensors cifuentes 2018 `doi:10.3390/s18103357`.
 salas10 http://rchn.biologiachile.cl/pdfs/2010/3/Soto_et_al_2010.pdf
 salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
-salas05 pinaster /myPubs/2005volPinaster_Quebracho.pdf (https://fcf.unse.edu.ar/archivos/quebracho/q12-01-Pinus-pinaster.pdf)
-salas05 /myPubs/2005relascope_Bosque.pdf (http://dx.doi.org/10.4067/S0717-92002005000200010) 
-salas02 /myPubs/2002ajuvolrolali_Bosque.pdf (http://dx.doi.org/10.4067/S0717-92002002000200009)
 Last updated: August 2020 -->
