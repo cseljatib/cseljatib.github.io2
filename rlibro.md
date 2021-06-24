@@ -2,6 +2,9 @@
 layout: resume
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
+linkcolor: red
+urlcolor: red
+citecolor: red
 ---
 
 
