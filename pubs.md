@@ -45,7 +45,7 @@ Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., P
 
 `2020`
 Vargas-Gaete R, **Salas-Eljatib C**, Penneckamp D, Neira Z, Diez MC, Vargas-Picón R. 2020. [Estructura y regeneración de bosques de
-Prumnopitys andina en los Andes del sur de Chile](http://dx.doi.org/10.4067/S0717-66432020000100048) \[<u>Structure and regeneration of Prumnopitys andina forests in the southern Andes of Chile </u>\]. **Gayana Botanica** 77(1): 48–58.
+Prumnopitys andina en los Andes del sur de Chile](http://dx.doi.org/10.4067/S0717-66432020000100048) \[*Structure and regeneration of Prumnopitys andina forests in the southern Andes of Chile*{: style="color: green; opacity: 0.80;"}\]. **Gayana Botanica** 77(1): 48–58.
 
 `2020`
 Soto DP, Donoso PJ, González-Chang M, Vásquez-Grandón A, **Salas-Eljatib C**. 2020. [Differential early performance of two underplanted hardwood
@@ -63,7 +63,7 @@ Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-
 Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,**Salas-Eljatib C**. 2020. [Shrub influences on seedlings performance when restoring the slow-growing conifer Pilgerodendron uviferum in southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology** 28(2): 396–407.
 
 `2019`
-Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[$\color{green}{Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands of south-central Chile}$ \]. **Bosque** 40(2): 235–240.
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[*Old-growth Index: a tool to evaluate developmental stages in native forests in the lowlands of south-central Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P, Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
