@@ -9,7 +9,7 @@ excerpt: "on publications"
 <style>H2{color:Red;}</style>
 
 --------
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
@@ -21,7 +21,7 @@ excerpt: "on publications"
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among [brackets] and using $\color{green}{green color}$.  
+For those papers written in Spanish, I have provided the translation of the title among [brackets] and using *italics, in green color.*{: style="color: green; opacity: 0.80;" }.  
 
 
 `2021`
