@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Research 
-activatelinks: true
-urlcolor: green
 excerpt: "Recent Research"
 ---
 
