@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Publications 
 excerpt: "on publications"
 output:
@@ -24,7 +24,7 @@ linkcolor: red
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among [brackets] and using $\color{green}{your~text~here}$ <u>underline</u>.  
+For those papers written in Spanish, I have provided the translation of the title among [brackets] and using \color{green}{your~text~here} <u>underline</u>.  
 
 `2021`
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** (To appear).
@@ -40,7 +40,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020socChCsForestales_bosque.pdf)
-[$\color{green}{A~call~to~awaken~the~Chilean~Society~of~Forest~Science}$].  **Bosque** 41(3): 209-212.
+[\color{green}{A~call~to~awaken~the~Chilean~Society~of~Forest~Science}].  **Bosque** 41(3): 209-212.
 
 `2020`
 Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., Piotto D, **Salas-Eljatib C**, Broadbent E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
