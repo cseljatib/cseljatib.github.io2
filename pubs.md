@@ -2,10 +2,6 @@
 layout: resume
 title: Publications 
 excerpt: "on publications"
-output:
-  pdf_document: default
-urlcolor: blue
-linkcolor: red
 
 ---
 
@@ -13,9 +9,6 @@ linkcolor: red
 <style>H2{color:Red;}</style>
 
 --------
-aaa
-
-wwww
 
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
@@ -28,7 +21,7 @@ wwww
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among [brackets] and using \color{green}{your~text~here} <u>underline</u>.  
+For those papers written in Spanish, I have provided the translation of the title among [brackets] and using $\color{green}{green color}$.  
 
 `2021`
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** (To appear).
@@ -44,7 +37,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020socChCsForestales_bosque.pdf)
-[\color{green}{A~call~to~awaken~the~Chilean~Society~of~Forest~Science}].  **Bosque** 41(3): 209-212.
+[$\color{green}{A~call~to~awaken~the~Chilean~Society~of~Forest~Science}$].  **Bosque** 41(3): 209-212.
 
 `2020`
 Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., Piotto D, **Salas-Eljatib C**, Broadbent E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
@@ -69,7 +62,7 @@ Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-
 Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,**Salas-Eljatib C**. 2020. [Shrub influences on seedlings performance when restoring the slow-growing conifer Pilgerodendron uviferum in southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology** 28(2): 396–407.
 
 `2019`
-Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[<u> Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands of south-central Chile </u> \]. **Bosque** 40(2): 235–240.
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[$\color{green}{Old-growth Index: a tool to evaluate developmental stages in native forestsin the lowlands of south-central Chile}$ \]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P, Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
