@@ -2,6 +2,8 @@
 layout: page
 title: Publications 
 excerpt: "on publications"
+activatelinks: true
+urlcolor: blue
 
 ---
 
@@ -9,10 +11,6 @@ excerpt: "on publications"
 <style>H2{color:Red;}</style>
 
 --------
-
-aaaa
-
-xxx
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
