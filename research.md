@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research 
+activateurl: true
 urlcolor: green
 excerpt: "Recent Research"
 ---
