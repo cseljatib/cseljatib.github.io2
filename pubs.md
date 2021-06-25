@@ -2,14 +2,14 @@
 layout: page
 title: Publications 
 excerpt: "on publications"
+
 ---
 
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
 --------
-A blue and bold paragraph.
-{: .blue .bold}
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
