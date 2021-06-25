@@ -2,8 +2,10 @@
 layout: page
 title: Publications 
 excerpt: "on publications"
-activatelinks: true
+output:
+  pdf_document: default
 urlcolor: blue
+linkcolor: red
 
 ---
 
@@ -11,6 +13,11 @@ urlcolor: blue
 <style>H2{color:Red;}</style>
 
 --------
+
+zzzz
+
+
+ddd
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
