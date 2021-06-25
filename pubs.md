@@ -21,7 +21,7 @@ excerpt: "on publications"
 ## Peer-reviewed papers
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among [brackets] and using *italics, in green color.*{: style="color: green; opacity: 0.80;" }.  
+For those papers written in Spanish, I have provided the translation of the title among [brackets] and using *italics, in green color*{: style="color: green; opacity: 0.80;" }.  
 
 
 `2021`
@@ -38,7 +38,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 
 `2020`
 **Salas-Eljatib C**, Promis A. 2020. [Un llamado a la activación real de la Sociedad Chilena de Ciencias Forestales](/myPubs/2020socChCsForestales_bosque.pdf)
-[$\color{green}{A~call~to~awaken~the~Chilean~Society~of~Forest~Science}$].  **Bosque** 41(3): 209-212.
+[*A call to awaken the Chilean Society of Forest Science*{: style="color: green; opacity: 0.80;"}].  **Bosque** 41(3): 209-212.
 
 `2020`
 Cardil A, de-Miguel S, Silva C, Reich P, Calkin D, Brancalion P, Vibrans A,.., Piotto D, **Salas-Eljatib C**, Broadbent E, et al. 2020. [Recent deforestation drove the spike in Amazonian fires](https://doi.org/10.1088/1748-9326/abcac7). **Environmental Research Letters** 15: 121003.
