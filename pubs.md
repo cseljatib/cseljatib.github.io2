@@ -1,15 +1,15 @@
 ---
-layout: resume
+layout: page
 title: Publications 
 excerpt: "on publications"
-
 ---
 
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
 --------
-
+A blue and bold paragraph.
+{: .blue .bold}
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Chapters in books](./chapters.md)** 
@@ -22,6 +22,7 @@ excerpt: "on publications"
 
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
 For those papers written in Spanish, I have provided the translation of the title among [brackets] and using $\color{green}{green color}$.  
+
 
 `2021`
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** (To appear).
