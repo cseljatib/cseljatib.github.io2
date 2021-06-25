@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Publications 
 excerpt: "on publications"
 
@@ -63,7 +63,7 @@ Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-
 Bannister JR, Travieso G, Galindo N, Acevedo M, Puettmann K,**Salas-Eljatib C**. 2020. [Shrub influences on seedlings performance when restoring the slow-growing conifer Pilgerodendron uviferum in southern bog forests](https://doi.org/10.1111/rec.13090). **Restoration Ecology** 28(2): 396–407.
 
 `2019`
-Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[*Old-growth Index: a tool to evaluate developmental stages in native forests in the lowlands of south-central Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 40(2): 235–240.
+Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2019. [Índice de bosque adulto: Una herramienta para evaluar estados de desarrollo de bosques nativos de tierras bajas del centro-sur de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n2/0717-9200-bosque-40-02-235.pdf) \[*Old-growth Index: a tool to evaluate developmental stages in native forests in the lowlands of south-central Chile*{: style="color: green; opacity: 0.80;"}\]. **Bosque** 40(2): 235–240.
 
 `2019`
 Steidinger BS, Crowther TW, Liang J, Van Nuland ME, Werner G, Reich P, Nabuurs G, de-Miguel S, Zhou M, Picard N, Herault B, Zhao X, Zhang C,
@@ -72,8 +72,8 @@ forest-tree symbioses](https://doi.org/10.1038/s41586-019-1128-0). **Nature** 56
 
 `2019`
 **Salas-Eljatib C**, Corvalán P, Pino N, Donoso PJ, Soto D. 2019. [Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el
-sur (41-43 S) de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n1/0717-9200-bosque-40-01-00071.pdf) \[<u> Mixed-effects height-diameter
-models for Drimys winteri in the south (41-43 S) of Chile </u> \]. **Bosque** 40(1): 71–80.
+sur (41-43 S) de Chile](https://scielo.conicyt.cl/pdf/bosque/v40n1/0717-9200-bosque-40-01-00071.pdf) \[*Mixed-effects height-diameter
+models for Drimys winteri in the south (41-43 S) of Chile*{: style="color: green; opacity: 0.80;"}\]. **Bosque** 40(1): 71–80.
 
 `2019`
 Vargas-Gaete R, Doussoulin, H, Smith-Ramírez C, Bravo S, **Salas-Eljatib C**, Andrade N, Trávníček B. 2019. [Evaluation of rust pathogenicity
