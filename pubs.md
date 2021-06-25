@@ -220,14 +220,14 @@ Región, Chile](http://dx.doi.org/10.4067/S0717-92002006000100006) \[<u> Damages
 Galicia, Spain </u> \]. **Quebracho** 12: 11–22.
 
 `2005`
-**Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros fustales con relascopio y forcípula finlandesa: efectos en la estimación de volumen](/myPubs/2005relascope_Bosque.pdf) \[<u> Measurement of upper-stem diameters with Bitterlich mirror relascope and Finnish parabolic caliper: effects on volume
-estimations </u> \]. **Bosque** 26(2): 81–90.
+**Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros fustales con relascopio y forcípula finlandesa: efectos en la estimación de volumen](/myPubs/2005relascope_Bosque.pdf) \[*Measurement of upper-stem diameters with Bitterlich mirror relascope and Finnish parabolic caliper: effects on volume
+estimations*{: style="color: green; opacity: 0.80;"}\]. **Bosque** 26(2): 81–90.
 
 `2002`
-**Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[<u> Fitness and validation of volume equations for a relict forest of Roble-Laurel-Lingue </u> \]. **Bosque** 23(2): 81–92.
+**Salas C**. 2002. [Ajuste y validación de ecuaciones de volumen para un relicto del bosque de Roble-Laurel-Lingue](/myPubs/2002ajuvolrolali_Bosque.pdf) \[*Fitness and validation of volume equations for a relict forest of Roble-Laurel-Lingue*{: style="color: green; opacity: 0.80;"}\]. **Bosque** 23(2): 81–92.
 
 `2001`
-**Salas C**. 2001. [Caracterización básica del relicto de biodiversidad Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[<u> Basic characterization of the biodiversity remnant Rucamanque </u>\]. **Bosque Nativo** 29: 3–9.
+**Salas C**. 2001. [Caracterización básica del relicto de biodiversidad Rucamanque](/myPubs/2001Ruca_Bnativo.pdf) \[*Basic characterization of the biodiversity remnant Rucamanque*{: style="color: green; opacity: 0.80;"}\]. **Bosque Nativo** 29: 3–9.
 
 <!-- ### Footer
 * **[Miscellaneous](./misce.md)** 
