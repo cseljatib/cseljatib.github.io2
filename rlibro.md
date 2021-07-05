@@ -47,8 +47,10 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
 + [Un gráfico 3D en perspectiva](/rlibro/perspectiva3D.html)
++ [Gráfico de contorno (o de curva de nivel)](/rlibro/perspectiva3D.html)
++ [Series de tiempo](/rlibro/perspectiva3D.html)
++ [Curva y dispersion entre variables](/rlibro/perspectiva3D.html)
 
- 
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
 
