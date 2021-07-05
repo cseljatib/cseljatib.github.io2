@@ -46,6 +46,7 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
++ [Un gráfico 3D en perspectiva](/rlibro/perspectiva3D.html)
 
  
 ## Comentarios/sugerencias?
