@@ -44,14 +44,15 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 ## Gráficos avanzados
 Scripts para reproducir los plots de la sección "*Algunos otros gráficos más complejos*" del libro.
 
-+ [Dispersion e histogramas](/rlibro/xyHist.html)
-+ [Dispersion con boxplots](/rlibro/xyBoxplot.html)
-+ [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
++ [Dispersión e histogramas](/rlibro/xyHist.html)
++ [Dispersión con boxplots](/rlibro/xyBoxplot.html)
+
  
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
 
 <!-- ### Footer
++ [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
 * **[Miscellaneous](./misce.md)** 
 <style>H2{color:DarkOrange;}</style>
 <style>p{color:Black;}</style>
