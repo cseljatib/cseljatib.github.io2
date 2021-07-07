@@ -48,7 +48,7 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
 + [Un gráfico 3D en perspectiva](/rlibro/perspectiva3D.html)
 + [Gráfico de contorno (o de curva de nivel)](/rlibro/contorno.html)
-+ [Series de tiempo](/rlibro/perspectiva3D.html)
++ [Series de tiempo](/rlibro/timeSerPlot.html)
 + [Curva y dispersion entre variables](/rlibro/perspectiva3D.html)
 
 ## Comentarios/sugerencias?
