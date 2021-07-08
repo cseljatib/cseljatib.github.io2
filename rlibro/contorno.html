@@ -382,7 +382,7 @@ summary {
 <p>Este código de R corresponde a la figura 6.12 del libro <strong>Análisis de datos con el programa estadístico R: una introducción aplicada</strong> de <span class="citation">Salas-Eljatib (<a href="#ref-myrbook">2021</a>)</span>.</p>
 <div id="cargando-los-datos-de-ejemplo" class="section level3">
 <h3>Cargando los datos de ejemplo</h3>
-<p>Ocuparemos la dataframe <em>pspLlancahue</em> de la libreria <em>datana</em>.</p>
+<p>Ocuparemos la dataframe <strong>pspLlancahue</strong> del paquete <em>datana</em>.</p>
 <pre class="r"><code>library(datana)
 data(pspLlancahue)
 df &lt;- pspLlancahue
@@ -396,12 +396,12 @@ tail(df) #ultimas seis filas</code></pre>
 1218      T281       Ec 20.349     1.8    15.0      UL</code></pre>
 <pre class="r"><code>nrow(df) #numero de filas de la dataframe</code></pre>
 <pre><code>[1] 1218</code></pre>
-<p>Esta dataframe contiene la informacion de coordenadas cartesianas de arboles en una parcela de muestreo de 10.000 m<span class="math inline">\(^2\)</span> (1 hectárea, de 70 <span class="math inline">\(\times\)</span> 130 m) en un bosque maduro de Coihue en el predio Llancahue (Depresion intermedia de la region de los Rios, Chile). Los datos fueron recolectados por <span class="citation">Soto et al. (<a href="#ref-sotosalas10">2010</a>)</span>.</p>
+<p>Esta dataframe contiene la informacion de coordenadas cartesianas de arboles en una parcela de muestreo de 10.000 m<span class="math inline">\(^2\)</span> (1 hectárea, de 70 <span class="math inline">\(\times\)</span> 130 m) en un bosque maduro de Coihue en el predio Llancahue (Depresión intermedia de la región de los Rios, Chile). Los datos fueron recolectados por <span class="citation">Soto et al. (<a href="#ref-sotosalas10">2010</a>)</span>.</p>
 </div>
 <div id="el-grafico" class="section level2">
 <h2>El grafico</h2>
-<p>Un gráficos de contorno, muestra la relacion entre tres variables, <span class="math inline">\(X\)</span> e <span class="math inline">\(Y\)</span>, y la variable <span class="math inline">\(Z\)</span> representada por curvas que tienen los mismos valores. Es decir, se representan <em>isolineas</em>. Es la misma idea empleada en mapas donde se representan las curvas de nivel, es decir curvas o lineas del mismo valor de altitud sobre el nivel del mar.</p>
-<p>Para el ejemplo se emplearan las coordenadas cartesianas de los arboles y como variable <span class="math inline">\(Z\)</span> a la estimacion de la densidad a traves de una funcion de Kernel. Mayores detalles sobre este tipo de analisis en estadistica espacial pueden ser revisados en <span class="citation">Schabenberger and Gotway (<a href="#ref-schabenbookspa">2005</a>)</span>.</p>
+<p>Un gráfico de contorno muestra la relacion entre tres variables, <span class="math inline">\(X\)</span> e <span class="math inline">\(Y\)</span>, y la variable <span class="math inline">\(Z\)</span> representada por curvas que tienen los mismos valores. Es decir, se representan <em>isolineas</em>. Es la misma idea empleada en mapas donde se representan las curvas de nivel, es decir curvas o lineas del mismo valor de altitud sobre el nivel del mar.</p>
+<p>Para el ejemplo se emplearan las coordenadas cartesianas de los arboles y como variable <span class="math inline">\(Z\)</span> a la estimación de la densidad a traves de una función de Kernel. Mayores detalles sobre este tipo de analisis en estadistica espacial pueden ser revisados en <span class="citation">Schabenberger and Gotway (<a href="#ref-schabenbookspa">2005</a>)</span>.</p>
 <p>Para realizar esta figura del libro es necesario tambien cargar los siguientes paquetes</p>
 <pre class="r"><code>require(spatstat)</code></pre>
 <pre><code>Loading required package: spatstat</code></pre>
