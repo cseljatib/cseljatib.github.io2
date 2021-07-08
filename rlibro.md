@@ -49,7 +49,9 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Un gráfico 3D en perspectiva](/rlibro/perspectiva3D.html)
 + [Gráfico de contorno (o de curva de nivel)](/rlibro/contorno.html)
 + [Series de tiempo](/rlibro/timeSerPlot.html)
-+ [Curva y dispersion entre variables](/rlibro/perspectiva3D.html)
++ [Curvas y dispersión entre variables](/rlibro/perspectiva3D.html)
++ [Series de tiempo y observaciones puntuales](/rlibro/pspTempo.html)
+
 
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
