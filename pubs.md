@@ -23,6 +23,7 @@ excerpt: "on publications"
 If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
 For those papers written in Spanish, I have provided the translation of the title among [brackets] and using *italics, in green color*{: style="color: green; opacity: 0.80;" }.  
 
+--------
 
 `2021`
 **Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://www.springer.com/journal/40725). **Current Forestry Reports** (To appear). 
