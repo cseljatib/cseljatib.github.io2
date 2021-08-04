@@ -51,6 +51,8 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 + [Series de tiempo](/rlibro/timeSerPlot.html)
 + [Curvas y dispersión entre variables](/rlibro/curvasDispe.html)
 + [Series de tiempo y observaciones puntuales](/rlibro/pspTempo.html)
++ [Histogramas en panel y símbolos griegos](/rlibro/allHistoGreek.html)
++ [Curvas y figuras en recuadros](/rlibro/innerPanelPlots.html)
 
 
 ## Comentarios/sugerencias?
