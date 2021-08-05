@@ -42,7 +42,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Gráficos avanzados
-Scripts para reproducir los plots de la sección "*Algunos otros gráficos más complejos*" del libro.
+Scripts para reproducir los plots de la sección "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dudes en escribirme.
 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
