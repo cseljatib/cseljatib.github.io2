@@ -19,7 +19,9 @@ Este sitio web incluye información relacionada al libro **Análisis de datos co
 
 ![Image Title](./rlibro/portadaLibro.pdf){width=65%}
 
-
+```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
+knitr::include_graphics("/rlibro/portadaLibro.pdf")
+```
 
 
 ## Instalando R {#instar}
