@@ -12,6 +12,7 @@ excerpt: "on publications"
 
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
+* **[Books](./rlibro.md)** 
 * **[Chapters in books](./chapters.md)** 
 * **[In proceedings](./proceed.md)** 
 
