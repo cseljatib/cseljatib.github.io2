@@ -12,16 +12,11 @@ excerpt: "Libro de R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para [instalar R](#instar), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/images/portadaNueva.jpeg" width="1300" height="1500">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN xxx-x-xxx-xxxxx-y). Se ofrecen enlaces para [instalar R](#instar), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/rlibro/portadaLibro.pdf" width="1300" height="1500">
 
 
 --------
 
-![Image Title](./rlibro/portadaLibro.pdf){width=65%}
-
-```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
-knitr::include_graphics("/rlibro/portadaLibro.pdf")
-```
 
 
 ## Instalando R {#instar}
