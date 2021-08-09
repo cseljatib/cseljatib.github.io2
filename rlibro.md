@@ -17,6 +17,7 @@ Este sitio web incluye información relacionada al libro **Análisis de datos co
 
 --------
 
+![Image Title](/rlibro/portadaLibro.pdf){width=65%}
 
 
 ## Instalando R {#instar}
