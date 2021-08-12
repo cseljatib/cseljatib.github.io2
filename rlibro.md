@@ -12,7 +12,7 @@ excerpt: "Libro de R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la Ediciones Universidad Mayor (ISBN 97895660860109). Se ofrecen enlaces para [instalar R](#instar), asi como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los graficos del libro.|  <img src="/rlibro/portadaLibro.jpg" width="4300" height="1500">
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la editorial Ediciones Universidad Mayor (ISBN 97895660860109). A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro.|  <img src="/rlibro/portadaLibro.jpg" width="4300" height="1500">
 
 
 --------
@@ -31,7 +31,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
 
 
 ## Archivos de datos y otros
-El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos", son necesarios para algunos pasajes del libro.
+El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos" son necesarios para algunos pasajes del libro.
 
 + [bearsFull.dat](/rlibro/bearsFull.dat)
 + [eucaLeaf.dat](/rlibro/eucaLeaf.dat)
@@ -42,7 +42,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Gráficos avanzados
-Scripts para reproducir los plots de la sección "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dudes en escribirme.
+En los siguientes enlances estan disponibles los scripts para reproducir las figuras de la sección "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dude en escribirme.
 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
@@ -56,7 +56,7 @@ Scripts para reproducir los plots de la sección "*Algunos otros gráficos más 
 
 
 ## Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dudes en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
+Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
 
 <!-- ### Footer
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
