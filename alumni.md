@@ -2,8 +2,13 @@
 layout: resume
 title: Alumni
 excerpt: "my alumni"
+
 ---
 
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 I have listed former students, post-docs, and visiting students.
 
 --------
