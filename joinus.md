@@ -1,8 +1,14 @@
 ---
 layout: resume
 title: Join us!
-excerpt: "on join us"
+excerpt: "como to work with us"
+
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 
 ## Come to work with us!
 
