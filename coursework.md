@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: resume
 title: Coursework
+excert: Details on coursework
 ---
 
 + Forest biometrics
