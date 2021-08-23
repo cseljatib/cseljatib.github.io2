@@ -139,7 +139,7 @@ global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **
 **Salas C**, Donoso PJ, Vargas R, Arriagada CA, Pedraza R, Soto DP. 2016. [The forest sector in Chile: an overview and current challenges](https://doi.org/10.5849/jof.14-062). **Journal of Forestry** 114(5): 562–571.
 
 `2016`
-**Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) \[<u> Forest growth modelling: the state of the art </u> \]. **Bosque** 37(1): 3–12.
+**Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) \[* Forest growth modelling: the state of the art*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 37(1): 3–12.
 
 `2016`
 Korhonen L, **Salas C**, Østgård T, Lien V, Gobakken T, Næsset E. 2016. [Predicting the occurrence of large-diameter trees using airborne laser
@@ -184,27 +184,27 @@ is measured with error](http://dx.doi.org/10.1007/s10342-009-0277-3). **European
 
 `2010`
 **Salas C**, Ene L, Ojeda N, Soto H. 2010. [Métodos estadísticos paramétricos y no-paramétricos para predecir variables de rodal basados
-en Landsat ETM+: una comparación en un bosque de Araucaria araucana en Chile](http://mingaonline.uach.cl/pdf/bosque/v31n3/art02.pdf) \[<u> Parametric and non-parametric statistical methods for predicting plotwise variables based on Landsat ETM+: a comparison in an Araucaria araucana forest in Chile </u> \]. **Bosque** 31(3): 179–194.
+en Landsat ETM+: una comparación en un bosque de Araucaria araucana en Chile](http://mingaonline.uach.cl/pdf/bosque/v31n3/art02.pdf) \[* Parametric and non-parametric statistical methods for predicting plotwise variables based on Landsat ETM+: a comparison in an Araucaria araucana forest in Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 31(3): 179–194.
 
 `2010`
 Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad estructural y espacial de un bosque mixto dominado por Nothofagus
-dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[<u> Structural and spatial heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after a partial disturbance </u> \]. **Revista Chilena de Historia Natural** 83(3):
+dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[*Structural and spatial heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after a partial disturbance*{: style="color: green; opacity: 0.80;"} \]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
 `2009`
 Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the auxiliary variate](http://dx.doi.org/10.1111/j.1541-0420.01110.x). **Biometrics** 65(2): 590–598.
 
 `2009`
-**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](http://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/1389/753) \[<u> Why purchase commercial statistical software if there is R? </u> \]. **Ecología Austral** 18(2): 223–231.
+**Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](http://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/1389/753) \[*Why purchase commercial statistical software if there is R?*{: style="color: green; opacity: 0.80;"} \]. **Ecología Austral** 18(2): 223–231.
 
 `2008`
 **Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://academic.oup.com/forestscience/article/54/1/107/4604379). **Forest Science** 54(1): 107–122.
 
 `2008`
-**Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[<u> Suggestions to improve the quality of Chilean scientific journals: an application to forest science with Bosque </u> \]. **Bosque** 29(1): 3–10.
+**Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[*Suggestions to improve the quality of Chilean scientific journals: an application to forest science with Bosque*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 29(1): 3–10.
 
 `2007`
-**Salas C**. 2007. [¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro](/myPubs/2007InvExc_bnativo.pdf) \[<u> Where the best chilean forest research is going?: Past, present, and future </u> \]. **Bosque Nativo** 40: 10–13.
+**Salas C**. 2007. [¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro](/myPubs/2007InvExc_bnativo.pdf) \[*Where the best chilean forest research is going?: Past, present, and future*{: style="color: green; opacity: 0.80;"} \]. **Bosque Nativo** 40: 10–13.
 
 `2007`
 Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and slope in models of forest species composition and productivity](https://academic.oup.com/forestscience/article/53/4/486/4604065). **Forest Science** 53(4): 486–492.
@@ -218,11 +218,11 @@ Chile](http://dx.doi.org/10.1016/j.foreco.2006.04.037). **Forest Ecology and Man
 
 `2006`
 Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006. [Daños en casas de madera ocasionados por coleópteros xilofagos, IX
-Región, Chile](http://dx.doi.org/10.4067/S0717-92002006000100006) \[<u> Damages to wooden houses caused by xylophagus Coleoptera, IX Region, Chile </u> \]. **Bosque** 27(1): 52–56.
+Región, Chile](http://dx.doi.org/10.4067/S0717-92002006000100006) \[*Damages to wooden houses caused by xylophagus Coleoptera, IX Region, Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 27(1): 52–56.
 
 `2005`
-**Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf) \[<u> Volume equations for Pinus pinaster Ait. in the Baixo Miño region,
-Galicia, Spain </u> \]. **Quebracho** 12: 11–22.
+**Salas C**, Nieto L, and Irisarri A. 2005. [Modelos de volumen para Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España](/myPubs/2005volPinaster_Quebracho.pdf) \[*Volume equations for Pinus pinaster Ait. in the Baixo Miño region,
+Galicia, Spain*{: style="color: green; opacity: 0.80;"}\]. **Quebracho** 12: 11–22.
 
 `2005`
 **Salas C**, Reyes M, and Bassaber C. 2005. [Medición de diámetros fustales con relascopio y forcípula finlandesa: efectos en la estimación de volumen](/myPubs/2005relascope_Bosque.pdf) \[*Measurement of upper-stem diameters with Bitterlich mirror relascope and Finnish parabolic caliper: effects on volume
