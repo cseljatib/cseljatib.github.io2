@@ -11,7 +11,6 @@ excerpt: "my alumni"
 --------
 I have listed former students, post-docs, and visiting students.
 
---------
 
 * **[Postdocs](#postdocs)** 
 * **[Graduate students](#graduate-students)**
