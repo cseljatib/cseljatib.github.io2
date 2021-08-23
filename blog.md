@@ -1,9 +1,15 @@
 ---
 layout: resume
 title: All Blog Posts/News
----
+excerpt: "Posts and news"
 
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
+
 * ## [Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales](/news/2020-11-22paperSocifor.md) 
 <sub>                                               [Posted on: Nov22, 2020]</sub>
 
