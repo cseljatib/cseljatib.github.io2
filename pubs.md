@@ -139,7 +139,8 @@ global forests](https://science.sciencemag.org/content/354/6309/aaf8957.full) **
 **Salas C**, Donoso PJ, Vargas R, Arriagada CA, Pedraza R, Soto DP. 2016. [The forest sector in Chile: an overview and current challenges](https://doi.org/10.5849/jof.14-062). **Journal of Forestry** 114(5): 562–571.
 
 `2016`
-**Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) \[* Forest growth modelling: the state of the art*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 37(1): 3–12.
+**Salas C**, Gregoire TG, Craven DJ, Gilabert H. 2016. [Modelación del crecimiento de bosques: estado del arte](http://dx.doi.org/10.4067/S0717-92002016000100001) 
+\[*Forest growth modelling: the state of the art*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 37(1): 3–12.
 
 `2016`
 Korhonen L, **Salas C**, Østgård T, Lien V, Gobakken T, Næsset E. 2016. [Predicting the occurrence of large-diameter trees using airborne laser
