@@ -1,12 +1,19 @@
 ---
 layout: resume
 title: Coursework
-excert: Details on coursework
+excerpt: Details on coursework
+
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 
 + Forest biometrics
 + Statistics
 
+--------
 
 A height-diameter model has the following structure
 \begin{equation}
