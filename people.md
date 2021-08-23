@@ -36,7 +36,7 @@ __Students__
 |   |   |   |
 |---|---|---|
 |*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |  ![](images/rodolfo.png) |
-|*Sergio Henriquez*  | B.S. in Biology, Pontifica Universidad Catolica (Santiago, Chile)   |   |
+|*Sergio Henriquez*  | B.S. in Biology, Pontifica Universidad Catolica (Santiago, Chile)   | ![](images/sergio.png)  |
 |---|---|---|
 
 
