@@ -1,11 +1,15 @@
 ---
 layout: resume
-title: People
+title: People 
 excerpt: "my lab"
+
 ---
 
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
 
 --------
+
 
 * **[My lab](#my-lab)** 
 * **[Research collaborators](./collabora.md)**
@@ -32,6 +36,7 @@ __Students__
 |   |   |   |
 |---|---|---|
 |*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |  ![](images/rodolfo.png) |
+|*Sergio Henriquez*  | B.S. in Biology, Pontifica Universidad Catolica (Santiago, Chile)   |   |
 |---|---|---|
 
 
