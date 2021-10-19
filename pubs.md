@@ -30,7 +30,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 **Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://www.springer.com/journal/40725). **Current Forestry Reports** (To appear). 
 
 `2021`
-**Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** (To appear).
+**Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
 
 `2021`
 **Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
