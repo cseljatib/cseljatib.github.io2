@@ -10,10 +10,8 @@ excerpt: "Libro de R"
 
 --------
 
-|              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la editorial Ediciones Universidad Mayor (ISBN 97895660860109) y es distribuído por la Libreria Zig-Zag. Dicha librería tiene una preventa del libro en el siguiente [link](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html).
-
+Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la editorial Ediciones Universidad Mayor (ISBN 97895660860109) y es distribuído por la Libreria Zig-Zag. Dicha librería tiene una preventa del libro en el siguiente [link](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html). 
 A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro.|  <img src="/rlibro/portadaLibro.jpg" width="4300" height="1500">
 
 
