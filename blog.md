@@ -10,6 +10,10 @@ excerpt: "Posts and news"
 
 --------
 
+* ## [Publicación de libro introductorio sobre R](/news/2021-12-06lanzaLibroR.md) 
+<sub>                                               [Posted on: Dec8, 2021]</sub>
+
+
 * ## [Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales](/news/2020-11-22paperSocifor.md) 
 <sub>                                               [Posted on: Nov22, 2020]</sub>
 
