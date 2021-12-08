@@ -1,25 +1,21 @@
 ---
 layout: resume
-title: New paper
-excerpt: "A call to awaken the Chilean Society of Forest Science"
+title: Nuevo libro
+excerpt: "Análisis de datos con el programa estadístico R: una introducción aplicada"
 category: blog
 ---
 
-# Un llamado para la activación de la Sociedad Chilena de Ciencias Forestales
+# Publicación de libro introductorio sobre R
 
-<sub> Posted on: Nov22, 2020</sub>
-
-
-> *En el reciente número de la revista Bosque, en conjunto con el Dr. Álvaro Promis, hemos publicado un paper-opinión sobre la actual Sociedad Chilena de Ciencias Forestales, su "nula" actividad, y una serie de propuestas para mejorar su funcionamiento*
+<sub> Posted on: Dec8, 2021</sub>
 
 
-El paper esta disponible en el siguiente [link](http://eljatib.com/myPubs/2020socChCsForestales_bosque.pdf)
+> *A mediados de noviembre se ha publicado el libro "Análisis de datos con el programa estadístico R: una introducción aplicada", de Christan Salas-Eljatib. Bajo el trabajo Editorial de Ediciones Universidad Mayor, el libro ha sido publicado luego de un proceso de evaluación de papers. El libro pretende ser un texto de consulta para aquellos usuarios interesados desde el nivel más básico en análisis de datos, hasta aquellos que deben explorar datos, y ajustar modelos estadísticos lineales*
 
-En resumen proponemos, 
-* ampliar la base de formación y funcionamiento de SOCIFOR, 
-* re-estructurar sus estatutos empleando el de sociedades similares, 
-* tomar un rol activo en la organización del congreso
-nacional de ciencias forestales, 
-* y así también en la edición de la revista chilena de ciencias forestales (i.e., Bosque)
 
-![](/images/paperSocifor.png)
+El libro puede ser adquerido en la librería Zig-Zag en el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html), así como también esta disponible como ebook en [**Amazon**](https://www.amazon.com/An%C3%A1lisis-datos-programa-estad%C3%ADstico-introducci%C3%B3n-ebook/dp/B09LRHNGPL/ref=sr_1_1?keywords=Christian+Salas+Eljatib&qid=1637176913&qsid=134-6265285-4112915&s=books&sr=1-1&sres=B09LRHNGPL&srpt=ABIS_BOOK),  [**GooglePlay**](https://play.google.com/store/books/details/Christian_Salas_Eljatib_An%C3%A1lisis_de_datos_con_el_p?id=15dOEAAAQBAJ&hl=es_CL&gl=US).
+
+
+El índice de contenidos y aspectos relacionados al uso del paquete de R disponible para usar el libro se encuentran [**acá**](https://www.researchgate.net/publication/356843133_Analisis_de_datos_con_el_programa_estadistico_R_Una_introduccion_aplicada)
+
+![](/images/portadaLibro.pdf)
