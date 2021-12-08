@@ -18,4 +18,6 @@ Bajo el trabajo Editorial de Ediciones Universidad Mayor, el libro ha sido publi
 
 El índice de contenidos y aspectos relacionados al uso del paquete de R disponible para usar el libro se encuentran [**acá**](https://www.researchgate.net/publication/356843133_Analisis_de_datos_con_el_programa_estadistico_R_Una_introduccion_aplicada)
 
+<img src="/images/portadaLibro.jpg" width="4300" height="1500">
+
 ![](/images/portadaLibro.jpg)
