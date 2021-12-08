@@ -20,4 +20,4 @@ El índice de contenidos y aspectos relacionados al uso del paquete de R disponi
 
 <img src="/images/portadaLibro.jpg" width="4300" height="1500">
 
-![](/images/portadaLibro.jpg)
+![](/images/portadaLibro.png)
