@@ -31,7 +31,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
 
 
 ## Archivos de datos y otros
-El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos" son necesarios para algunos pasajes del libro.
+El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos" son necesarios para algunos pasajes del libro. Por ejemplo en la sección 4.2 "*Cargando datos*".
 
 + [bearsFull.dat](/rlibro/bearsFull.dat)
 + [eucaLeaf.dat](/rlibro/eucaLeaf.dat)
@@ -42,7 +42,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [ufcData.csv](/rlibro/ufcData.csv)
 
 ## Gráficos avanzados
-En los siguientes enlances estan disponibles los scripts para reproducir las figuras de la sección "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dude en escribirme.
+En los siguientes enlances estan disponibles los scripts para reproducir las figuras de la sección 6.3 "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dude en escribirme.
 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
 + [Dispersión con boxplots](/rlibro/xyBoxplot.html)
