@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 25;
+$doc-font-size: 30;
 $doc-line-height: 30;
 $paragraph-indent: 0;
 $base-font: 'PT Serif', serif;
@@ -47,12 +47,12 @@ $linkedin-color     : #4875b4;
 $pinterest-color    : #cb2027;
 $rss-color          : #fa9b39;
 $tumblr-color       : #2c4762;
-$twitter-color      : #55acee;
+$twitter-color      : 55acee;
 $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
-/* links #FF0000*/
-$linkcolor 		    : #0a0a0a ;
+/* links #FF0000* #0a0a0a ;/
+$linkcolor 		    : #5500fd; 
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 20);
 $linkcolorvisited : lighten($linkcolorhover, 20);
