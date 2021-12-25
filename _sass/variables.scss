@@ -6,8 +6,8 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 50;
-$doc-line-height: 40;
+$doc-font-size: 16;
+$doc-line-height: 30;
 $paragraph-indent: 0;
 $base-font: 'PT Serif', serif;
 $heading-font: 'PT Sans Narrow', sans-serif;
@@ -51,12 +51,12 @@ $twitter-color      : #55acee;
 $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
-/* links #FF0000* #0a0a0a ;/
-$linkcolor 		    : #5500fd; 
+/* links */
+$linkcolor 		    : #343434;
 $link-color       : $linkcolor;
-$linkcolorhover 	: darken($linkcolor, 20);
+$linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
-$linkcolorfocus 	: darken($linkcolorvisited, 20);
+$linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 /*
    Breakpoints
