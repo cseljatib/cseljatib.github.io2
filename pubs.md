@@ -173,7 +173,7 @@ Castro M, Parra JC, Morales LJ, **Salas C**. 2014. [Establishment of empirical r
 Cifuentes R, Van der Zande D, **Salas C**, Farifteh J, Coppin P. 2014. [Correction of erroneous LiDAR measurements in artificial forest canopy experimental setups](https://doi.org/10.3390/f5071565). **Forests** 5: 1565–1583.
 
 `2013`
-Altamirano A, **Salas C**, Yaitul V, Smith-Ramírez C, Ávila A. 2013. Influencia de la heterogeneidad del paisaje en la ocurrencia de incendios forestales en Chile Central. **Revista de Geografía del Norte Grande** 55: 157–170.
+Altamirano A, **Salas C**, Yaitul V, Smith-Ramírez C, Ávila A. 2013. [Influencia de la heterogeneidad del paisaje en la ocurrencia de incendios forestales en Chile Central](http://dx.doi.org/10.4067/S0718-34022013000200011). **Revista de Geografía del Norte Grande** 55: 157–170.
 
 `2010`
 **Salas C**, Ene L, Gregoire TG, Næsset E, and Gobakken T. 2010. [Modelling tree diameter from airborne laser scanning derived variables:
