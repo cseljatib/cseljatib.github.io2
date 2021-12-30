@@ -185,7 +185,7 @@ is measured with error](http://dx.doi.org/10.1007/s10342-009-0277-3). **European
 
 `2010`
 **Salas C**, Ene L, Ojeda N, Soto H. 2010. [Métodos estadísticos paramétricos y no-paramétricos para predecir variables de rodal basados
-en Landsat ETM+: una comparación en un bosque de Araucaria araucana en Chile](http://mingaonline.uach.cl/pdf/bosque/v31n3/art02.pdf) \[*Parametric and non-parametric statistical methods for predicting plotwise variables based on Landsat ETM+: a comparison in an Araucaria araucana forest in Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 31(3): 179–194.
+en Landsat ETM+: una comparación en un bosque de Araucaria araucana en Chile](http://dx.doi.org/10.4067/S0717-92002010000300002) \[*Parametric and non-parametric statistical methods for predicting plotwise variables based on Landsat ETM+: a comparison in an Araucaria araucana forest in Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 31(3): 179–194.
 
 `2010`
 Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad estructural y espacial de un bosque mixto dominado por Nothofagus
