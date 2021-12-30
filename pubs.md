@@ -147,12 +147,12 @@ Korhonen L, **Salas C**, Østgård T, Lien V, Gobakken T, Næsset E. 2016. [Pred
 scanning](https://doi.org/10.1139/cjfr-2015-0384). **Canadian Journal of Forest Research** 46: 461–469.
 
 `2016`
-Altamirano A, Cely JP, Etter A, Miranda A, Fuentes-Ramírez A, Acevedo P, **Salas C**, Vargas R. 2016. The invasive species Ulex europaeus
-(Fabaceae) shows high dynamism in a fragmented landscape of south-central Chile. **Environmental Monitoring and Assessment** 188: 495–509.
+Altamirano A, Cely JP, Etter A, Miranda A, Fuentes-Ramírez A, Acevedo P, **Salas C**, Vargas R. 2016. [The invasive species Ulex europaeus
+(Fabaceae) shows high dynamism in a fragmented landscape of south-central Chile](https://doi.org/10.1007/s10661-016-5498-6). **Environmental Monitoring and Assessment** 188: 495–509.
 
 `2015`
 González ME, Szejner P, Donoso PJ, **Salas C**. 2015. [Fire, logging and establishment patterns of second-growth forests in south-central Chile:
-implications for their management and restoration](https://scielo.conicyt.cl/pdf/ciagr/v42n3/art11.pdf). **Ciencia e Investigación Agraria** 42(3): 427–441.
+implications for their management and restoration](http://dx.doi.org/10.4067/S0718-16202015000300011). **Ciencia e Investigación Agraria** 42(3): 427–441.
 
 `2015`
 Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J, Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C, Piotto D, et al. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature** 525: 201–205.
