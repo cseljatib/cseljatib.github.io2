@@ -27,7 +27,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 --------
 
 `2021`
-**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://link.springer.com/article/10.1007/s40725-021-00145-8). **Current Forestry Reports** (https://doi.org/10.1007/s40725-021-00145-8). 
+**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7, 230-244. 
 
 `2021`
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
