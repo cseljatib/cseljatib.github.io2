@@ -10,9 +10,6 @@ excerpt: "My mentors"
 --------
 
 
-Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
-
-## Mentors
 
 I had been fortunate enough to be able to work with professors and researchers that left a profound impact in the way I carry out my
 research activities and academic duties.
@@ -32,5 +29,6 @@ research activities and academic duties.
  methods for silviculture and forest ecology.
 
 <!-- ### Footer 
+Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
 https://www.researchgate.net/scientific-contributions/28298976-Albert-R-Stage
 Last updated: August 2020 -->
