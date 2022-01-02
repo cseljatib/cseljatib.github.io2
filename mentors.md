@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 title: Mentors
 excerpt: "on mentors"
 ---
