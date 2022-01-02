@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Mentors
-excerpt: "on mentors"
+title: Mentors 
+excerpt: "My mentors"
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
+
 
 Professors and researchers that left a profound impact in the way I carry out my research activities and academic duties. 
 
