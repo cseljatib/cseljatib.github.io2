@@ -12,7 +12,7 @@ I had been fortunate enough to be able to work with professors and researchers t
 research activities and academic duties.
 
 
-* *[Timothy G. Gregoire](https://environment.yale.edu/profile/gregoire/)*, Professor of Biometrics and Environmental Statistics, School of Forestry and Environmental Studies, Yale University, New Haven, CT, USA. Prof. Gregoire was my advisor during my doctoral studies at Yale, and always offered me a robust quantitative basis for understanding statistical inference and sampling. 
+* *[Timothy G. Gregoire](https://environment.yale.edu/profile/gregoire/)*, Professor of Biometrics and Environmental Statistics, School of the Environment, Yale University, New Haven, CT, USA. Prof. Gregoire was my advisor during my doctoral studies at Yale, and always offered me a robust quantitative basis for understanding statistical inference and sampling. 
 
 * *[Albert Stage](http://www.john-bell-associates.com/itp/itpstage.htm)* (RIP), Chief Forest Biometrician, Forestry Science Laboratory, USDA Forest Service, Moscow, Idaho, USA. Dr Stage was my co-advisor during my Master of Science at the University of Idaho. Not only he taught me mathematical details on forest modelling but also philosophical points of view that are key for becoming a sound researcher.
 
