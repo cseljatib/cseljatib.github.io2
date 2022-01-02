@@ -31,7 +31,6 @@ research activities and academic duties.
 * *Patricio Núñez*, Professor of Silviculture at the Universidad de La Frontera, Chile. Professor Nunhez taught me to apply quantitative
  methods for silviculture and forest ecology.
 
-<!-- ### Footer
-http://www.john-bell-associates.com/itp/itpstage.htm
+<!-- ### Footer 
 https://www.researchgate.net/scientific-contributions/28298976-Albert-R-Stage
 Last updated: August 2020 -->
