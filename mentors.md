@@ -26,4 +26,5 @@ research activities and academic duties.
  methods for silviculture and forest ecology.
 
 <!-- ### Footer
+http://www.john-bell-associates.com/itp/itpstage.htm
 Last updated: August 2020 -->
