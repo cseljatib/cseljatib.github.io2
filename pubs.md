@@ -26,6 +26,9 @@ For those papers written in Spanish, I have provided the translation of the titl
 
 --------
 
+`2022`
+Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, Gonzales M, Martinez G, Navarro C, Nunez P, **Salas-Eljatib C**, Soto DP, Vasquez-Grandon A, 2022. [Silviculture of South American temperate native forests](https://doi.org/10.33494/nzjfs522022x173x). **New Zealand Journal of Forestry Science** 52: 2. 
+
 `2021`
 **Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7, 230-244. 
 
