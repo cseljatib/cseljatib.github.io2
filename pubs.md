@@ -27,7 +27,7 @@ For those papers written in Spanish, I have provided the translation of the titl
 --------
 
 `2022`
-Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ....Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119 (6) e2115329119. 
+Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ....Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
 
 `2022`
 Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, Gonzales M, Martinez G, Navarro C, Nunez P, **Salas-Eljatib C**, Soto DP, Vasquez-Grandon A. 2022. [Silviculture of South American temperate native forests](https://doi.org/10.33494/nzjfs522022x173x). **New Zealand Journal of Forestry Science** 52: 2. 
