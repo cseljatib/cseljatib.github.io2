@@ -39,7 +39,7 @@ Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, G
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
 
 `2021`
-**Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
+**Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread *Nothofagus* forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
 
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a mathematical perspective for forest productivity](/myPubs/2020hgrate_ecoModelling.pdf). **Ecological Modelling** 431: 109198.
@@ -67,7 +67,7 @@ Donoso P, Puettmann K, D’Amato A, Ponce D, **Salas-Eljatib C**, Ojeda P. 2020.
 Management** 464: 118058.
 
 `2020`
-Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-Vargas P, Santibañez P. 2020. [Initial response of understory vegetation and tree regeneration to a mixed-severity fire in old-growth Araucaria-Nothofagus forests](https://doi.org/10.1111/avsc.12479). **Applied Vegetation Science** 23(2):
+Fuentes-Ramirez A, **Salas-Eljatib C**, González ME, Urrutia-Estrada J, Arroyo-Vargas P, Santibañez P. 2020. [Initial response of understory vegetation and tree regeneration to a mixed-severity fire in old-growth *Araucaria-Nothofagus* forests](https://doi.org/10.1111/avsc.12479). **Applied Vegetation Science** 23(2):
 210–222.
 
 `2020`
@@ -131,7 +131,7 @@ Cifuentes R., Van der Zande D, **Salas C**, Tits L., Farifteh J, Coppin P. 2017.
 Terrestrial LiDAR](https://doi.org/10.1080/07038992.2017.1286937). **Canadian Journal of Remote Sensing** 43(2): 124–139.
 
 `2017`
-Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ. 2017. [Light and nitrogen interact to influence regeneration in old-growth Nothofagus-dominated forests in south-central Chile](https://doi.org/10.1016/j.foreco.2016.11.016). **Forest Ecology and Management** 384: 303–313.
+Soto DP, Jacobs DF, **Salas C**, Donoso PJ, Fuentes C, Puettmann KJ. 2017. [Light and nitrogen interact to influence regeneration in old-growth *Nothofagus*-dominated forests in south-central Chile](https://doi.org/10.1016/j.foreco.2016.11.016). **Forest Ecology and Management** 384: 303–313.
 
 `2016`
 Liang J, Crowther TW, Picard N, Wiser S, Zhou M, Alberti G, Ernst-Detlef Schulze, A. David McGuire, Bozzato F, Pretzsch H,
@@ -164,7 +164,7 @@ implications for their management and restoration](http://dx.doi.org/10.4067/S07
 Crowther T, Glick H, Covey K, Bettigole C, Maynard D, Thomas S, Smith J, Hintler G, Duguid M, Amatulli G, Tuanmu M, Jetz W, **Salas C**, Stam C, Piotto D, et al. 2015. [Mapping tree density at a global scale](https://doi.org/10.1038/nature14967). **Nature** 525: 201–205.
 
 `2015`
-Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability and soil compaction influence the growth of underplanted Nothofagus following partial shelterwood harvest and soil scarification](http://dx.doi.org/10.1139/cjfr-2014-0353). **Canadian Journal of Forest Research** 45: 998–1005.
+Soto DP, Donoso PJ, **Salas C**, Puettmann KJ. 2015. [Light availability and soil compaction influence the growth of underplanted *Nothofagus* following partial shelterwood harvest and soil scarification](http://dx.doi.org/10.1139/cjfr-2014-0353). **Canadian Journal of Forest Research** 45: 998–1005.
 
 `2015`
 Almonacid L, Fuentes A, Ortiz J, **Salas C**, García-Romera I, Ocampo J, Arriagada C. 2015. [Effect of mixing soil saprophytic fungi with organic residues on the response of Solanum lycopersicum to arbuscular mycorrhizal fungi](https://doi.org/10.1111/sum.12160). **Soil Use and Management** 31(1): 155–164.
@@ -194,8 +194,8 @@ is measured with error](http://dx.doi.org/10.1007/s10342-009-0277-3). **European
 en Landsat ETM+: una comparación en un bosque de Araucaria araucana en Chile](http://dx.doi.org/10.4067/S0717-92002010000300002) \[*Parametric and non-parametric statistical methods for predicting plotwise variables based on Landsat ETM+: a comparison in an Araucaria araucana forest in Chile*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 31(3): 179–194.
 
 `2010`
-Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad estructural y espacial de un bosque mixto dominado por Nothofagus
-dombeyi después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[*Structural and spatial heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after a partial disturbance*{: style="color: green; opacity: 0.80;"} \]. **Revista Chilena de Historia Natural** 83(3):
+Soto DP, **Salas C**, Donoso PJ, Uteau D. 2010. [Heterogeneidad estructural y espacial de un bosque mixto dominado por *Nothofagus
+dombeyi* después de un disturbio parcial](http://dx.doi.org/10.4067/S0716-078X2010000300002) \[*Structural and spatial heterogeneity of a mixed Nothofagus dombeyi-dominate forest stand after a partial disturbance*{: style="color: green; opacity: 0.80;"} \]. **Revista Chilena de Historia Natural** 83(3):
 335–347.
 
 `2009`
@@ -217,11 +217,11 @@ Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the 
 Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and slope in models of forest species composition and productivity](https://academic.oup.com/forestscience/article/53/4/486/4604065). **Forest Science** 53(4): 486–492.
 
 `2006`
-**Salas C**, LeMay V, Núñez P, Pacheco P, and Espinosa A. 2006. [Spatial patterns in an old-growth Nothofagus obliqua forest in south-central
+**Salas C**, LeMay V, Núñez P, Pacheco P, and Espinosa A. 2006. [Spatial patterns in an old-growth *Nothofagus obliqua* forest in south-central
 Chile](http://dx.doi.org/10.1016/j.foreco.2006.04.037). **Forest Ecology and Management** 231(1-3): 38–46.
 
 `2006`
-**Salas C**, and García O. 2006. [Modelling height development of mature Nothofagus obliqua](http://dx.doi.org/10.1016/j.foreco.2006.04.015). **Forest Ecology and Management** 229(1-3): 1–6.
+**Salas C**, and García O. 2006. [Modelling height development of mature *Nothofagus obliqua*](http://dx.doi.org/10.1016/j.foreco.2006.04.015). **Forest Ecology and Management** 229(1-3): 1–6.
 
 `2006`
 Rebolledo R, Sáez P, Klein C, **Salas, C.**, and Aguilera A. 2006. [Daños en casas de madera ocasionados por coleópteros xilofagos, IX
