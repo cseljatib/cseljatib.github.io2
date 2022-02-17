@@ -10,8 +10,8 @@ excerpt: Details on coursework
 
 --------
 
-+ Forest biometrics
-+ Statistics
+* [Estadistica](./statstuff.md)
+* [Biometria forestal](./biomfor.md)
 
 --------
 
