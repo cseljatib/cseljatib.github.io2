@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algunos analisis estadisticos
+title: Algunos análisis estadísticos
 excerpt: "estadistica aplicada"
 
 ---
@@ -10,21 +10,19 @@ excerpt: "estadistica aplicada"
 
 --------
 
-|              |   |
-:---|:-------------------------:
-Este sitio web contiene enlances a ejemplos de analisis estadisticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib.  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. | 
+Este sitio web contiene enlances a ejemplos de analisis estadisticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver mas detalles en este link](./rlibro.md)).  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. 
 
 --------
 
-## Estadistica aplicada
+## Estadística aplicada
 En los siguientes enlances estan disponibles los scripts para reproducir analisis estadisticos y/o graficos
- de uso comun en estadistica aplicada. Por cualquier duda no dude en escribirme.
+ de uso comun en estadistica aplicada. 
 
 + [Gráficos de distribucion espacial](/statstuff/datosEspa.html)
 + [Series de tiempo](/statstuff/timeSerPlot.html)
 
 
-## Comentarios/sugerencias?
+### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
 
 <!-- ### Footer

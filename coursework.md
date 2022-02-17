@@ -10,9 +10,9 @@ excerpt: Details on coursework
 
 --------
 
-* [Estadistica](/statstuff.md)
-* [Biometria forestal](statstuff.md)
-+ [Biometria forestal](./biomfor.md)
++ [Estadistica](/statstuff.md)
++ [Biometria forestal](/biomfor.md)
+
 --------
 
 A height-diameter model has the following structure
