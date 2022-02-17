@@ -400,9 +400,9 @@ summary {
 <div id="cargando-los-datos-de-ejemplo" class="section level3">
 <h3>Cargando los datos de ejemplo</h3>
 <p>Ocuparemos la dataframe <strong>pspRuca</strong> del paquete <em>datana</em>.</p>
-<pre class="r"><code>#library(datana)
-#data(pspRuca)
-df &lt;- read.csv(&quot;pspRuca.csv&quot;) #pspRuca
+<pre class="r"><code>library(datana)
+data(pspRuca)
+df &lt;- pspRuca
 head(df) #primeras seis filas</code></pre>
 <pre><code>  tree.no           spp status    dbh x.coord y.coord crown.class
 1       1    N. obliqua      1  65.50  2.7282 0.62986           1
@@ -482,7 +482,7 @@ persp(dens.g2.sig2,theta=45,phi=45,xlab=&quot;X&quot;,ylab=&quot;Y&quot;,zlab=&q
 <p>Salas, C., V. LeMay, P. Núñez, P. Pacheco, and A. Espinosa. 2006. “Spatial Patterns in an Old-Growth <em>Nothofagus Obliqua</em> Forest in South-Central Chile.” <em>For. Ecol. Manage.</em> 231 (1-3): 38–46.</p>
 </div>
 <div id="ref-myrbook">
-<p>Salas-Eljatib, C. 2021. <em>Análisis de datos con el programa estadístico R: una introducción aplicada</em>. Santiago, Chile: Editorial Universidad Mayor.</p>
+<p>Salas-Eljatib, C. 2021. <em>Análisis de datos con el programa estadístico R: una introducción aplicada</em>. Santiago, Chile: Ediciones Universidad Mayor.</p>
 </div>
 <div id="ref-schabenbookspa">
 <p>Schabenberger, O., and C. A. Gotway. 2005. <em>Statistical Methods for Spatial Data Analysis</em>. Boca Raton, FL, USA: Chapman &amp; Hall/CRC.</p>
