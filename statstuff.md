@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algunos analisis estadisticos
-excerpt: "Libro de R"
+excerpt: "estadistica aplicada"
 
 ---
 
@@ -12,7 +12,7 @@ excerpt: "Libro de R"
 
 |              |   |
 :---|:-------------------------:
-Este sitio web contiene enlances a ejemplos de analisis estadisticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib.  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. |  <img src="/images/portadaLibro.jpg" width="4300" height="1500">
+Este sitio web contiene enlances a ejemplos de analisis estadisticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib.  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. | 
 
 --------
 
