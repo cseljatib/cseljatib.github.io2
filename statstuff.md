@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Algunos análisis estadísticos
 excerpt: "estadistica aplicada"
 
@@ -10,12 +10,12 @@ excerpt: "estadistica aplicada"
 
 --------
 
-Este sitio web contiene enlances a ejemplos de analisis estadisticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver mas detalles en este link](./rlibro.md)).  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. 
+Este sitio web contiene enlances a ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)).  A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. 
 
 --------
 
 ## Estadística aplicada
-En los siguientes enlances estan disponibles los scripts para reproducir analisis estadisticos y/o graficos
+A continuacion dejo a disposicion scripts de R para reproducir analisis estadisticos y/o graficos
  de uso comun en estadistica aplicada. 
 
 + [Gráficos de distribucion espacial](/statstuff/datosEspa.html)

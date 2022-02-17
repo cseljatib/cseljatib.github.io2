@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Coursework
 excerpt: Details on coursework
 
@@ -10,10 +10,16 @@ excerpt: Details on coursework
 
 --------
 
-+ [Estadistica](/statstuff.md)
-+ [Biometria forestal](/biomfor.md)
+En esta pagina encontraras material relacionado a 
+ activades docentes que son de utilidad con alguna de las asignaturas o cursos que dicto.
+ 
 
 --------
+
+## [Estadística](/statstuff.md)
+
+## [Biometría forestal](/biomfor.md)
+
 
 A height-diameter model has the following structure
 \begin{equation}
