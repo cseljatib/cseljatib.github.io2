@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: resume
 title: Research 
-excerpt: "Recent Research"
+excerpt: "Recent research"
+
 ---
 
 <style>H1{color:DarkRed;}</style>
@@ -37,5 +38,10 @@ I am currently working in a couple of research projects, as well as I have been 
 
 <!-- ### Footer
 ![](images/droneYo.JPG)
+---
+layout: page
+title: Research 
+excerpt: "Recent Research"
+---
 Last updated: August 2020 -->
 
