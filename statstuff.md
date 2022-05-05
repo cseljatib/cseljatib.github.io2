@@ -18,6 +18,7 @@ Este sitio web contiene enlances a ejemplos de análisis estadísticos no cubier
 A continuacion dejo a disposicion scripts de R para reproducir analisis basicos y/o graficos
  de uso comun en estadística aplicada. 
 
++ [Que diablos es un intervalo de confianza estadístico?](https://cseljatib.shinyapps.io/intConfApp/)
 + [Gráficos de distribucion espacial](/statstuff/datosEspa.html)
 + [Series de tiempo](/statstuff/timeSerPlot.html)
 
