@@ -2,7 +2,13 @@
 layout: page
 title: About me
 excerpt: "on myself"
+
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 
 I am a Full Professor of Biometrics at the Universidad Mayor in Santiago, Chile. My research interests are related to theoretical and applied statistics for quantitative analyses of biological data, emphasising ecological and natural resources phenomena.
 
