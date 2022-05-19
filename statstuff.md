@@ -10,22 +10,20 @@ excerpt: "estadistica aplicada"
 
 --------
 
-Acá se muestran ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)). Este material lo he preparado para ser utilizado con fines docentes.
+Acá se muestran ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)). Este material ha sido preparado para ser utilizado con fines docentes.
 
 --------
 
-## Intervalo de confianza 
-Los intervalos confidenciales son de amplio uso en inferencia estadística. Sin embargo, su entendimiento teórico-práctico es muy pobre. En el siguiente [link](https://cseljatib.shinyapps.io/intConfApp/) se ejemplifica de forma interactiva.
++ Intervalo de confianza 
+
+Los intervalos confidenciales son de amplio uso en inferencia estadística. Sin embargo, su entendimiento teórico-práctico es muy pobre. En el siguiente [**link**](https://cseljatib.shinyapps.io/intConfApp/) se ejemplifica de forma interactiva.
 
 
-## Mínimos cuadrados
 + [¿Cómo funciona el método de los mínimos cuadrados?](/statstuff/ols/minCuadrados.html)
 
-## Distribución espacial
 + [Gráficos de distribución espacial](/statstuff/datosEspa.html)
 
-## Gráficos de series de tiempo
-+ [Series de tiempo](/statstuff/timeSerPlot.html)
++ [Gráficos de series de tiempo](/statstuff/timeSerPlot.html)
 
 
 ### Comentarios/sugerencias?
