@@ -11,12 +11,11 @@ excerpt: Details on coursework
 --------
 
 En esta página se encuentra material relacionado a 
- activades docentes que son de utilidad para alguna(s) de las asignaturas o cursos que dicto o he dictado.
+ activades docentes que son de utilidad para alguna(s) de las asignaturas o cursos que dicto o he dictado. Espero sean de utilidad.
  
-Espero sean de utilidad.
 --------
 
 ## [Estadística](/statstuff.md)
 
-## [Biometría forestal](/biomfor.md)
+## [Biometría](/biomfor.md)
 
