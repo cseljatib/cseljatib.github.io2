@@ -30,7 +30,7 @@ __[Universidad de La Frontera](https://www.ufro.cl)__, Chile.
 Bachelor of Science in Forest Enginneering
 
 ![](images/yalelogo.gif)
-
+![](images/uidahologo.gif)
 <!-- ### Footer
 ![](images/yalelogo.gif)
 ![](yalelogo.gif){:height="36px" width="36px"}
