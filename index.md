@@ -1,6 +1,7 @@
 ---
 layout: resume
-excerpt: "About Me..."
+title: Index
+
 ---
 
 
