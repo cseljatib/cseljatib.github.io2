@@ -16,8 +16,8 @@ Este sitio web contiene enlances a ejemplos de análisis estadísticos no cubier
 
 ## Estadística aplicada
 
-+ [Que diablos es un intervalo de confianza estadístico?](https://cseljatib.shinyapps.io/intConfApp/)
-+ [Como funciona el metodo de los mínimos cuadrados?](/statstuff/ols/minCuadrados.html)
++ [¿Qué diablos es un intervalo de confianza estadístico?](https://cseljatib.shinyapps.io/intConfApp/)
++ [¿Cómo funciona el método de los mínimos cuadrados?](/statstuff/ols/minCuadrados.html)
 + [Gráficos de distribucion espacial](/statstuff/datosEspa.html)
 + [Series de tiempo](/statstuff/timeSerPlot.html)
 
