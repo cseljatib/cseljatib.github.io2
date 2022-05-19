@@ -29,10 +29,11 @@ Master of Science in [Statistics](https://www.uidaho.edu/sci/stat)
 __[Universidad de La Frontera](https://www.ufro.cl)__, Chile.  
 Bachelor of Science in Forest Enginneering
 
-[<img src="yalelogo.gif" width="250"/>](yalelogo.gif)
+![](yalelogo.gif)
 
 <!-- ### Footer
 ![](images/yalelogo.gif)
+![](yalelogo.gif){:height="36px" width="36px"}
 Last updated: August 2020 -->
 
 
