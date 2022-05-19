@@ -10,7 +10,7 @@ excerpt: "estadistica aplicada"
 
 --------
 
-Este sitio web contiene enlances a ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)). 
+Acá se muestran ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)). Este material lo he preparado para ser utilizado con fines docentes.
 
 --------
 
@@ -23,7 +23,7 @@ Este sitio web contiene enlances a ejemplos de análisis estadísticos no cubier
 
 
 ### Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
+Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com. 
 
 <!-- ### Footer
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)

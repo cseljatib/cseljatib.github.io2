@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: resume
 excerpt: "About Me..."
-urlcolor: green
 ---
 
 
