@@ -10,6 +10,7 @@ excerpt: "on publications"
 
 --------
 
+[<img src="investiga3.jpg" width="250"/>](investiga3.jpg)
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Books](./rlibro.md)** 
