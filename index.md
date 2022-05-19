@@ -19,7 +19,7 @@ My location is Room 1, Center for Ecosystem Modelling and Monitoring, on the Uni
 If you would like to [send me an e-mail](mailto:cseljatib@gmail.com) (English/Español), my address is cseljatib "at" gmail "dot" com
 
 
-<img src='images/chacai01.jpg' width='100'>
+<img src='images/chacai01.jpg' width='500'>
 
 <!--- 
 **Some of my older websites**
