@@ -8,11 +8,13 @@ excerpt: "Recent research"
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
+![](images/foto7.jpg)
+
 --------
 
 My research focuses on developing and applying statistical and mathematical models to address scientific and decision-support problems of forests and ecology.
 
-My main research interest is biometrics, i.e., applied statistics and mathematical modelling for understanding ecological and natural resources phenomena.
+My main research interest is **biometrics**, i.e., applied statistics and mathematical modelling for understanding ecological and natural resources phenomena.
 
 
 --------
@@ -23,11 +25,12 @@ My main research interest is biometrics, i.e., applied statistics and mathematic
 
 * __Biometrics__. Applied statistics to ecology and natural resources.
 
-* __Forest ecosystem modelling__.  Tree and stand level growth models.
+* __Forest ecosystem modelling__.  Tree and stand level growth models,
+as well as tree allometry. 
 
 * __Ecological modelling and statistical ecology__. System dynamics, differential equations, statistical inference.
 
-* __Applied statistics to forest ecology__. Spatial statistics, tree allometry, sampling, estimation from remote sensed images.
+* __Applied statistics__. Spatial statistics, sampling, estimation from remote sensed images.
 
 
 ## Research projects
@@ -35,7 +38,7 @@ My main research interest is biometrics, i.e., applied statistics and mathematic
 I am currently working in a couple of research projects, as well as I have been involved in several ones. [Our current ongoing research projects can be found here](./resproj.md)
 
 
-![](images/pspRuca_old.jpg =150x250)
+
 
 
 <!-- ### Footer
