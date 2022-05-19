@@ -35,7 +35,8 @@ My main research interest is biometrics, i.e., applied statistics and mathematic
 I am currently working in a couple of research projects, as well as I have been involved in several ones. [Our current ongoing research projects can be found here](./resproj.md)
 
 
-<img src="images/pspRuca_old.jpg" width="200" height="200">
+![](images/pspRuca_old.jpg =150x250)
+
 
 <!-- ### Footer
 ![](images/pspRuca_old.jpg)
