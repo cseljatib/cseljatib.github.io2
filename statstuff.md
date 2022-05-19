@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Algunos análisis estadísticos
+title: Estadística aplicada
 excerpt: "estadistica aplicada"
 
 ---
@@ -14,16 +14,22 @@ Acá se muestran ejemplos de análisis estadísticos no cubiertos en el libro [*
 
 --------
 
-## Estadística aplicada
+## Intervalo de confianza 
+Los intervalos confidenciales son de amplio uso en inferencia estadística. Sin embargo, su entendimiento teórico-práctico es muy pobre. En el siguiente [link](https://cseljatib.shinyapps.io/intConfApp/) se ejemplifica de forma interactiva.
 
-+ [¿Qué diablos es un intervalo de confianza estadístico?](https://cseljatib.shinyapps.io/intConfApp/)
+
+## Mínimos cuadrados
 + [¿Cómo funciona el método de los mínimos cuadrados?](/statstuff/ols/minCuadrados.html)
-+ [Gráficos de distribucion espacial](/statstuff/datosEspa.html)
+
+## Distribución espacial
++ [Gráficos de distribución espacial](/statstuff/datosEspa.html)
+
+## Gráficos de series de tiempo
 + [Series de tiempo](/statstuff/timeSerPlot.html)
 
 
 ### Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com. 
+Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com). 
 
 <!-- ### Footer
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
