@@ -1,8 +1,14 @@
 ---
-layout: resume
+layout: page2
 title: Education
 excerpt: "on education"
+
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 
 
 
@@ -23,9 +29,10 @@ Master of Science in [Statistics](https://www.uidaho.edu/sci/stat)
 __[Universidad de La Frontera](https://www.ufro.cl)__, Chile.  
 Bachelor of Science in Forest Enginneering
 
+[<img src="yalelogo.gif" width="250"/>](yalelogo.gif)
 
 <!-- ### Footer
-
+![](images/yalelogo.gif)
 Last updated: August 2020 -->
 
 
