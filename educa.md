@@ -35,11 +35,11 @@ Bachelor of Science in Forest Enginneering
 <img src='images/logoufro.jpg' width='25'>
 
 
+<!-- ### Footer
 <img src='images/yalefes.png' width='25'>   
 <img src='images/uiStat.png' width='25'>
 <img src='images/yaleSimbolo.jpg' width='25'>
 
-<!-- ### Footer
 ![](images/logoyale.gif)  ![](images/logouidaho.jpg) 
 ![](images/logoufro.jpg)
 ![](images/yalelogo.gif)
