@@ -8,9 +8,11 @@ excerpt: "on publications"
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
+![](images/investiga3.jpg)
+
 --------
 
-![](images/investiga3.jpg)
+
 
 * **[Peer-reviewed papers](#peer-reviewed-papers)** 
 * **[Books](./rlibro.md)** 
