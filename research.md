@@ -10,7 +10,7 @@ excerpt: "Recent research"
 
 --------
 
-My research focuses on the development and application of statistical and mathematical models to address problems in ecological research.
+My research focuses on developing and applying statistical and mathematical models to address scientific and decision-support problems of forests and ecology.
 
 My main research interest is biometrics, i.e., applied statistics and mathematical modelling for understanding ecological and natural resources phenomena.
 
