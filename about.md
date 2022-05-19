@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: About me
 excerpt: "on myself"
 

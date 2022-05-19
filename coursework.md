@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Coursework
 excerpt: Details on coursework
 
