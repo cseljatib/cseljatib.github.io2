@@ -19,11 +19,13 @@ My location is Room 1, Center for Ecosystem Modelling and Monitoring, on the Uni
 If you would like to [send me an e-mail](mailto:cseljatib@gmail.com) (English/Español), my address is cseljatib "at" gmail "dot" com
 
 
+<img src='images/chacai01.jpg' width='100'>
+
 <!--- 
 **Some of my older websites**
 - [My old website](https://cseljatib.wixsite.com/biometria)
 - [My old linux help](http://biometria.ufro.cl/myLinuxHelp/)
 * [Mentoirs](./educa.md)
+![](images/chacai01.jpg)
 -->
 
-![](images/chacai01.jpg)
