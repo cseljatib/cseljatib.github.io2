@@ -31,11 +31,11 @@ Bachelor of Science in Forest Enginneering
 
 
 <img src='images/logoyale.gif' width='25'>   
-
+<img src='images/logouidaho.jpg' width='25'>
 
 
 <!-- ### Footer
-<img src='images/logouidaho.jpg' width='25'>
+
 
 <img src='images/logoufro.jpg' width='25'>
 
