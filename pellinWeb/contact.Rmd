@@ -1,0 +1,13 @@
+---
+title: "Contacto"
+output: html_document
+---
+
+<style>H1{color:DarkBlue;}</style>
+<style>H2{color:DarkBlue;}</style>
+
+
+Contactar a 
+
+Christian Salas-Eljatib al email cseljatib@gmail.com
+
