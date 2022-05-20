@@ -1,13 +1,13 @@
 ---
-title: "Contacto"
+title: ""
 output: html_document
 ---
 
 <style>H1{color:DarkBlue;}</style>
 <style>H2{color:DarkBlue;}</style>
 
-
-Contactar a 
+## Contacto
+En caso de dudas/consultas/sugerencias, por favor contactar a: 
 
 Christian Salas-Eljatib al email cseljatib@gmail.com
 

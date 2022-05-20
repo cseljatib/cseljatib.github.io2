@@ -11,7 +11,7 @@ link-citations: no
 
 
 ## Investigador principal
-Dr. [Christian Salas-Eljatib](https://eljatib.com), Profesor de Biometría en el [Centro de Modelación y Monitoreo de Ecosistemas](https://cem.umayor.cl) (CEM) de la Universidad Mayor.
+Dr. [Christian Salas Eljatib](https://eljatib.com), Profesor de Biometría en el [Centro de Modelación y Monitoreo de Ecosistemas](https://cem.umayor.cl) (CEM) de la Universidad Mayor.
 
 ## Co-investigadores
 * Dr. [Aaron Weiskittell](https://forest.umaine.edu/faculty-staff/aaron-weiskittel/), Profesor de Biometría Forestal en la School of Forest Resources de la University of Maine, USA.

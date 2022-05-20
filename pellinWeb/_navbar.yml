@@ -11,7 +11,5 @@ left:
   - text: "Contacto"
     href: ./contact.html
 right:
-  - icon: /img/logo.png
-    href: http://eljatib.com
   - icon: fa-home fa-lg
     href: ./index.html
