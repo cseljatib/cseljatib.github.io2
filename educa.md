@@ -29,6 +29,7 @@ Bachelor of Science in Forest Enginneering
 
 
 ![](images/logoyale.gif)![](images/yalefes.png) 
+![](images/logouidaho.jpg)![](images/uiStat.png)  
 
 <!-- ### Footer
 <img src='images/logoufro.jpg' width='100'>
