@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 urlcolor: blue
 title: Education
 
@@ -23,15 +23,15 @@ __[Universidad de La Frontera](https://www.ufro.cl)__, Chile.
 Bachelor of Science in Forest Enginneering
 
 
-<img src='images/chacai01.jpg' width='500'>
 
+![](images/chacai01.jpg)
 
 <!-- ### Footer
 
 
 <img src='images/logoufro.jpg' width='100'>
 <img src='images/logoufro.jpg' width='25'>
-
+<img src='images/chacai01.jpg' width='500'>
 <img src='images/yalefes.png' width='25'>   
 <img src='images/uiStat.png' width='25'>
 <img src='images/yaleSimbolo.jpg' width='25'>
