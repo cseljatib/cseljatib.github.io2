@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Education
-excerpt: "on education"
 urlcolor: blue
+title: Education
 
 ---
 
@@ -30,7 +29,7 @@ Master of Science in [Statistics](https://www.uidaho.edu/sci/stat)
 __[Universidad de La Frontera](https://www.ufro.cl)__, Chile.  
 Bachelor of Science in Forest Enginneering
 
-<img src='images/chacai01.jpg' width='500'>  
+<img src='images/chacai01.jpg' width='500'>
 
 
 <!-- ### Footer
