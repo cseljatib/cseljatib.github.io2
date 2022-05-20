@@ -34,7 +34,7 @@ Para simular en Pellín se recomienda lo siguiente
 
 Mayores detalles técnicos son entregados en  la sección [Documentos](./docs.html) del presente sitio.
  
-![](img/logo.png)
+<img src='img/logo.png' width='500'>
 <!--- 
 https://www.andreashandel.com/posts/github-website/
 **Some of my older websites**
