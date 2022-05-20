@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page2
 title: Education
 excerpt: "on education"
 
