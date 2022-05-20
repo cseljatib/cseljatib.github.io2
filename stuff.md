@@ -25,4 +25,4 @@ A collection of links, documents, and so on, that might be of interest.
 * [Bosque (a Journal on Forest Science)](https://www.revistabosque.cl/)
 * [Center for Ecosystem Modeling and Monitoring (CEM)](https://cem.umayor.cl/)
 
-* [Pellín](./pellinWeb/index.html).
+* [Pellín](./pellinWeb/docs/index.html).
