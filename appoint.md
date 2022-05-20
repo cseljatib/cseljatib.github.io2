@@ -4,7 +4,12 @@ title: Academic positions
 excerpt: "on publications"
 ---
 
-## Main-
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
+
+## Main
 
 `2018-present`
 **Full Professor**, [Centro de Modelación y Monitoreo de
