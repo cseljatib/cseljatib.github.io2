@@ -14,19 +14,18 @@ link-citations: no
 Dr. [Christian Salas Eljatib](https://eljatib.com), Profesor de Biometría en el [Centro de Modelación y Monitoreo de Ecosistemas](https://cem.umayor.cl) (CEM) de la Universidad Mayor.
 
 ## Co-investigadores
-* Dr. [Aaron Weiskittell](https://forest.umaine.edu/faculty-staff/aaron-weiskittel/), Profesor de Biometría Forestal en la School of Forest Resources de la University of Maine, USA.
-
-
 * Joaquín Riquelme, Asistente de Investigación del Centro de Modelación y Monitoreo de Ecosistemas de la Universidad Mayor.
 
 * Nicolas Pino, Ingeniero Civil Matemático, Asistente de Investigación, Proyecto Fondef No. ID19|10421 (Ejecutado por el [CEM](https://cem.umayor.cl)).
 
 * Dr. Pablo J. Donoso, Profesor de Silvicultura de Bosque Nativo de la Universidad Austral de Chile.
 
-* Dr. Renato Cifuentes, Investigador Postoctoral, Proyecto Fondef No. ID19|10421 (Ejecutado por el [CEM](https://cem.umayor.cl)).
+* Dr. Renato Cifuentes, Investigador Postdoctoral, Proyecto Fondef No. ID19|10421 (Ejecutado por el [CEM](https://cem.umayor.cl)).
+
+* Dr. [Aaron Weiskittel](https://forest.umaine.edu/faculty-staff/aaron-weiskittel/), Profesor de Biometría Forestal en la School of Forest Resources de la University of Maine, USA.
 
 ## Estudiantes 
-Se listan estudiantes actuales y/o pasados, que en alguna medida contribuyeron al desarrollo del modelo Pellín.
+Se listan estudiantes que en alguna medida contribuyeron al desarrollo del modelo Pellín.
 
 * Rodolfo Mendez. Alumno Tesista Ingeniería Forestal, Universidad de Chile. 2022.
 
@@ -55,7 +54,7 @@ Católica de Chile 2020.
 
 ## Colaboradores
 
-* Dr. [Juan Pablo Fuentes](http://sel.forestaluchile.cl/), Profesor Asociado de Ecología de Suelos, Universidad de Chile, Santiago.
+* Dr. [Juan Pablo Fuentes](http://sel.forestaluchile.cl/), Profesor Asociado de Ecología de Suelos, Universidad de Chile.
 
 <!--- 
 **Some of my older websites**
