@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: resume
 urlcolor: blue
 title: Education
 
@@ -30,7 +30,7 @@ Bachelor of Science in Forest Enginneering
 
 
 ![](images/logoyale.gif) 
-
+![](images/yalefes.png) 
 <!-- ### Footer
 
 
