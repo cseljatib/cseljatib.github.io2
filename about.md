@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: resume
 title: About me
 excerpt: "on myself"
 
