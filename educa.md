@@ -1,7 +1,8 @@
 ---
-layout: page2
+layout: page
 title: Education
 excerpt: "on education"
+urlcolor: blue
 
 ---
 
