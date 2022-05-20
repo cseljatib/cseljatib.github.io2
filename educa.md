@@ -1,9 +1,14 @@
 ---
-layout: resume
+layout: page2
 urlcolor: blue
 title: Education
 
 ---
+
+<style>H1{color:DarkRed;}</style>
+<style>H2{color:Red;}</style>
+
+--------
 
 
 `2011`
@@ -24,7 +29,7 @@ Bachelor of Science in Forest Enginneering
 
 
 
-![](images/chacai01.jpg)
+![](images/logoyale.gif) 
 
 <!-- ### Footer
 
