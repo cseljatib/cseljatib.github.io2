@@ -25,17 +25,17 @@ My main research interest is **biometrics**, i.e., applied statistics and mathem
 
 * __Biometrics__. Applied statistics to ecology and natural resources.
 
-* __Forest ecosystem modelling__.  Tree and stand level growth models,
+* __Forest ecosystem modelling__.  Tree and stand-level growth models,
 as well as tree allometry. 
 
 * __Ecological modelling and statistical ecology__. System dynamics, differential equations, statistical inference.
 
-* __Applied statistics__. Spatial statistics, sampling, estimation from remote sensed images.
+* __Applied statistics__. Spatial statistics, sampling, estimation from remotely sensed images.
 
 
 ## Research projects
 
-I am currently working in a couple of research projects, as well as I have been involved in several ones. [Our current ongoing research projects can be found here](./resproj.md)
+I am currently working on a couple of research projects, which can be found in the following [link](./resproj.md)
 
 
 

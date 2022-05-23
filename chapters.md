@@ -7,7 +7,7 @@ excerpt: "on chapters"
 
 ## Link to the actual chapter in a book as a pdf file
 
-For those chapters written in Spanish, I have provided the translation of the title among [brackets] and using <u>underline</u>.  
+For those chapters written in Spanish, I have provided the title translation among [brackets] and using <u>the underline</u>.  
 
 `2018`
 **Salas-Eljatib C**, Fuentes A, Donoso PJ, Matus C, Soto D. 2018. [Crecimiento de bosques secundarios y adultos de

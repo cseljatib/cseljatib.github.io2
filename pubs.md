@@ -24,8 +24,9 @@ excerpt: "on publications"
 
 ## Peer-reviewed papers
 
-If you do not have access to any of these papers, [drope me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, I have provided the translation of the title among [brackets] and using *italics, in green color*{: style="color: green; opacity: 0.80;" }.  
+If you do not have access to any of these papers, [drop me an e-mail](mailto:cseljatib@gmail.com).
+For those papers written in Spanish, 
+I have provided the title translation among [brackets] and using *italics, in green color*{: style="color: green; opacity: 0.80;" }.  
 
 --------
 

@@ -19,7 +19,6 @@ excerpt: "my lab"
 --------
 
 ## My lab
-The talented researchers and bright students working in my lab.
 
 
 |   |   |   | 
