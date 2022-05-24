@@ -2,8 +2,6 @@
 layout: resume
 title: People 
 excerpt: "my lab"
-lang: en
-ref: people
 ---
 
 <style>H1{color:DarkRed;}</style>

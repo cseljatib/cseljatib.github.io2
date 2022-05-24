@@ -2,8 +2,6 @@
 layout: resume
 title: Coursework
 excerpt: Details on coursework
-lang: en
-ref: coursework
 ---
 
 <style>H1{color:DarkRed;}</style>

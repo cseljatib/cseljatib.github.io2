@@ -2,8 +2,6 @@
 layout: resume
 title: Publications 
 excerpt: "on publications"
-lang: en
-ref: pubs
 ---
 
 <style>H1{color:DarkRed;}</style>

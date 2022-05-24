@@ -2,8 +2,6 @@
 layout: resume
 title: Research 
 excerpt: "Recent research"
-lang: en
-ref: research
 ---
 
 <style>H1{color:DarkRed;}</style>

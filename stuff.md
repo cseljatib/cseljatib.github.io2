@@ -2,8 +2,6 @@
 layout: resume
 title: Stuff 
 excerpt: "several stuff that might be of interest"
-lang: en
-ref: stuff
 ---
 
 <style>H1{color:DarkRed;}</style>
