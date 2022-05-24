@@ -6,6 +6,12 @@ lang: es
 ref: research2
 ---
 
+<ul>
+  {% for menu in site.t[page.lang] %}
+    <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+  {% endfor %}
+</ul>      
+
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:Red;}</style>
 
