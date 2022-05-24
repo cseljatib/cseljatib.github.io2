@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Publications 
-excerpt: "on publications"
-lang: en
+title: Publicaciones 
+excerpt: "sobre publicaciones"
+lang: es
 ref: pubs
 ---
 
@@ -15,19 +15,20 @@ ref: pubs
 
 
 
-* **[Peer-reviewed papers](#peer-reviewed-papers)** 
-* **[Books](./rlibro.md)** 
-* **[Chapters in books](./chapters.md)** 
-* **[In proceedings](./proceed.md)** 
+* **[Articulos evaluados por pares](#peer-reviewed-papers)** 
+* **[Libros](./rlibro.md)** 
+* **[Capitulos en libros](./chapters.md)** 
+* **[Resumenes en congresos](./proceed.md)** 
 
 
 --------
 
-## Peer-reviewed papers
+## Articulos evaluados por pares
 
-If you do not have access to any of these papers, [drop me an e-mail](mailto:cseljatib@gmail.com).
-For those papers written in Spanish, 
-I have provided the title translation among [brackets] and using *italics, in green color*{: style="color: green; opacity: 0.80;" }.  
+Si no tienes acceso a alguno de estos papers, [escribeme un 
+ email](mailto:cseljatib@gmail.com).
+Para aquellos papers escritos en Ingles, 
+he incluido una traduccion entre [parentesis cuadrados] y usando *cursiva, en color verde*{: style="color: green; opacity: 0.80;" }.  
 
 --------
 

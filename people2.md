@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: People 
+title: Equipo 
 excerpt: "my lab"
-lang: en
-ref: people
+lang: es
+ref: people2
 ---
 
 <style>H1{color:DarkRed;}</style>
@@ -12,26 +12,26 @@ ref: people
 --------
 
 
-* **[My lab](#my-lab)** 
-* **[Research collaborators](./collabora.md)**
+* **[Mi laboratorio](#mi-laboratorio)** 
+* **[Colaboradores de investigacion](./collabora.md)**
 * **[Alumni](./alumni.md)** 
-* **[Mentors](./mentors.md)** 
+* **[Mentores](./mentors.md)** 
 
 --------
 
-## My lab
+## Mi laboratorio
 
 
 |   |   |   | 
 |---|---|---|
-| [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)  |Ph.D. Remote Sensing   | ![](images/renato_2.jpg)  |   
-| *Joaquín Riquelme*  |Natural Resources Engineer, M.S.   |  ![](images/joaquin_2.jpg) | 
-|  *Nicolas Pino* | Mathematical Engineer  | ![](images/NicoP_2.jpg)  | 
+| [*Renato Cifuentes*](https://www.researchgate.net/profile/Renato_Cifuentes)  |Ph.D. Sensores remotos   | ![](images/renato_2.jpg)  |   
+| *Joaquín Riquelme*  |Ing. en Rec. Naturales, Magister   |  ![](images/joaquin_2.jpg) | 
+|  *Nicolas Pino* | Ing. Civil Matematico  | ![](images/NicoP_2.jpg)  | 
 |---|---|---|
 
 --------
 
-__Students__
+__Estudiantes__
 
 |   |   |   |
 |---|---|---|

@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Stuff 
+title: Cosas varias 
 excerpt: "several stuff that might be of interest"
-lang: en
-ref: stuff
+lang: es
+ref: stuff2
 ---
 
 <style>H1{color:DarkRed;}</style>
@@ -11,7 +11,8 @@ ref: stuff
 
 --------
 
-A collection of links, documents, and so on, that might be of interest. 
+Una coleccion de enlaces, documentos, y varios mas, que pueden
+ser de utilidad. 
 
 ## My own
 

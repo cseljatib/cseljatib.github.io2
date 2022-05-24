@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Coursework
+title: Cursos
 excerpt: Details on coursework
-lang: en
-ref: coursework
+lang: es
+ref: coursework2
 ---
 
 <style>H1{color:DarkRed;}</style>

@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Research 
-excerpt: "Recent research"
-lang: en
-ref: research
+title: Investigacion 
+excerpt: "Investigacion reciente"
+lang: es
+ref: research2
 ---
 
 <style>H1{color:DarkRed;}</style>
