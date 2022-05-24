@@ -2,7 +2,7 @@ name: "Pellin website"
 output_dir: 'docs'
 output:
   html_document:
-    theme: cerulean
+    theme: default
     highlight: zenburn
     toc: true
     toc_depth: 2
