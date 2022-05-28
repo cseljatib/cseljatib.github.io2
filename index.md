@@ -18,7 +18,7 @@ If you would like to [send me an e-mail](mailto:cseljatib@gmail.com) (English/Es
 
 <img src="images/chacai01.jpg" width="500"/>
 
-```{=html}
+
 <!--- 
 **Some of my older websites**
 - [My old website](https://cseljatib.wixsite.com/biometria)
@@ -26,4 +26,3 @@ If you would like to [send me an e-mail](mailto:cseljatib@gmail.com) (English/Es
 * [Mentoirs](./educa.md)
 ![](images/chacai01.jpg)
 -->
-```
