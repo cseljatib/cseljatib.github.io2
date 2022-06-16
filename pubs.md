@@ -30,25 +30,25 @@ I have provided the title translation among [brackets] and using *italics, in gr
 --------
 
 `2022`
-Gamarra J, Picard N, Zhou M, Pijanowski D, ..., **Salas-Eljatib C**, et al, Hui C. 2022. Co-limitation toward lower latitudes shapes global forest diversity gradients. **Nature Ecology and Evolution** (To appear).
+Gamarra J, Picard N, Zhou M, Pijanowski D, ..., **Salas-Eljatib C**, et al, Hui C. 2022. *Co-limitation toward lower latitudes shapes global forest diversity gradients*. **Nature Ecology and Evolution** (To appear).
  
 `2022`
-Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ....Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
+Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ....Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [*The number of tree species on Earth*](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
 
 `2022`
-Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, Gonzales M, Martinez G, Navarro C, Nunez P, **Salas-Eljatib C**, Soto DP, Vasquez-Grandon A. 2022. [Silviculture of South American temperate native forests](https://doi.org/10.33494/nzjfs522022x173x). **New Zealand Journal of Forestry Science** 52: 2. 
+Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, Gonzales M, Martinez G, Navarro C, Nunez P, **Salas-Eljatib C**, Soto DP, Vasquez-Grandon A. 2022. [*Silviculture of South American temperate native forests*](https://doi.org/10.33494/nzjfs522022x173x). **New Zealand Journal of Forestry Science** 52: 2. 
 
 `2022`
-Herrera H, Fuentes A, Ortiz J, Soto J, da Silva R, **Salas-Eljatib C**, Arriagada C. 2022. [Root-associated endophytes isolated from juvenile Ulex europaeus L. (Fabaceae) plants colonizing rural areas in South-Central Chile](http://dx.doi.org/10.1007/s11104-022-05324-5). **Plant and Soil** .
+Herrera H, Fuentes A, Ortiz J, Soto J, da Silva R, **Salas-Eljatib C**, Arriagada C. 2022. [*Root-associated endophytes isolated from juvenile Ulex europaeus L. (Fabaceae) plants colonizing rural areas in South-Central Chile*](http://dx.doi.org/10.1007/s11104-022-05324-5). **Plant and Soil**.
 
 `2021`
-**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7, 230-244. 
+**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [*Growth equations in forest research: mathematical basis and model similarities*](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7, 230-244. 
 
 `2021`
-**Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
+**Salas-Eljatib C**. 2021. [*A new algorithm for reconstructing tree height growth with stem analysis data*](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
 
 `2021`
-**Salas-Eljatib C**. 2021. [An approach to quantify climate-productivity relationships: an example from a widespread *Nothofagus* forest](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
+**Salas-Eljatib C**. 2021. [*An approach to quantify climate-productivity relationships: an example from a widespread Nothofagus forest*](https://doi.org/10.1002/eap.2285). **Ecological Applications** 31(4): e02285.
 
 `2020`
 **Salas-Eljatib C**. 2020. [Height growth–rate at a given height: a mathematical perspective for forest productivity](/myPubs/2020hgrate_ecoModelling.pdf). **Ecological Modelling** 431: 109198.
