@@ -23,4 +23,4 @@ A collection of links, documents, and so on, that might be of interest.
 * [Mint (another linux distro)](https://linuxmint.com/)
 * [Bosque (a Journal on Forest Science)](https://www.revistabosque.cl/)
 * [Center for Ecosystem Modeling and Monitoring (CEM)](https://cem.umayor.cl/)
-* [Pellín](./pellinWeb/docs/index.html).
+* [Pellín](http://simuladorpellin.com)
