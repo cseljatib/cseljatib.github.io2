@@ -14,9 +14,7 @@ excerpt: "Posts and news"
 <sub>                                               [Posted on: Jul19, 2022]</sub>
 
 
-* ## Nueva directiva de la Sociedad Chilena de Ciencias Forestales
-
-[via twitter UdeChile](https://twitter.com/IForestalUChile/status/1542551272867483651?s=20&t=He6Y7SjaECo9q1EbNXZ92g)
+* ## [Nueva directiva de la Sociedad Chilena de Ciencias Forestales](https://twitter.com/IForestalUChile/status/1542551272867483651?s=20&t=He6Y7SjaECo9q1EbNXZ92g)
 
 [via twitter UdeConcepcion](https://twitter.com/forestalesudec/status/1542595333536026624?s=20&t=KL_jARewK_fDG2QFZrP4WA)
 
