@@ -10,6 +10,10 @@ excerpt: "Posts and news"
 
 --------
 
+* ## [Lanzamiento simulador de crecimiento de bosques nativos](/news/lanzaPellin.html) 
+<sub>                                               [Posted on: Jul19, 2022]</sub>
+
+
 * ## [Publicación de libro introductorio sobre R](/news/2021-12-06lanzaLibroR.md) 
 <sub>                                               [Posted on: Dec8, 2021]</sub>
 
@@ -34,7 +38,7 @@ excerpt: "Posts and news"
 * ## [Reportaje: ¿Se puede anticipar cómo crecerá un bosque?, en semanario "Que Pasa" del diario La Tercera](https://www.latercera.com/que-pasa/noticia/se-puede-anticipar-como-crecera-un-bosque/917695/)
 <sub>                                                                 [Posted on: Dec3, 2019]</sub>
 
-* ## [Inauguración del Centro de Modelación y Monitoreo de Ecosistemas, diario Universidad Mayor](https://www.diariomayor.cl/investigacion/735-investigacion-conoce-el-nuevo-centro-de-modelacion-y-monitoreo-de-ecosistemas-inaugurado-por-la-u-mayor)
+* ## [Inauguración del Centro de Modelación y Monitoreo de Ecosistemas, diario Universidad Mayor](/news/inauguraCEM.html)
 <sub>                                                                 [Posted on: Aug29, 2018]</sub>
 
 * ## [Reportaje: Bosques en peligro, en canal de televisión Mega](/news/2017-03-10-mega.md)
