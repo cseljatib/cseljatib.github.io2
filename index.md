@@ -1,6 +1,9 @@
 ---
 layout: page
 urlcolor: blue
+output:
+  html_document:
+    df_print: paged
 ---
 
 **Welcome to my website!** Here you will find material regarding research, publications, teaching, and research collaborators.
