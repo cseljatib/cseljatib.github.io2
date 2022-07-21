@@ -14,6 +14,10 @@ excerpt: "Posts and news"
 <sub>                                               [Posted on: Jul19, 2022]</sub>
 
 
+* ## [Nueva directiva de la Sociedad Chilena de Ciencias Forestales](https://twitter.com/forestalesudec/status/1542595333536026624?s=20&t=KL_jARewK_fDG2QFZrP4WA)
+<sub>                                                                 [Posted on: Jun30, 2022]</sub>
+
+
 * ## [Publicación de libro introductorio sobre R](/news/2021-12-06lanzaLibroR.md) 
 <sub>                                               [Posted on: Dec8, 2021]</sub>
 
