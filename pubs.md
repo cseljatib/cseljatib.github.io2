@@ -36,7 +36,7 @@ Svenning J, ..., **Salas-Eljatib C**, et al, Hui C. 2022. [Co-limitation towards
 
 `2022`
 Donoso PJ, **Salas-Eljatib C**, Soto DP, Riquelme T. 2022. [Present and prospects for multi-aged silviculture in Chilean temperate forests: targeting secondary forests in transition and partially harvested old-growth forests](https://www.frontiersin.org/articles/10.3389/ffgc.2022.965599).  
-**Frontiers in Forests And Global Change**.
+**Frontiers in Forests and Global Change**.
 
 `2022`
 Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ...., Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
