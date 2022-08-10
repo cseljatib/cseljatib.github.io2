@@ -33,9 +33,13 @@ I have provided the title translation among [brackets] and using *italics, in gr
 Liang J, Gamarra J, Picard N, Zhou M, Pijanowski B, Jacobs DF, Reich PB, Crowther TW, Nabuurs G, de-Miguel S, Fang J, Woodall CW, 
 Svenning J, ..., **Salas-Eljatib C**, et al, Hui C. 2022. [Co-limitation towards lower latitudes shapes
 	global forest diversity gradients](https://doi.org/10.1038/s41559-022-01831-x). **Nature Ecology and Evolution**.
- 
+
 `2022`
-Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ....Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
+Donoso PJ, **Salas-Eljatib C**, Soto DP, Riquelme T. 2022. [Present and prospects for multi-aged silviculture in Chilean temperate forests: targeting secondary forests in transition and partially harvested old-growth forests](https://www.frontiersin.org/articles/10.3389/ffgc.2022.965599).  
+**Frontiers in Forests And Global Change**.
+
+`2022`
+Cazzolla R,  Reich P, Gamarra J, Crowther T, Hui C,  ...., Rutishauser E, Saikia P,  **Salas-Eljatib C**,  Schepaschenko D, Scherer-Lorenzen M, Šebeň V,  Silveira M, .... Liang J. 2022. [The number of tree species on Earth](https://doi.org/10.1073/pnas.2115329119). **Proceedings of the National Academy of Sciences of the United States of America (PNAS)** 119(6): e2115329119. 
 
 `2022`
 Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, Gonzales M, Martinez G, Navarro C, Nunez P, **Salas-Eljatib C**, Soto DP, Vasquez-Grandon A. 2022. [Silviculture of South American temperate native forests](https://doi.org/10.33494/nzjfs522022x173x). **New Zealand Journal of Forestry Science** 52: 2. 
@@ -44,7 +48,7 @@ Donoso PJ, Promis A, Loguercio G, Beltran HA, Caselli M, Chauchard LM, Cruz G, G
 Herrera H, Fuentes A, Ortiz J, Soto J, da Silva R, **Salas-Eljatib C**, Arriagada C. 2022. [Root-associated endophytes isolated from juvenile Ulex europaeus L. (Fabaceae) plants colonizing rural areas in South-Central Chile](http://dx.doi.org/10.1007/s11104-022-05324-5). **Plant and Soil** 474: 181--193.
 
 `2021`
-**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7: 230-244. 
+**Salas-Eljatib C**, Mehtatalo L, Gregoire TG, Soto DP, Vargas-Gaete R, 2021. [Growth equations in forest research: mathematical basis and model similarities](https://doi.org/10.1007/s40725-021-00145-8). **Current Forestry Reports** 7(4): 230-244. 
 
 `2021`
 **Salas-Eljatib C**. 2021. [A new algorithm for reconstructing tree height growth with stem analysis data](https://doi.org/10.1111/2041-210X.13616). **Methods in Ecology and Evolution** 12(10): 2008-2016.
