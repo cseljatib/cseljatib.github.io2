@@ -1,5 +1,9 @@
-# sobre mi sitio web
+# Sobre mi sitio web
 este template esta basada en Jekyll, y los detalles de fuentes al respecto estan explicados mas abajo
+
++ Para hacerlo funcionar, principalmente hay que modificar los archivos .md que contienen cada una de las secciones del sitio web, siendo el index.md el de inicio o principal
++ en el archivo *_config.yml* se especifica el titulo de la pagina, asi como los detalles de mis cuentas de twitter, orcid, emails, etc
++ en la subcarpeta data, el archivo *navigation.yml* contiene la estructura de las secciones del sitio web
 
 
 ## Detalles desde donde obtuve esta template
