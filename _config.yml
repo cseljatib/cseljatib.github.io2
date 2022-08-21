@@ -12,7 +12,7 @@ owner:
   email: cseljatib@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: cseljatib
-  linkedin: #username
+  linkedin: christian-salas-eljatib-b43a4a140
   github: #cseljatib
   orcid: 0000-0002-8468-0829
   researchgate: Christian_Salas-Eljatib
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: #id https://scholar.google.com/citations?user=xtfNt9IAAAAJ&hl=en&oi=ao
   facebook: #username
   instagram: #username
   bing-verify:
@@ -62,7 +62,8 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
+  - jekyll-multiple-languages-plugin
+  
 kramdown:
   auto_ids: true
   footnote_nr: 1
