@@ -30,6 +30,9 @@ I have provided the title translation among [brackets] and using *italics, in gr
 --------
 
 `2022`
+Soto DP, **Salas-Eljatib C**, Donoso PJ, Hernández-Moreno A, Seidel D, D'Amato AW. 2022. [Impacts of varying precipitation regimes upon the structure, spatial patterns, and productivity of Nothofagus pumilio-dominated old-growth forests in Patagonia](https://doi.org/10.1016/j.foreco.2022.120519). **Forest Ecology and Management** 524: 120519.
+
+`2022`
 Liang J, Gamarra J, Picard N, Zhou M, Pijanowski B, Jacobs DF, Reich PB, Crowther TW, Nabuurs G, de-Miguel S, Fang J, Woodall CW, 
 Svenning J, ..., **Salas-Eljatib C**, et al, Hui C. 2022. [Co-limitation towards lower latitudes shapes global forest diversity gradients](https://doi.org/10.1038/s41559-022-01831-x). **Nature Ecology and Evolution**.
 
