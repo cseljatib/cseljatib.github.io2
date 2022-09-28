@@ -10,8 +10,11 @@ excerpt: "Posts and news"
 
 --------
 
+* ## [Presentación en Webinar "Forest Mensuration and Modelling chats" de la IUFRO](/news/2022-09-talkIufro.md)
+<sub>                                                                 [Posted on: Sep28, 2022]</sub>
+
 * ## [Lanzamiento simulador de crecimiento de bosques nativos](/news/lanzaPellin.html) 
-<sub>                                               [Posted on: Jul19, 2022]</sub>
+<sub>                                               [Posted on: Jul18, 2022]</sub>
 
 
 * ## [Nueva directiva de la Sociedad Chilena de Ciencias Forestales](https://twitter.com/IForestalUChile/status/1542551272867483651?s=20&t=He6Y7SjaECo9q1EbNXZ92g)
