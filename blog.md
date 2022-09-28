@@ -10,7 +10,7 @@ excerpt: "Posts and news"
 
 --------
 
-* ## [Presentación en Webinar "Forest Mensuration and Modelling chats" de la IUFRO](/news/2022-09-talkIufro.md)
+* ## [Presentación en Webinar "Forest Mensuration and Modelling chats" de la IUFRO](/news/2022-09-28talkIufro.md)
 <sub>                                                                 [Posted on: Sep28, 2022]</sub>
 
 * ## [Lanzamiento simulador de crecimiento de bosques nativos](/news/lanzaPellin.html) 
