@@ -23,7 +23,7 @@ Los intervalos confidenciales son de amplio uso en inferencia estadística. Sin 
 
 + [Gráficos de distribución espacial](/statstuff/datosEspa.html)
 
-+ [Gráficos de series de tiempo](/statstuff/timeSerPlot.html)
++ [Gráficos de series de tiempo](/statstuff/serieTiempo2.html)
 
 
 ### Comentarios/sugerencias?

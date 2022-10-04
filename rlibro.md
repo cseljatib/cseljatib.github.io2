@@ -27,7 +27,7 @@ Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-proje
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 
-+ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz)  Nueva version, 4 de octubre 2022!!!
++ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz) Atencion, nueva version (4 de octubre 2022)!!!
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
