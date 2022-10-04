@@ -57,7 +57,7 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 
 
 ## Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mis correos son cseljatib@gmail.com y/o también christian.salas@aya.yale.edu y/o christian.salas@maine.edu. 
+Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
 
 <!-- ### Footer
  <font size="6"> This is my text number 6</font>
