@@ -6,7 +6,7 @@ output:
     df_print: paged
 ---
 
-**Welcome to my website!** You will find material regarding research, publications, teaching, and research collaborators here.
+**Welcome to my website!** You will find material regarding research, publications, teaching, and research collaborators.
 
 Our lab investigates how forest ecosystems change through time. We use mathematical, theoretical, statistical and empirical approaches to address several research questions related to forest dynamics, tree allometry, mortality, and the scaling of tree-level processes to ecosystems. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
 
