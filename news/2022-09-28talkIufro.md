@@ -1,23 +1,24 @@
 ---
 layout: resume
-title: Charla para la IUFRO
+title: Charla internacional
 excerpt: "Charla sobre desarrollo de modelos de crecimiento"
 category: blog
 ---
 
-# Publicación de libro introductorio sobre R
+# Charla internacional para la IUFRO
 
-<sub> Posted on: Dec8, 2021</sub>
+<sub> Posted on: Oct7, 2022</sub>
 
 
-> *A mediados de noviembre se ha publicado el libro "Análisis de datos con el programa estadístico R: una introducción aplicada", de Christian Salas-Eljatib. El libro pretende ser un texto de consulta para aquellos usuarios interesados desde el nivel más básico en análisis de datos, hasta aquellos que deben explorar datos, y ajustar modelos estadísticos lineales*
+> *La [IUFRO](www.iufro.org) es la Unión Internacional de Organizaciones de Investigación Forestal, y se organiza en divisiones y secciones
+disciplinarias. Por
+ejemplo la Division 4 es sobre Evaluación, Modelación y Manejo.*
 
 
 El 19 de Julio de 2022, como parte de la serie
  de charlas enmarcadas dentro de los webinar sobre
  "Forest Mensuration and Modelling Chats", organizados
- por la seccion 4.0.1 de la Union internacional de organizaciones
- de investigacion forestal **IUFRO**, fui invitado  a dictar una charla.
+ por la sección 4.0.1 de la International Union of Forest Research Organizations **IUFRO**, fui invitado  a dictar una charla.
  La seccion 4.0.1 es sobre Mensura forestal y modelacion, y es coordinada por la Dra Bianca Elkeson de la University of British Columbia.
  
  El titulo de la charla fue "Modelling growth of natural forests with scarce data: challenges and a proposal".
