@@ -19,7 +19,7 @@ El 19 de Julio de 2022, como parte de la serie
  de charlas enmarcadas dentro de los webinar sobre
  "Forest Mensuration and Modelling Chats", organizados
  por la sección 4.0.1 de la International Union of Forest Research Organizations **IUFRO**, fui invitado  a dictar una charla.
- La seccion 4.0.1 es sobre Mensura forestal y modelacion, y es coordinada por la Dra Bianca Elkeson de la University of British Columbia.
+ La seccion 4.0.1 es sobre Mensura forestal y modelacion, y es coordinada por la Dra Bianca Eskelson de la University of British Columbia.
  
  El titulo de la charla fue "Modelling growth of natural forests with scarce data: challenges and a proposal".
 En la charla participaron 71 personas, de los siguientes paises:
