@@ -29,7 +29,7 @@ Brasil, Argentina, Turquia, Inglaterra, Iran, Mexico, y Kyrgyzstan.
 
 
 El video a la charla esta disponible en 
-https://www.youtube.com/watch?v=quXAoFMNpz4
+[https://www.youtube.com/watch?v=quXAoFMNpz4](https://www.youtube.com/watch?v=quXAoFMNpz4)
 
 
 <img src="/images/iufroLogo.png" width="2300" height="750">
