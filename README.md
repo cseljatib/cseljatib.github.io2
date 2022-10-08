@@ -5,6 +5,8 @@ este template esta basada en Jekyll, y los detalles de fuentes al respecto estan
 + en el archivo *_config.yml* se especifica el titulo de la pagina, asi como los detalles de mis cuentas de twitter, orcid, emails, etc
 + en la subcarpeta data, el archivo *navigation.yml* contiene la estructura de las secciones del sitio web
 
++ el url basico para entrar a esta web es http://cseljatib.github.io
++ para poder ocupar un dominio especifico, por ejemplo "eljatib.com" que compre en godaddy.com, recomiendo seguir lo explicado en https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef 
 
 ## Detalles desde donde obtuve esta template
 
