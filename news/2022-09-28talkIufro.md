@@ -27,9 +27,9 @@ En la charla participaron 71 personas, de los siguientes paises:
 Bangladesh, Filipina, Grecia, Suecia, Nigeria, Ecuador, Papua Nueva Guinea, Pakistan,
 Brasil, Argentina, Turquia, Inglaterra, Iran, Mexico, y Kyrgyzstan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=quXAoFMNpz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/quXAoFMNpz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-El video de la charla esta disponible ne YouTube, en el [link](https://www.youtube.com/watch?v=quXAoFMNpz4). 
+El video de la charla esta disponible ne YouTube, en el [link](https://youtu.be/quXAoFMNpz4). 
 
 <img src="/images/iufroLogo.png" width="2300" height="750">
