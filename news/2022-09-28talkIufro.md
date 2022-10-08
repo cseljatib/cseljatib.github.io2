@@ -29,7 +29,11 @@ Brasil, Argentina, Turquia, Inglaterra, Iran, Mexico, y Kyrgyzstan.
 
 <iframe width="560" height="315" src="https://youtu.be/quXAoFMNpz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[<img src="/images/charlaIufro2022.png" width="2300" height="750">](https://youtu.be/quXAoFMNpz4)
 
+[<img src="/images/iufroLogo.png" width="1300" height="450">](www.iufro.org)
+
+<!--- 
 El video de la charla esta disponible en YouTube en el [link](https://youtu.be/quXAoFMNpz4). 
-
-<img src="/images/iufroLogo.png" width="2300" height="750">
+![](images/chacai01.jpg)
+-->
