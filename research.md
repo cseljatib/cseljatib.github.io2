@@ -1,5 +1,6 @@
 ---
-layout: resume
+layout: page
+urlcolor: blue
 title: Research 
 excerpt: "Recent research"
 ---
@@ -41,6 +42,9 @@ I am currently working on a couple of research projects, which can be found in t
 
 
 <!-- ### Footer
+
+layout: resume
+
 ![](images/pspRuca_old.jpg)
 ![](images/droneYo.JPG)
 ---
