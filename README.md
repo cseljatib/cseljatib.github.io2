@@ -27,6 +27,10 @@ este archivo CNAME, que no debe tener extension, debe contener en la primera y u
 
 despues commit y listo!!
 
+pero tambien en algun momento debo entrar en este mismo repositorio de github, y escribir el dominio especifico "eljatib.com"
+
+hay que esperar un poco de todas maneras para que todo se propage correctamente en la web
+
 
 ## Detalles desde donde obtuve esta template
 
