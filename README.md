@@ -7,6 +7,26 @@ este template esta basada en Jekyll, y los detalles de fuentes al respecto estan
 
 + el url basico para entrar a esta web es http://cseljatib.github.io
 + para poder ocupar un dominio especifico, por ejemplo "eljatib.com" que compre en godaddy.com, recomiendo seguir lo explicado en https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef 
++ basicamente lo que debo hacer es ir a godaddy, y en configurar DNS, agregar los punteadores que se especifican aca
+
+- In the Type “A” row update the IP address to: 185.199.108.153
+(this will point your custom domain to GitHub’s server over HTTPS)
+
+- In the CNAME row with Name “www” input your gh-pages website (cseljatib.github.io)
+
+- At the bottom click the “ADD” button and make 3 more Type “A” rows with the IP addresses of: 185.199.109.153, 185.199.110.153, 185.199.111.153
+(don’t worry when you leave the page it will alphabetize the types)
+
+esto debiera crear unos dns de forma automatica, (al parecer)
+
+luego:
+
+- Go to your editor and in the repository of your website create a new file named “CNAME” in the root of your directory.
+
+este archivo CNAME, que no debe tener extension, debe contener en la primera y unica linea "eljatib.com", que es el nombre del servidor que yo compre
+
+despues commit y listo!!
+
 
 ## Detalles desde donde obtuve esta template
 
