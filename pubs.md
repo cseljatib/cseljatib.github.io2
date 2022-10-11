@@ -137,7 +137,6 @@ nutrients and plant recovery in fire-affected Araucaria araucana forests](https:
 Ponce DB, Donoso PJ, **Salas-Eljatib C**. 2017. [Differentiating structural and compositional attributes across successional stages in
 Chilean temperate rainforests](https://doi.org/10.3390/f8090329). **Forests** 8(9): 329
 
-
 `2017`
 Kralicek K, Huy B, Poudel KP, Temesgen H, **Salas C**. 2017. [Simultaneous estimation of above- and below-ground biomass in tropical
 forests of Viet Nam](https://doi.org/10.1016/j.foreco.2017.01.030). **Forest Ecology and Management** 390: 147–156.
@@ -221,7 +220,7 @@ Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the 
 **Salas C**. 2008. [¿Por qué comprar un programa estadístico si existe R?](http://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/1389/753) \[*Why purchase commercial statistical software if there is R?*{: style="color: green; opacity: 0.80;"} \]. **Ecología Austral** 18(2): 223–231.
 
 `2008`
-**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://academic.oup.com/forestscience/article/54/1/107/4604379). **Forest Science** 54(1): 107–122.
+**Salas C**, Stage AR, and Robinson AP. 2008. [Modeling effects of overstory density and competing vegetation on tree height growth](https://doi.org/10.1093/forestscience/54.1.107). **Forest Science** 54(1): 107–122.
 
 `2008`
 **Salas C**. 2008. [Sugerencias para mejorar la calidad de las revistas científicas chilenas: una aplicación en las ciencias forestales con Bosque](https://scielo.conicyt.cl/pdf/bosque/v29n1/art01.pdf) \[*Suggestions to improve the quality of Chilean scientific journals: an application to forest science with Bosque*{: style="color: green; opacity: 0.80;"} \]. **Bosque** 29(1): 3–10.
@@ -230,7 +229,7 @@ Gregoire TG, **Salas C**. 2009. [Ratio estimation with measurement error in the 
 **Salas C**. 2007. [¿Dónde va a parar la investigación forestal chilena de “excelencia”?: Pasado, presente y futuro](/myPubs/2007InvExc_bnativo.pdf) \[*Where the best chilean forest research is going?: Past, present, and future*{: style="color: green; opacity: 0.80;"} \]. **Bosque Nativo** 40: 10–13.
 
 `2007`
-Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and slope in models of forest species composition and productivity](https://academic.oup.com/forestscience/article/53/4/486/4604065). **Forest Science** 53(4): 486–492.
+Stage AR, and **Salas C**. 2007. [Interactions of elevation, aspect, and slope in models of forest species composition and productivity](https://doi.org/10.1093/forestscience/53.4.486). **Forest Science** 53(4): 486–492.
 
 `2006`
 **Salas C**, LeMay V, Núñez P, Pacheco P, and Espinosa A. 2006. [Spatial patterns in an old-growth *Nothofagus obliqua* forest in south-central
